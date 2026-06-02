@@ -29,10 +29,14 @@ COPY config.json* /app/
 COPY data/ /app/data/
 COPY materials/ /app/materials/
 
+# Copy the entrypoint script
+COPY entrypoint.sh /app/
+RUN chmod +x /app/entrypoint.sh
+
 # Expose the API port
 EXPOSE 8000
 
 # Command to run when the container starts:
 # 1. Run data.py to convert CSVs to education_platform.db
 # 2. Start the FastAPI server on 0.0.0.0 so it is accessible from outside the container
-CMD sh -c "python data.py && uvicorn api:app --host 0.0.0.0 --port 8000"
+ENTRYPOINT ["/app/entrypoint.sh"]
