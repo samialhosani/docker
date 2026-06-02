@@ -1,0 +1,501 @@
+﻿Student_ID,student_full_name_english,student_full_name_arabic,student_email_address,student_system_type,student_department_english,student_department_arabic,student_academic_year,student_gpa,student_enrollment_year
+C001,Mahmoud Gamal,محمود جمال,mahmoud.gamal24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,2.74,2024
+C002,Karim Youssef,كريم يوسف,karim.youssef24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.34,2024
+C003,Ahmed Ali,أحمد علي,ahmed.ali24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.87,2024
+C004,Hassan Abdelrahman,حسن عبدالرحمن,hassan.abdelrahman24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,2.14,2024
+C005,Youssef Hassan,يوسف حسن,youssef.hassan24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,2.34,2024
+C006,Hassan Sayed,حسن سيد,hassan.sayed24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,2.49,2024
+C007,Mohamed Fathy,محمد فتحي,mohamed.fathy24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.76,2024
+C008,Karim Youssef,كريم يوسف,karim.youssef24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.38,2024
+C009,Ali Gamal,علي جمال,ali.gamal24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.37,2024
+C010,Mostafa Gamal,مصطفى جمال,mostafa.gamal24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,2.46,2024
+C011,Youssef Youssef,يوسف يوسف,youssef.youssef24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.61,2024
+C012,Youssef Abdelrahman,يوسف عبدالرحمن,youssef.abdelrahman24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.54,2024
+C013,Omar Mahmoud,عمر محمود,omar.mahmoud24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.83,2024
+C014,Mahmoud Hassan,محمود حسن,mahmoud.hassan24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.75,2024
+C015,Ibrahim Hassan,إبراهيم حسن,ibrahim.hassan24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.43,2024
+C016,Ibrahim Gamal,إبراهيم جمال,ibrahim.gamal24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.79,2024
+C017,Mahmoud Fathy,محمود فتحي,mahmoud.fathy24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,2.92,2024
+C018,Ali Kamel,علي كامل,ali.kamel24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.28,2024
+C019,Mostafa Sayed,مصطفى سيد,mostafa.sayed24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.12,2024
+C020,Ali Ali,علي علي,ali.ali24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.49,2024
+C021,Mahmoud Fathy,محمود فتحي,mahmoud.fathy24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.8,2024
+C022,Mohamed Mahmoud,محمد محمود,mohamed.mahmoud24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.72,2024
+C023,Ahmed Sayed,أحمد سيد,ahmed.sayed24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.02,2024
+C024,Mostafa Eid,مصطفى عيد,mostafa.eid24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.51,2024
+C025,Karim Youssef,كريم يوسف,karim.youssef24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,2.31,2024
+C026,Mahmoud Ali,محمود علي,mahmoud.ali24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.58,2024
+C027,Ahmed Eid,أحمد عيد,ahmed.eid24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.19,2024
+C028,Mohamed Abdelrahman,محمد عبدالرحمن,mohamed.abdelrahman24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.76,2024
+C029,Omar Youssef,عمر يوسف,omar.youssef24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.06,2024
+C030,Mostafa Hassan,مصطفى حسن,mostafa.hassan24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.72,2024
+C031,Youssef Eid,يوسف عيد,youssef.eid24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.36,2024
+C032,Ibrahim Abdelrahman,إبراهيم عبدالرحمن,ibrahim.abdelrahman24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.36,2024
+C033,Omar Hassan,عمر حسن,omar.hassan24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.5,2024
+C034,Ali Youssef,علي يوسف,ali.youssef24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,2.68,2024
+C035,Hassan Gamal,حسن جمال,hassan.gamal24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.87,2024
+C036,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.01,2024
+C037,Ali Ali,علي علي,ali.ali24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.75,2024
+C038,Mostafa Youssef,مصطفى يوسف,mostafa.youssef24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.94,2024
+C039,Ali Hassan,علي حسن,ali.hassan24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.02,2024
+C040,Ibrahim Abdelrahman,إبراهيم عبدالرحمن,ibrahim.abdelrahman24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.74,2024
+C041,Mostafa Kamel,مصطفى كامل,mostafa.kamel24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.68,2024
+C042,Omar Ali,عمر علي,omar.ali24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.22,2024
+C043,Mahmoud Hassan,محمود حسن,mahmoud.hassan24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,2.75,2024
+C044,Omar Kamel,عمر كامل,omar.kamel24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.08,2024
+C045,Hassan Sayed,حسن سيد,hassan.sayed24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.84,2024
+C046,Karim Ali,كريم علي,karim.ali24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,2.65,2024
+C047,Ibrahim Gamal,إبراهيم جمال,ibrahim.gamal24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,2.22,2024
+C048,Omar Hassan,عمر حسن,omar.hassan24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.76,2024
+C049,Mahmoud Youssef,محمود يوسف,mahmoud.youssef24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.48,2024
+C050,Hassan Eid,حسن عيد,hassan.eid24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.76,2024
+C051,Mahmoud Eid,محمود عيد,mahmoud.eid24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,2.17,2024
+C052,Youssef Gamal,يوسف جمال,youssef.gamal24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.63,2024
+C053,Mohamed Eid,محمد عيد,mohamed.eid24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.53,2024
+C054,Karim Sayed,كريم سيد,karim.sayed24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.32,2024
+C055,Ahmed Youssef,أحمد يوسف,ahmed.youssef24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,2.33,2024
+C056,Ahmed Fathy,أحمد فتحي,ahmed.fathy24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.74,2024
+C057,Hassan Hassan,حسن حسن,hassan.hassan24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.93,2024
+C058,Ahmed Abdelrahman,أحمد عبدالرحمن,ahmed.abdelrahman24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.51,2024
+C059,Mostafa Sayed,مصطفى سيد,mostafa.sayed24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,2.4,2024
+C060,Mohamed Hassan,محمد حسن,mohamed.hassan24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.8,2024
+C061,Mohamed Abdelrahman,محمد عبدالرحمن,mohamed.abdelrahman24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.3,2024
+C062,Mostafa Abdelrahman,مصطفى عبدالرحمن,mostafa.abdelrahman24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.8,2024
+C063,Karim Hassan,كريم حسن,karim.hassan24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.24,2024
+C064,Mostafa Youssef,مصطفى يوسف,mostafa.youssef24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,2.13,2024
+C065,Mostafa Abdelrahman,مصطفى عبدالرحمن,mostafa.abdelrahman24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.18,2024
+C066,Mostafa Hassan,مصطفى حسن,mostafa.hassan24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.18,2024
+C067,Ahmed Ali,أحمد علي,ahmed.ali24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,2.14,2024
+C068,Omar Abdelrahman,عمر عبدالرحمن,omar.abdelrahman24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,2.12,2024
+C069,Mostafa Eid,مصطفى عيد,mostafa.eid24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.81,2024
+C070,Omar Kamel,عمر كامل,omar.kamel24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.14,2024
+C071,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,2.56,2024
+C072,Mahmoud Hassan,محمود حسن,mahmoud.hassan24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.43,2024
+C073,Omar Sayed,عمر سيد,omar.sayed24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.45,2024
+C074,Ahmed Ali,أحمد علي,ahmed.ali24@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,1,3.15,2024
+C075,Ahmed Kamel,أحمد كامل,ahmed.kamel24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.57,2024
+C076,Mostafa Ali,مصطفى علي,mostafa.ali24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.38,2024
+C077,Mostafa Ali,مصطفى علي,mostafa.ali24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.32,2024
+C078,Omar Youssef,عمر يوسف,omar.youssef24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,2.85,2024
+C079,Ahmed Ali,أحمد علي,ahmed.ali24@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,1,3.73,2024
+C080,Ali Ali,علي علي,ali.ali24@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,1,3.35,2024
+C081,Youssef Kamel,يوسف كامل,youssef.kamel23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.2,2023
+C082,Ibrahim Gamal,إبراهيم جمال,ibrahim.gamal23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,3.46,2023
+C083,Mahmoud Kamel,محمود كامل,mahmoud.kamel23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.5,2023
+C084,Mostafa Youssef,مصطفى يوسف,mostafa.youssef23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.07,2023
+C085,Omar Youssef,عمر يوسف,omar.youssef23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.84,2023
+C086,Youssef Sayed,يوسف سيد,youssef.sayed23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.93,2023
+C087,Mahmoud Gamal,محمود جمال,mahmoud.gamal23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.89,2023
+C088,Hassan Sayed,حسن سيد,hassan.sayed23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.2,2023
+C089,Youssef Ali,يوسف علي,youssef.ali23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,4,2023
+C090,Hassan Hassan,حسن حسن,hassan.hassan23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.94,2023
+C091,Ali Youssef,علي يوسف,ali.youssef23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.33,2023
+C092,Ibrahim Fathy,إبراهيم فتحي,ibrahim.fathy23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.96,2023
+C093,Ibrahim Fathy,إبراهيم فتحي,ibrahim.fathy23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,3.8,2023
+C094,Mohamed Hassan,محمد حسن,mohamed.hassan23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.76,2023
+C095,Ahmed Ali,أحمد علي,ahmed.ali23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.53,2023
+C096,Ali Mahmoud,علي محمود,ali.mahmoud23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.57,2023
+C097,Hassan Kamel,حسن كامل,hassan.kamel23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,3.91,2023
+C098,Karim Mahmoud,كريم محمود,karim.mahmoud23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,3.32,2023
+C099,Ali Abdelrahman,علي عبدالرحمن,ali.abdelrahman23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.31,2023
+C100,Ali Hassan,علي حسن,ali.hassan23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.44,2023
+C101,Mostafa Youssef,مصطفى يوسف,mostafa.youssef23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.16,2023
+C102,Hassan Youssef,حسن يوسف,hassan.youssef23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.12,2023
+C103,Omar Ali,عمر علي,omar.ali23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.11,2023
+C104,Youssef Ali,يوسف علي,youssef.ali23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.95,2023
+C105,Omar Mahmoud,عمر محمود,omar.mahmoud23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.31,2023
+C106,Omar Mahmoud,عمر محمود,omar.mahmoud23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.16,2023
+C107,Mostafa Ali,مصطفى علي,mostafa.ali23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.14,2023
+C108,Mohamed Ali,محمد علي,mohamed.ali23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.35,2023
+C109,Karim Youssef,كريم يوسف,karim.youssef23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.81,2023
+C110,Mohamed Fathy,محمد فتحي,mohamed.fathy23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.49,2023
+C111,Ibrahim Kamel,إبراهيم كامل,ibrahim.kamel23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.08,2023
+C112,Ali Kamel,علي كامل,ali.kamel23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.84,2023
+C113,Ibrahim Gamal,إبراهيم جمال,ibrahim.gamal23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,3.13,2023
+C114,Ahmed Youssef,أحمد يوسف,ahmed.youssef23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,3.87,2023
+C115,Mahmoud Abdelrahman,محمود عبدالرحمن,mahmoud.abdelrahman23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.34,2023
+C116,Karim Youssef,كريم يوسف,karim.youssef23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.48,2023
+C117,Mohamed Abdelrahman,محمد عبدالرحمن,mohamed.abdelrahman23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.26,2023
+C118,Ali Eid,علي عيد,ali.eid23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.6,2023
+C119,Karim Hassan,كريم حسن,karim.hassan23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,3.86,2023
+C120,Karim Mahmoud,كريم محمود,karim.mahmoud23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.02,2023
+C121,Mohamed Hassan,محمد حسن,mohamed.hassan23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,4,2023
+C122,Hassan Gamal,حسن جمال,hassan.gamal23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.15,2023
+C123,Mostafa Gamal,مصطفى جمال,mostafa.gamal23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.01,2023
+C124,Hassan Ali,حسن علي,hassan.ali23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.87,2023
+C125,Youssef Hassan,يوسف حسن,youssef.hassan23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.76,2023
+C126,Ibrahim Gamal,إبراهيم جمال,ibrahim.gamal23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.57,2023
+C127,Omar Abdelrahman,عمر عبدالرحمن,omar.abdelrahman23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,3.67,2023
+C128,Ibrahim Sayed,إبراهيم سيد,ibrahim.sayed23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.61,2023
+C129,Karim Youssef,كريم يوسف,karim.youssef23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,3.06,2023
+C130,Omar Mahmoud,عمر محمود,omar.mahmoud23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,3.63,2023
+C131,Ahmed Mahmoud,أحمد محمود,ahmed.mahmoud23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,3.86,2023
+C132,Youssef Gamal,يوسف جمال,youssef.gamal23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.88,2023
+C133,Hassan Ali,حسن علي,hassan.ali23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.53,2023
+C134,Karim Fathy,كريم فتحي,karim.fathy23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,3.48,2023
+C135,Mahmoud Hassan,محمود حسن,mahmoud.hassan23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.54,2023
+C136,Ali Eid,علي عيد,ali.eid23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.42,2023
+C137,Karim Hassan,كريم حسن,karim.hassan23@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,2,2.41,2023
+C138,Youssef Mahmoud,يوسف محمود,youssef.mahmoud23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,3.71,2023
+C139,Youssef Hassan,يوسف حسن,youssef.hassan23@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,2,2.98,2023
+C140,Youssef Abdelrahman,يوسف عبدالرحمن,youssef.abdelrahman23@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,2,2.18,2023
+C141,Youssef Kamel,يوسف كامل,youssef.kamel22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,3.66,2022
+C142,Mohamed Hassan,محمد حسن,mohamed.hassan22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,2.01,2022
+C143,Omar Eid,عمر عيد,omar.eid22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,3.27,2022
+C144,Youssef Abdelrahman,يوسف عبدالرحمن,youssef.abdelrahman22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,2.32,2022
+C145,Ali Mahmoud,علي محمود,ali.mahmoud22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,3.1,2022
+C146,Karim Sayed,كريم سيد,karim.sayed22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,3.12,2022
+C147,Ibrahim Kamel,إبراهيم كامل,ibrahim.kamel22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,2.15,2022
+C148,Ali Abdelrahman,علي عبدالرحمن,ali.abdelrahman22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,3.81,2022
+C149,Ali Sayed,علي سيد,ali.sayed22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,2.07,2022
+C150,Omar Youssef,عمر يوسف,omar.youssef22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,3.17,2022
+C151,Mahmoud Eid,محمود عيد,mahmoud.eid22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,2.86,2022
+C152,Mohamed Kamel,محمد كامل,mohamed.kamel22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,2.62,2022
+C153,Ahmed Hassan,أحمد حسن,ahmed.hassan22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,3.8,2022
+C154,Hassan Youssef,حسن يوسف,hassan.youssef22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,3.36,2022
+C155,Ibrahim Kamel,إبراهيم كامل,ibrahim.kamel22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,2.21,2022
+C156,Ahmed Hassan,أحمد حسن,ahmed.hassan22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,3.77,2022
+C157,Mahmoud Youssef,محمود يوسف,mahmoud.youssef22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,3.95,2022
+C158,Karim Fathy,كريم فتحي,karim.fathy22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,2.31,2022
+C159,Ibrahim Sayed,إبراهيم سيد,ibrahim.sayed22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,3.73,2022
+C160,Hassan Fathy,حسن فتحي,hassan.fathy22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,3.76,2022
+C161,Ahmed Abdelrahman,أحمد عبدالرحمن,ahmed.abdelrahman22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,2.36,2022
+C162,Hassan Mahmoud,حسن محمود,hassan.mahmoud22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,3.56,2022
+C163,Omar Youssef,عمر يوسف,omar.youssef22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,3.6,2022
+C164,Ali Sayed,علي سيد,ali.sayed22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,3.62,2022
+C165,Omar Sayed,عمر سيد,omar.sayed22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,2.32,2022
+C166,Ahmed Fathy,أحمد فتحي,ahmed.fathy22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,2.22,2022
+C167,Hassan Hassan,حسن حسن,hassan.hassan22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,3.72,2022
+C168,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,2.4,2022
+C169,Ali Fathy,علي فتحي,ali.fathy22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,2.7,2022
+C170,Ali Kamel,علي كامل,ali.kamel22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,2.45,2022
+C171,Ahmed Hassan,أحمد حسن,ahmed.hassan22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,2.39,2022
+C172,Mostafa Gamal,مصطفى جمال,mostafa.gamal22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,2.56,2022
+C173,Youssef Youssef,يوسف يوسف,youssef.youssef22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,3.93,2022
+C174,Mahmoud Youssef,محمود يوسف,mahmoud.youssef22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,2.7,2022
+C175,Mostafa Youssef,مصطفى يوسف,mostafa.youssef22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,2.8,2022
+C176,Mostafa Hassan,مصطفى حسن,mostafa.hassan22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,2.66,2022
+C177,Hassan Eid,حسن عيد,hassan.eid22@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,3,2.23,2022
+C178,Mostafa Abdelrahman,مصطفى عبدالرحمن,mostafa.abdelrahman22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,2.36,2022
+C179,Youssef Abdelrahman,يوسف عبدالرحمن,youssef.abdelrahman22@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,3,2.08,2022
+C180,Mostafa Sayed,مصطفى سيد,mostafa.sayed22@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,3,2.87,2022
+C181,Youssef Ali,يوسف علي,youssef.ali21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,3.57,2021
+C182,Ibrahim Kamel,إبراهيم كامل,ibrahim.kamel21@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,4,3.21,2021
+C183,Mahmoud Gamal,محمود جمال,mahmoud.gamal21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,2.23,2021
+C184,Ali Kamel,علي كامل,ali.kamel21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,2.38,2021
+C185,Youssef Mahmoud,يوسف محمود,youssef.mahmoud21@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,4,3.42,2021
+C186,Ahmed Abdelrahman,أحمد عبدالرحمن,ahmed.abdelrahman21@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,4,3.04,2021
+C187,Hassan Eid,حسن عيد,hassan.eid21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,3.37,2021
+C188,Mohamed Gamal,محمد جمال,mohamed.gamal21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,3.47,2021
+C189,Hassan Ali,حسن علي,hassan.ali21@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,4,2.73,2021
+C190,Mohamed Eid,محمد عيد,mohamed.eid21@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,4,3.9,2021
+C191,Mahmoud Abdelrahman,محمود عبدالرحمن,mahmoud.abdelrahman21@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,4,3.25,2021
+C192,Ibrahim Abdelrahman,إبراهيم عبدالرحمن,ibrahim.abdelrahman21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,3.7,2021
+C193,Karim Youssef,كريم يوسف,karim.youssef21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,3.8,2021
+C194,Omar Sayed,عمر سيد,omar.sayed21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,2.62,2021
+C195,Ibrahim Abdelrahman,إبراهيم عبدالرحمن,ibrahim.abdelrahman21@fci.mans.edu.eg,Credit,Software Engineering,هندسة البرمجيات,4,2.65,2021
+C196,Youssef Gamal,يوسف جمال,youssef.gamal21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,2.59,2021
+C197,Omar Mahmoud,عمر محمود,omar.mahmoud21@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,4,2.38,2021
+C198,Ali Gamal,علي جمال,ali.gamal21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,3.88,2021
+C199,Youssef Hassan,يوسف حسن,youssef.hassan21@fci.mans.edu.eg,Credit,BioMedical,الطبية الحيوية,4,3.5,2021
+C200,Ali Abdelrahman,علي عبدالرحمن,ali.abdelrahman21@fci.mans.edu.eg,Credit,AI,الذكاء الاصطناعي,4,3.23,2021
+G001,Karim Mahmoud,كريم محمود,karim.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G002,Hassan Eid,حسن عيد,hassan.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G003,Ali Ali,علي علي,ali.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G004,Mohamed Youssef,محمد يوسف,mohamed.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G005,Ali Abdelrahman,علي عبدالرحمن,ali.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G006,Mahmoud Eid,محمود عيد,mahmoud.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G007,Mahmoud Abdelrahman,محمود عبدالرحمن,mahmoud.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G008,Ahmed Fathy,أحمد فتحي,ahmed.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G009,Karim Sayed,كريم سيد,karim.sayed24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G010,Ali Hassan,علي حسن,ali.hassan24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G011,Karim Fathy,كريم فتحي,karim.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G012,Ali Eid,علي عيد,ali.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G013,Hassan Abdelrahman,حسن عبدالرحمن,hassan.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G014,Mahmoud Sayed,محمود سيد,mahmoud.sayed24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G015,Ali Gamal,علي جمال,ali.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G016,Mohamed Abdelrahman,محمد عبدالرحمن,mohamed.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G017,Mohamed Youssef,محمد يوسف,mohamed.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G018,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G019,Youssef Youssef,يوسف يوسف,youssef.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G020,Omar Youssef,عمر يوسف,omar.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G021,Omar Ali,عمر علي,omar.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G022,Ibrahim Ali,إبراهيم علي,ibrahim.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G023,Omar Eid,عمر عيد,omar.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G024,Youssef Hassan,يوسف حسن,youssef.hassan24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G025,Mostafa Youssef,مصطفى يوسف,mostafa.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G026,Hassan Youssef,حسن يوسف,hassan.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G027,Ali Mahmoud,علي محمود,ali.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G028,Mohamed Abdelrahman,محمد عبدالرحمن,mohamed.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G029,Mohamed Hassan,محمد حسن,mohamed.hassan24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G030,Karim Youssef,كريم يوسف,karim.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G031,Mostafa Mahmoud,مصطفى محمود,mostafa.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G032,Mohamed Ali,محمد علي,mohamed.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G033,Ibrahim Ali,إبراهيم علي,ibrahim.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G034,Mostafa Ali,مصطفى علي,mostafa.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G035,Ahmed Eid,أحمد عيد,ahmed.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G036,Omar Gamal,عمر جمال,omar.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G037,Youssef Kamel,يوسف كامل,youssef.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G038,Mahmoud Ali,محمود علي,mahmoud.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G039,Karim Eid,كريم عيد,karim.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G040,Ibrahim Sayed,إبراهيم سيد,ibrahim.sayed24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G041,Mahmoud Eid,محمود عيد,mahmoud.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G042,Mostafa Gamal,مصطفى جمال,mostafa.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G043,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G044,Karim Gamal,كريم جمال,karim.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G045,Ali Sayed,علي سيد,ali.sayed24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G046,Ibrahim Eid,إبراهيم عيد,ibrahim.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G047,Mahmoud Eid,محمود عيد,mahmoud.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G048,Ahmed Youssef,أحمد يوسف,ahmed.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G049,Ibrahim Mahmoud,إبراهيم محمود,ibrahim.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G050,Omar Kamel,عمر كامل,omar.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G051,Ahmed Sayed,أحمد سيد,ahmed.sayed24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G052,Ali Youssef,علي يوسف,ali.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G053,Mostafa Kamel,مصطفى كامل,mostafa.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G054,Youssef Mahmoud,يوسف محمود,youssef.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G055,Mahmoud Mahmoud,محمود محمود,mahmoud.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G056,Ali Mahmoud,علي محمود,ali.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G057,Karim Gamal,كريم جمال,karim.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G058,Hassan Abdelrahman,حسن عبدالرحمن,hassan.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G059,Ibrahim Ali,إبراهيم علي,ibrahim.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G060,Hassan Youssef,حسن يوسف,hassan.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G061,Mohamed Gamal,محمد جمال,mohamed.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G062,Mostafa Fathy,مصطفى فتحي,mostafa.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G063,Mahmoud Eid,محمود عيد,mahmoud.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G064,Hassan Fathy,حسن فتحي,hassan.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G065,Omar Gamal,عمر جمال,omar.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G066,Hassan Gamal,حسن جمال,hassan.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G067,Ali Hassan,علي حسن,ali.hassan24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G068,Youssef Youssef,يوسف يوسف,youssef.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G069,Ahmed Gamal,أحمد جمال,ahmed.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G070,Youssef Fathy,يوسف فتحي,youssef.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G071,Karim Youssef,كريم يوسف,karim.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G072,Hassan Eid,حسن عيد,hassan.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G073,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G074,Mostafa Youssef,مصطفى يوسف,mostafa.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G075,Youssef Abdelrahman,يوسف عبدالرحمن,youssef.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G076,Hassan Mahmoud,حسن محمود,hassan.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G077,Mahmoud Youssef,محمود يوسف,mahmoud.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G078,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G079,Ali Kamel,علي كامل,ali.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G080,Omar Fathy,عمر فتحي,omar.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G081,Mostafa Hassan,مصطفى حسن,mostafa.hassan24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G082,Omar Gamal,عمر جمال,omar.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G083,Hassan Gamal,حسن جمال,hassan.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G084,Hassan Gamal,حسن جمال,hassan.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G085,Ahmed Fathy,أحمد فتحي,ahmed.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G086,Karim Gamal,كريم جمال,karim.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G087,Omar Kamel,عمر كامل,omar.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G088,Ibrahim Kamel,إبراهيم كامل,ibrahim.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G089,Ahmed Youssef,أحمد يوسف,ahmed.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G090,Karim Eid,كريم عيد,karim.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G091,Mahmoud Sayed,محمود سيد,mahmoud.sayed24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G092,Ibrahim Eid,إبراهيم عيد,ibrahim.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G093,Omar Fathy,عمر فتحي,omar.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G094,Omar Fathy,عمر فتحي,omar.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G095,Ibrahim Ali,إبراهيم علي,ibrahim.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G096,Mohamed Abdelrahman,محمد عبدالرحمن,mohamed.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G097,Ahmed Kamel,أحمد كامل,ahmed.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G098,Hassan Mahmoud,حسن محمود,hassan.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G099,Youssef Mahmoud,يوسف محمود,youssef.mahmoud24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G100,Mahmoud Fathy,محمود فتحي,mahmoud.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G101,Ibrahim Gamal,إبراهيم جمال,ibrahim.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G102,Mostafa Ali,مصطفى علي,mostafa.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G103,Mostafa Fathy,مصطفى فتحي,mostafa.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G104,Ali Ali,علي علي,ali.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G105,Ali Abdelrahman,علي عبدالرحمن,ali.abdelrahman24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G106,Ibrahim Eid,إبراهيم عيد,ibrahim.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G107,Ibrahim Eid,إبراهيم عيد,ibrahim.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G108,Omar Gamal,عمر جمال,omar.gamal24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G109,Omar Kamel,عمر كامل,omar.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G110,Karim Youssef,كريم يوسف,karim.youssef24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G111,Mahmoud Fathy,محمود فتحي,mahmoud.fathy24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G112,Mostafa Kamel,مصطفى كامل,mostafa.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G113,Ibrahim Sayed,إبراهيم سيد,ibrahim.sayed24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G114,Karim Kamel,كريم كامل,karim.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G115,Ahmed Eid,أحمد عيد,ahmed.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G116,Hassan Eid,حسن عيد,hassan.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G117,Ahmed Eid,أحمد عيد,ahmed.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G118,Mohamed Kamel,محمد كامل,mohamed.kamel24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G119,Omar Eid,عمر عيد,omar.eid24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G120,Ahmed Ali,أحمد علي,ahmed.ali24@fci.mans.edu.eg,General,Undeclared,غير محدد,1,,2024
+G121,Ahmed Hassan,أحمد حسن,ahmed.hassan23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G122,Mahmoud Youssef,محمود يوسف,mahmoud.youssef23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G123,Mahmoud Ali,محمود علي,mahmoud.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G124,Ibrahim Ali,إبراهيم علي,ibrahim.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G125,Hassan Sayed,حسن سيد,hassan.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G126,Mohamed Eid,محمد عيد,mohamed.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G127,Mohamed Ali,محمد علي,mohamed.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G128,Ahmed Hassan,أحمد حسن,ahmed.hassan23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G129,Hassan Fathy,حسن فتحي,hassan.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G130,Karim Fathy,كريم فتحي,karim.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G131,Ahmed Mahmoud,أحمد محمود,ahmed.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G132,Hassan Abdelrahman,حسن عبدالرحمن,hassan.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G133,Youssef Abdelrahman,يوسف عبدالرحمن,youssef.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G134,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G135,Karim Ali,كريم علي,karim.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G136,Ali Gamal,علي جمال,ali.gamal23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G137,Ibrahim Ali,إبراهيم علي,ibrahim.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G138,Omar Sayed,عمر سيد,omar.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G139,Ibrahim Fathy,إبراهيم فتحي,ibrahim.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G140,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G141,Ibrahim Ali,إبراهيم علي,ibrahim.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G142,Mahmoud Ali,محمود علي,mahmoud.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G143,Ali Fathy,علي فتحي,ali.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G144,Ahmed Mahmoud,أحمد محمود,ahmed.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G145,Mostafa Abdelrahman,مصطفى عبدالرحمن,mostafa.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G146,Mostafa Ali,مصطفى علي,mostafa.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G147,Ali Sayed,علي سيد,ali.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G148,Youssef Mahmoud,يوسف محمود,youssef.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G149,Omar Hassan,عمر حسن,omar.hassan23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G150,Ahmed Abdelrahman,أحمد عبدالرحمن,ahmed.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G151,Hassan Abdelrahman,حسن عبدالرحمن,hassan.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G152,Ahmed Gamal,أحمد جمال,ahmed.gamal23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G153,Omar Mahmoud,عمر محمود,omar.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G154,Ahmed Sayed,أحمد سيد,ahmed.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G155,Karim Fathy,كريم فتحي,karim.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G156,Mohamed Fathy,محمد فتحي,mohamed.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G157,Karim Mahmoud,كريم محمود,karim.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G158,Ali Kamel,علي كامل,ali.kamel23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G159,Omar Sayed,عمر سيد,omar.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G160,Ahmed Ali,أحمد علي,ahmed.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G161,Mostafa Abdelrahman,مصطفى عبدالرحمن,mostafa.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G162,Mahmoud Eid,محمود عيد,mahmoud.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G163,Ahmed Abdelrahman,أحمد عبدالرحمن,ahmed.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G164,Omar Mahmoud,عمر محمود,omar.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G165,Mahmoud Abdelrahman,محمود عبدالرحمن,mahmoud.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G166,Hassan Sayed,حسن سيد,hassan.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G167,Mahmoud Eid,محمود عيد,mahmoud.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G168,Mohamed Abdelrahman,محمد عبدالرحمن,mohamed.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G169,Omar Eid,عمر عيد,omar.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G170,Ahmed Mahmoud,أحمد محمود,ahmed.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G171,Mostafa Fathy,مصطفى فتحي,mostafa.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G172,Karim Sayed,كريم سيد,karim.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G173,Hassan Kamel,حسن كامل,hassan.kamel23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G174,Omar Kamel,عمر كامل,omar.kamel23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G175,Mahmoud Mahmoud,محمود محمود,mahmoud.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G176,Omar Sayed,عمر سيد,omar.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G177,Karim Eid,كريم عيد,karim.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G178,Ibrahim Hassan,إبراهيم حسن,ibrahim.hassan23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G179,Karim Sayed,كريم سيد,karim.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G180,Karim Abdelrahman,كريم عبدالرحمن,karim.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G181,Mostafa Fathy,مصطفى فتحي,mostafa.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G182,Omar Sayed,عمر سيد,omar.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G183,Mostafa Eid,مصطفى عيد,mostafa.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G184,Mostafa Kamel,مصطفى كامل,mostafa.kamel23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G185,Ahmed Fathy,أحمد فتحي,ahmed.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G186,Ibrahim Eid,إبراهيم عيد,ibrahim.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G187,Hassan Fathy,حسن فتحي,hassan.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G188,Ahmed Ali,أحمد علي,ahmed.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G189,Karim Sayed,كريم سيد,karim.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G190,Hassan Sayed,حسن سيد,hassan.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G191,Youssef Mahmoud,يوسف محمود,youssef.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G192,Ahmed Eid,أحمد عيد,ahmed.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G193,Karim Mahmoud,كريم محمود,karim.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G194,Ibrahim Ali,إبراهيم علي,ibrahim.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G195,Mahmoud Eid,محمود عيد,mahmoud.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G196,Ahmed Fathy,أحمد فتحي,ahmed.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G197,Ali Sayed,علي سيد,ali.sayed23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G198,Omar Youssef,عمر يوسف,omar.youssef23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G199,Mohamed Mahmoud,محمد محمود,mohamed.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G200,Ibrahim Ali,إبراهيم علي,ibrahim.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G201,Ali Mahmoud,علي محمود,ali.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G202,Ahmed Kamel,أحمد كامل,ahmed.kamel23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G203,Omar Gamal,عمر جمال,omar.gamal23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G204,Mohamed Eid,محمد عيد,mohamed.eid23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G205,Karim Mahmoud,كريم محمود,karim.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G206,Ibrahim Gamal,إبراهيم جمال,ibrahim.gamal23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G207,Ahmed Abdelrahman,أحمد عبدالرحمن,ahmed.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G208,Mohamed Fathy,محمد فتحي,mohamed.fathy23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G209,Ibrahim Gamal,إبراهيم جمال,ibrahim.gamal23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G210,Omar Abdelrahman,عمر عبدالرحمن,omar.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G211,Mahmoud Gamal,محمود جمال,mahmoud.gamal23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G212,Youssef Hassan,يوسف حسن,youssef.hassan23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G213,Mahmoud Gamal,محمود جمال,mahmoud.gamal23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G214,Mahmoud Ali,محمود علي,mahmoud.ali23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G215,Mohamed Abdelrahman,محمد عبدالرحمن,mohamed.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G216,Karim Hassan,كريم حسن,karim.hassan23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G217,Karim Hassan,كريم حسن,karim.hassan23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G218,Karim Gamal,كريم جمال,karim.gamal23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G219,Karim Mahmoud,كريم محمود,karim.mahmoud23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G220,Mostafa Abdelrahman,مصطفى عبدالرحمن,mostafa.abdelrahman23@fci.mans.edu.eg,General,Undeclared,غير محدد,2,,2023
+G221,Ahmed Eid,أحمد عيد,ahmed.eid22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G222,Omar Fathy,عمر فتحي,omar.fathy22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G223,Ali Hassan,علي حسن,ali.hassan22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G224,Karim Gamal,كريم جمال,karim.gamal22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G225,Hassan Mahmoud,حسن محمود,hassan.mahmoud22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G226,Omar Gamal,عمر جمال,omar.gamal22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G227,Mahmoud Gamal,محمود جمال,mahmoud.gamal22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G228,Mohamed Mahmoud,محمد محمود,mohamed.mahmoud22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G229,Ali Fathy,علي فتحي,ali.fathy22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G230,Youssef Gamal,يوسف جمال,youssef.gamal22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G231,Ibrahim Fathy,إبراهيم فتحي,ibrahim.fathy22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G232,Ali Hassan,علي حسن,ali.hassan22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G233,Ibrahim Mahmoud,إبراهيم محمود,ibrahim.mahmoud22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G234,Hassan Ali,حسن علي,hassan.ali22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G235,Hassan Fathy,حسن فتحي,hassan.fathy22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G236,Ibrahim Sayed,إبراهيم سيد,ibrahim.sayed22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G237,Ibrahim Sayed,إبراهيم سيد,ibrahim.sayed22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G238,Ali Fathy,علي فتحي,ali.fathy22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G239,Ibrahim Ali,إبراهيم علي,ibrahim.ali22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G240,Youssef Hassan,يوسف حسن,youssef.hassan22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G241,Omar Hassan,عمر حسن,omar.hassan22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G242,Ali Mahmoud,علي محمود,ali.mahmoud22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G243,Mohamed Mahmoud,محمد محمود,mohamed.mahmoud22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G244,Mohamed Eid,محمد عيد,mohamed.eid22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G245,Youssef Fathy,يوسف فتحي,youssef.fathy22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G246,Ahmed Abdelrahman,أحمد عبدالرحمن,ahmed.abdelrahman22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G247,Karim Eid,كريم عيد,karim.eid22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G248,Mohamed Gamal,محمد جمال,mohamed.gamal22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G249,Youssef Sayed,يوسف سيد,youssef.sayed22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G250,Mohamed Youssef,محمد يوسف,mohamed.youssef22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G251,Ahmed Youssef,أحمد يوسف,ahmed.youssef22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G252,Ibrahim Eid,إبراهيم عيد,ibrahim.eid22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G253,Hassan Kamel,حسن كامل,hassan.kamel22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G254,Hassan Fathy,حسن فتحي,hassan.fathy22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G255,Mostafa Gamal,مصطفى جمال,mostafa.gamal22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G256,Ahmed Fathy,أحمد فتحي,ahmed.fathy22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G257,Mostafa Mahmoud,مصطفى محمود,mostafa.mahmoud22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G258,Ahmed Hassan,أحمد حسن,ahmed.hassan22@fci.mans.edu.eg,General,CS,علوم الحاسب,3,,2022
+G259,Ali Gamal,علي جمال,ali.gamal22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G260,Mohamed Eid,محمد عيد,mohamed.eid22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G261,Ibrahim Mahmoud,إبراهيم محمود,ibrahim.mahmoud22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G262,Ibrahim Kamel,إبراهيم كامل,ibrahim.kamel22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G263,Ibrahim Hassan,إبراهيم حسن,ibrahim.hassan22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G264,Mohamed Eid,محمد عيد,mohamed.eid22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G265,Ali Abdelrahman,علي عبدالرحمن,ali.abdelrahman22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G266,Ali Sayed,علي سيد,ali.sayed22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G267,Ali Fathy,علي فتحي,ali.fathy22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G268,Karim Ali,كريم علي,karim.ali22@fci.mans.edu.eg,General,IS,نظم معلومات,3,,2022
+G269,Ibrahim Kamel,إبراهيم كامل,ibrahim.kamel22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G270,Hassan Fathy,حسن فتحي,hassan.fathy22@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,3,,2022
+G271,Mohamed Youssef,محمد يوسف,mohamed.youssef21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G272,Karim Youssef,كريم يوسف,karim.youssef21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021
+G273,Omar Gamal,عمر جمال,omar.gamal21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G274,Youssef Sayed,يوسف سيد,youssef.sayed21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G275,Hassan Mahmoud,حسن محمود,hassan.mahmoud21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021
+G276,Ibrahim Fathy,إبراهيم فتحي,ibrahim.fathy21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G277,Ahmed Abdelrahman,أحمد عبدالرحمن,ahmed.abdelrahman21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G278,Ahmed Kamel,أحمد كامل,ahmed.kamel21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021
+G279,Hassan Abdelrahman,حسن عبدالرحمن,hassan.abdelrahman21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G280,Ibrahim Hassan,إبراهيم حسن,ibrahim.hassan21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G281,Omar Fathy,عمر فتحي,omar.fathy21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021
+G282,Mohamed Abdelrahman,محمد عبدالرحمن,mohamed.abdelrahman21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G283,Ibrahim Fathy,إبراهيم فتحي,ibrahim.fathy21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G284,Youssef Youssef,يوسف يوسف,youssef.youssef21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021
+G285,Omar Hassan,عمر حسن,omar.hassan21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G286,Mohamed Fathy,محمد فتحي,mohamed.fathy21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G287,Mahmoud Gamal,محمود جمال,mahmoud.gamal21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G288,Hassan Sayed,حسن سيد,hassan.sayed21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G289,Mohamed Fathy,محمد فتحي,mohamed.fathy21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G290,Youssef Hassan,يوسف حسن,youssef.hassan21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G291,Mostafa Kamel,مصطفى كامل,mostafa.kamel21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G292,Ibrahim Mahmoud,إبراهيم محمود,ibrahim.mahmoud21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021
+G293,Hassan Kamel,حسن كامل,hassan.kamel21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G294,Mostafa Abdelrahman,مصطفى عبدالرحمن,mostafa.abdelrahman21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G295,Youssef Kamel,يوسف كامل,youssef.kamel21@fci.mans.edu.eg,General,IS,نظم معلومات,4,,2021
+G296,Ali Youssef,علي يوسف,ali.youssef21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021
+G297,Mostafa Kamel,مصطفى كامل,mostafa.kamel21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021
+G298,Karim Kamel,كريم كامل,karim.kamel21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021
+G299,Mohamed Kamel,محمد كامل,mohamed.kamel21@fci.mans.edu.eg,General,CS,علوم الحاسب,4,,2021
+G300,Youssef Kamel,يوسف كامل,youssef.kamel21@fci.mans.edu.eg,General,IT,تكنولوجيا المعلومات,4,,2021

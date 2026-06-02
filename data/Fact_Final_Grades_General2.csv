@@ -1,0 +1,1656 @@
+﻿student_unique_id,course_unique_id,assignment_total,assignment_max_total,midterm_grade,final_grade,total_course_grade,performance_level,student_system_type,general_grade_level,used_mercy,course_status,grade_description
+C007,C062,8,20,16,56,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C007,C064,10,20,12,59,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C007,C065,13,20,19,55,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C007,C066,5,20,19,41,65,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C007,C070,13,20,19,41,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C012,C062,16,20,16,42,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C012,C065,3,20,17,45,65,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C012,C066,13,20,18,40,71,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C012,C067,11,20,16,56,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C012,C070,13,20,17,57,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C015,C061,20,20,18,50,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C015,C064,20,20,20,44,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C015,C066,11,20,19,51,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C015,C067,16,20,17,51,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C015,C068,15,20,20,51,86,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C016,C061,16,20,19,58,93,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C016,C065,18,20,12,60,90,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C016,C066,13,20,13,47,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C016,C067,13,20,14,51,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C016,C068,11,20,16,55,82,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C018,C064,16,20,18,57,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C018,C067,15,20,13,47,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C018,C068,15,20,17,40,72,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C018,C069,13,20,19,48,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C018,C070,18,20,20,55,93,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C020,C061,13,20,15,46,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C020,C063,15,20,15,50,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C020,C068,13,20,20,46,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C020,C069,11,20,12,56,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C020,C070,15,20,16,46,77,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C021,C062,20,20,15,58,93,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C021,C063,18,20,18,55,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C021,C065,18,20,20,40,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C021,C066,13,20,15,56,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C021,C067,13,20,20,60,93,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C022,C061,11,20,12,41,64,PASS,Credit,غير مُطبق,FALSE,Pass,مقبول
+C022,C063,13,20,14,57,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C022,C064,11,20,16,40,67,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C022,C069,15,20,16,56,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C022,C070,13,20,19,49,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C027,C062,15,20,18,41,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C027,C063,15,20,13,59,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C027,C064,5,20,15,60,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C027,C065,20,20,13,42,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C027,C067,10,20,12,58,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C028,C063,18,20,12,40,70,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C028,C066,13,20,13,41,67,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C028,C068,13,20,19,42,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C028,C069,15,20,13,55,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C028,C070,18,20,13,58,89,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C029,C061,13,20,20,59,92,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C029,C065,10,20,20,45,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C029,C066,15,20,13,54,82,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C029,C067,10,20,12,47,69,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C029,C070,13,20,16,47,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C035,C062,10,20,14,52,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C035,C063,16,20,19,51,86,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C035,C066,15,20,12,52,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C035,C067,18,20,16,51,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C035,C068,11,20,12,42,65,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C036,C061,6,20,17,57,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C036,C063,20,20,20,58,98,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C036,C066,10,20,20,57,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C036,C068,18,20,19,41,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C036,C070,18,20,18,55,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C038,C061,15,20,13,44,72,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C038,C064,15,20,15,59,89,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C038,C065,16,20,13,45,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C038,C066,18,20,13,49,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C038,C068,20,20,19,42,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C041,C062,18,20,18,40,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C041,C063,10,20,18,50,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C041,C064,15,20,19,42,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C041,C065,13,20,13,42,68,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C041,C066,10,20,14,51,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C048,C063,18,20,19,54,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C048,C064,16,20,18,48,82,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C048,C065,18,20,15,60,93,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C048,C067,16,20,20,52,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C048,C070,14,20,20,42,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C049,C061,18,20,18,40,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C049,C062,15,20,12,43,70,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C049,C065,13,20,13,41,67,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C049,C066,13,20,14,47,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C049,C070,16,20,14,56,86,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C052,C062,18,20,18,53,89,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C052,C063,11,20,19,50,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C052,C064,15,20,12,47,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C052,C066,11,20,15,49,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C052,C067,18,20,15,46,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C057,C061,20,20,19,59,98,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C057,C062,5,20,19,51,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C057,C063,20,20,14,60,94,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C057,C066,11,20,12,56,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C057,C068,14,20,15,52,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C060,C062,6,20,16,48,70,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C060,C063,10,20,15,54,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C060,C064,20,20,16,55,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C060,C065,15,20,17,40,72,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C060,C069,8,20,16,60,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C062,C061,14,20,12,44,70,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C062,C062,18,20,13,58,89,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C062,C064,11,20,12,50,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C062,C065,13,20,17,45,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C062,C067,20,20,18,42,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C063,C061,15,20,19,45,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C063,C063,18,20,19,51,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C063,C066,15,20,13,59,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C063,C068,18,20,16,45,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C063,C070,18,20,12,55,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C070,C061,13,20,13,53,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C070,C065,18,20,17,45,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C070,C066,20,20,15,55,90,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C070,C067,18,20,20,55,93,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C070,C068,16,20,20,52,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C072,C061,11,20,16,42,69,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C072,C062,10,20,12,45,67,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C072,C065,18,20,14,59,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C072,C066,11,20,16,58,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C072,C067,18,20,20,56,94,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C076,C062,8,20,15,51,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C076,C065,11,20,20,60,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C076,C066,16,20,17,57,90,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C076,C069,11,20,15,58,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C076,C070,9,20,15,52,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C078,C061,16,20,18,46,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C078,C063,15,20,13,54,82,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C078,C066,13,20,16,55,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C078,C068,18,20,17,57,92,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C078,C070,11,20,13,43,67,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C079,C063,15,20,13,47,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C079,C064,18,20,19,44,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C079,C065,13,20,16,43,72,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C079,C068,18,20,18,44,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C079,C070,13,20,12,56,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C082,C062,18,20,20,50,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C082,C064,6,20,12,57,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C082,C065,18,20,15,51,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C082,C066,18,20,17,49,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C082,C068,10,20,19,44,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C086,C062,14,20,20,46,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C086,C064,15,20,12,49,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C086,C065,15,20,12,43,70,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C086,C066,16,20,13,53,82,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C086,C069,15,20,18,51,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C092,C061,5,20,16,45,66,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C092,C062,20,20,16,45,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C092,C063,18,20,15,59,92,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C092,C064,15,20,19,42,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C092,C070,13,20,14,56,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C093,C061,16,20,14,60,90,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C093,C063,13,20,15,55,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C093,C066,18,20,16,51,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C093,C069,8,20,15,59,82,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C093,C070,18,20,19,47,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C095,C061,13,20,17,40,70,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C095,C062,16,20,17,43,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C095,C063,15,20,17,53,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C095,C064,13,20,16,60,89,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C095,C069,8,20,20,51,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C096,C062,13,20,19,48,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C096,C063,13,20,17,50,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C096,C065,13,20,20,40,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C096,C069,15,20,13,40,68,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C096,C070,18,20,14,58,90,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C099,C061,14,20,18,45,77,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C099,C062,5,20,13,57,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C099,C065,18,20,17,44,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C099,C067,13,20,17,54,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C099,C069,18,20,17,48,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C100,C061,8,20,14,45,67,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C100,C063,15,20,15,47,77,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C100,C065,18,20,16,54,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C100,C067,20,20,13,48,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C100,C069,10,20,16,48,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C103,C062,20,20,18,56,94,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C103,C063,5,20,15,48,68,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C103,C066,8,20,12,55,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C103,C067,13,20,16,54,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C103,C068,13,20,20,57,90,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C114,C062,10,20,17,42,69,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C114,C064,9,20,15,55,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C114,C066,11,20,16,44,71,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C114,C067,16,20,17,42,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C114,C068,16,20,16,42,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C116,C062,13,20,15,45,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C116,C063,20,20,20,57,97,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C116,C068,13,20,16,44,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C116,C069,13,20,20,40,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C116,C070,13,20,14,42,69,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C117,C064,18,20,13,47,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C117,C065,20,20,16,43,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C117,C066,10,20,16,49,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C117,C068,16,20,16,56,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C117,C069,18,20,16,45,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C119,C061,20,20,16,48,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C119,C062,13,20,19,41,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C119,C064,16,20,19,43,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C119,C068,20,20,12,56,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C119,C070,15,20,19,41,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C126,C061,20,20,13,60,93,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C126,C064,18,20,13,57,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C126,C065,13,20,13,41,67,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C126,C066,16,20,19,60,95,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C126,C070,11,20,20,46,77,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C127,C061,16,20,20,47,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C127,C063,15,20,13,58,86,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C127,C066,11,20,17,55,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C127,C068,13,20,16,40,69,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C127,C069,11,20,12,60,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C131,C066,10,20,17,44,71,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C131,C067,15,20,14,44,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C131,C068,18,20,20,43,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C131,C069,11,20,14,42,67,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C131,C070,20,20,18,43,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C137,C062,20,20,15,49,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C137,C063,16,20,14,44,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C137,C065,15,20,17,46,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C137,C066,20,20,12,56,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C137,C069,16,20,20,40,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C141,C061,16,20,18,54,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C141,C062,18,20,12,40,70,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C141,C064,11,20,14,56,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C141,C065,6,20,15,57,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C141,C067,10,20,17,59,86,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C144,C061,13,20,19,56,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C144,C063,15,20,15,55,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C144,C064,6,20,18,41,65,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C144,C066,18,20,14,53,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C144,C069,13,20,18,43,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C145,C063,18,20,18,47,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C145,C064,10,20,12,53,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C145,C065,20,20,20,49,89,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C145,C067,13,20,14,54,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C145,C068,18,20,14,56,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C146,C062,11,20,15,55,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C146,C063,10,20,15,51,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C146,C065,18,20,18,53,89,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C146,C066,15,20,12,59,86,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C146,C067,3,20,16,44,63,PASS,Credit,غير مُطبق,FALSE,Pass,مقبول
+C150,C062,15,20,14,45,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C150,C064,11,20,14,60,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C150,C066,18,20,16,41,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C150,C069,3,20,17,56,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C150,C070,15,20,19,47,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C157,C063,13,20,13,56,82,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C157,C064,15,20,18,54,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C157,C067,20,20,15,40,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C157,C068,20,20,19,58,97,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C157,C069,3,20,15,56,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C162,C061,15,20,15,52,82,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C162,C063,10,20,17,53,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C162,C064,16,20,18,47,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C162,C065,13,20,15,46,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C162,C070,18,20,15,57,90,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C163,C063,16,20,19,43,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C163,C066,20,20,17,50,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C163,C067,18,20,13,46,77,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C163,C069,8,20,20,41,69,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C163,C070,15,20,15,57,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C165,C064,6,20,13,53,72,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C165,C065,18,20,14,51,83,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C165,C066,18,20,20,49,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C165,C067,10,20,19,46,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C165,C069,13,20,14,60,87,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C169,C061,10,20,13,51,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C169,C062,13,20,15,43,71,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C169,C067,12,20,12,50,74,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C169,C069,18,20,19,54,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C169,C070,11,20,17,47,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C172,C061,15,20,12,53,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C172,C065,10,20,17,58,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C172,C066,20,20,18,42,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C172,C067,20,20,13,58,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C172,C070,20,20,20,58,98,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C174,C062,13,20,13,54,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C174,C064,18,20,20,44,82,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C174,C065,14,20,16,60,90,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C174,C068,18,20,19,54,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C174,C070,13,20,16,52,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C178,C061,8,20,16,44,68,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C178,C062,18,20,12,58,88,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C178,C063,11,20,15,59,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C178,C064,6,20,17,46,69,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C178,C067,10,20,13,46,69,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C179,C061,20,20,14,50,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C179,C064,20,20,12,52,84,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C179,C066,20,20,15,41,76,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C179,C067,16,20,19,54,89,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C179,C069,6,20,20,47,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C182,C061,11,20,17,51,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C182,C064,13,20,16,46,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C182,C065,12,20,15,48,75,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C182,C066,13,20,19,48,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C182,C068,15,20,15,49,79,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C191,C061,16,20,15,60,91,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C191,C065,18,20,14,49,81,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C191,C066,10,20,19,51,80,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C191,C068,16,20,12,45,73,PASS,Credit,غير مُطبق,FALSE,Pass,جيد
+C191,C069,18,20,16,56,90,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C195,C064,15,20,15,55,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C195,C065,15,20,14,49,78,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C195,C066,11,20,16,58,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C195,C067,14,20,20,43,77,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+C195,C068,13,20,12,60,85,PASS,Credit,غير مُطبق,FALSE,Pass,جيد جدًا
+G001,C001,14,20,15,52,47,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G001,C003,16,20,18,57,47,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G001,C006,18,20,17,49,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G001,C007,15,20,18,53,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G001,C009,15,20,16,56,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G002,C003,15,20,20,43,78,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G002,C004,18,20,13,54,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G002,C005,18,20,18,59,95,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G002,C006,18,20,19,50,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G002,C010,13,20,16,52,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G003,C002,15,20,19,42,45,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G003,C004,8,20,16,58,48,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G003,C006,13,20,15,54,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G003,C007,15,20,18,48,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G003,C009,18,20,14,54,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G004,C001,15,20,17,49,81,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G004,C002,10,20,12,52,74,WEAK,General,جيد,FALSE,Pass,جيد
+G004,C004,15,20,15,44,74,PASS,General,جيد,FALSE,Pass,جيد
+G004,C007,13,20,14,43,70,PASS,General,جيد,FALSE,Pass,جيد
+G004,C010,10,20,17,57,84,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G005,C002,20,20,17,42,79,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G005,C005,10,20,14,51,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G005,C006,10,20,19,44,73,PASS,General,جيد,FALSE,Pass,جيد
+G005,C007,8,20,18,44,70,PASS,General,جيد,FALSE,Pass,جيد
+G005,C009,12,20,13,58,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G006,C001,5,20,12,59,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G006,C002,15,20,20,56,91,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G006,C004,13,20,19,50,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G006,C006,18,20,19,60,97,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G006,C007,14,20,17,48,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G007,C002,8,20,20,57,46,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G007,C004,20,20,13,54,48,WEAK,General,ممتاز,FALSE,Fail,جيد جدًا
+G007,C005,18,20,20,40,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G007,C008,18,20,14,53,85,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G007,C009,11,20,14,46,71,PASS,General,جيد,FALSE,Pass,جيد
+G008,C003,18,20,20,40,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G008,C006,15,20,14,41,70,WEAK,General,جيد,FALSE,Pass,جيد
+G008,C007,15,20,18,50,83,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G008,C008,16,20,19,45,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G008,C009,13,20,18,46,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G009,C001,11,20,17,49,48,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G009,C002,18,20,19,40,46,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G009,C007,15,20,18,58,91,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G009,C008,16,20,18,52,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G009,C010,15,20,16,43,74,PASS,General,جيد,FALSE,Pass,جيد
+G010,C001,18,20,19,46,36,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G010,C002,16,20,12,57,41,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G010,C005,15,20,17,42,43,PASS,General,جيد,FALSE,Fail,جيد
+G010,C008,16,20,16,57,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G010,C009,15,20,12,45,72,WEAK,General,جيد,FALSE,Pass,جيد
+G011,C001,14,20,12,60,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G011,C006,8,20,18,54,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G011,C008,11,20,19,42,72,PASS,General,جيد,FALSE,Pass,جيد
+G011,C009,11,20,15,55,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G011,C010,13,20,12,45,70,PASS,General,جيد,FALSE,Pass,جيد
+G012,C002,10,20,13,49,72,WEAK,General,جيد,FALSE,Pass,جيد
+G012,C004,11,20,19,47,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G012,C005,15,20,19,55,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G012,C006,14,20,16,53,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G012,C007,16,20,17,54,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G013,C003,20,20,13,45,46,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G013,C004,18,20,20,41,47,FAIL,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G013,C008,13,20,19,41,73,PASS,General,جيد,FALSE,Pass,جيد
+G013,C009,16,20,16,59,91,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G013,C010,15,20,17,48,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G014,C003,16,20,14,60,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G014,C004,12,20,13,53,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G014,C006,3,20,17,46,66,PASS,General,جيد,FALSE,Pass,جيد
+G014,C008,13,20,16,41,70,WEAK,General,جيد,FALSE,Pass,جيد
+G014,C010,16,20,17,49,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G015,C003,18,20,18,48,84,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G015,C004,15,20,13,54,82,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G015,C006,15,20,18,49,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G015,C007,6,20,19,50,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G015,C008,18,20,18,41,77,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G016,C004,15,20,19,48,48,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G016,C006,15,20,13,59,48,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G016,C007,14,20,14,41,69,PASS,General,جيد,FALSE,Pass,جيد
+G016,C009,18,20,16,47,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G016,C010,18,20,13,48,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G017,C002,18,20,12,51,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G017,C004,5,20,15,57,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G017,C007,15,20,13,53,81,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G017,C008,18,20,19,58,95,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G017,C010,13,20,16,42,71,WEAK,General,جيد,FALSE,Pass,جيد
+G018,C002,13,20,15,46,74,PASS,General,جيد,FALSE,Pass,جيد
+G018,C004,13,20,17,51,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G018,C008,18,20,18,51,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G018,C009,13,20,12,51,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G018,C010,15,20,14,56,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G019,C004,18,20,17,47,82,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G019,C007,20,20,15,49,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G019,C008,9,20,13,55,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G019,C009,10,20,15,58,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G019,C010,6,20,20,60,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G020,C001,8,20,20,52,46,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G020,C002,8,20,20,58,47,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G020,C005,15,20,13,59,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G020,C007,20,20,18,53,91,FAIL,General,ممتاز,FALSE,Pass,جيد جدًا
+G020,C010,18,20,12,60,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G021,C004,15,20,12,40,46,WEAK,General,جيد,FALSE,Fail,جيد
+G021,C005,10,20,16,55,46,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G021,C006,13,20,15,60,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G021,C008,18,20,17,53,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G021,C009,16,20,17,56,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G022,C001,10,20,20,40,46,PASS,General,جيد,FALSE,Fail,جيد
+G022,C003,15,20,18,46,47,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G022,C007,11,20,16,44,71,PASS,General,جيد,FALSE,Pass,جيد
+G022,C008,11,20,13,42,66,PASS,General,جيد,FALSE,Pass,جيد
+G022,C010,18,20,17,50,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G023,C002,9,20,16,46,44,FAIL,General,جيد,FALSE,Fail,جيد
+G023,C003,20,20,19,59,33,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G023,C004,8,20,12,44,32,FAIL,General,مقبول,FALSE,Fail,مقبول
+G023,C009,16,20,12,44,72,PASS,General,جيد,FALSE,Pass,جيد
+G023,C010,10,20,14,43,67,PASS,General,جيد,FALSE,Pass,جيد
+G024,C001,10,20,17,60,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G024,C002,18,20,20,57,95,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G024,C004,13,20,14,40,67,PASS,General,جيد,FALSE,Pass,جيد
+G024,C008,16,20,15,40,71,PASS,General,جيد,FALSE,Pass,جيد
+G024,C009,18,20,15,57,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G025,C002,18,20,19,60,47,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G025,C004,15,20,16,57,45,WEAK,General,ممتاز,FALSE,Fail,جيد جدًا
+G025,C005,15,20,15,46,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G025,C007,15,20,13,55,83,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G025,C008,16,20,18,44,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G026,C003,3,20,17,53,73,PASS,General,جيد,FALSE,Pass,جيد
+G026,C004,13,20,13,55,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G026,C005,10,20,14,53,77,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G026,C006,18,20,15,46,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G026,C007,5,20,14,56,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G027,C002,6,20,13,42,45,WEAK,General,مقبول,FALSE,Fail,مقبول
+G027,C003,13,20,13,41,46,PASS,General,جيد,FALSE,Fail,جيد
+G027,C004,16,20,12,53,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G027,C008,15,20,15,51,81,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G027,C010,11,20,20,44,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G028,C004,13,20,20,41,74,PASS,General,جيد,FALSE,Pass,جيد
+G028,C005,13,20,12,44,69,PASS,General,جيد,FALSE,Pass,جيد
+G028,C008,10,20,15,54,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G028,C009,8,20,17,58,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G028,C010,8,20,13,42,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G029,C002,18,20,19,46,83,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G029,C003,18,20,17,57,92,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G029,C004,16,20,17,50,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G029,C008,15,20,13,48,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G029,C009,15,20,17,40,72,PASS,General,جيد,FALSE,Pass,جيد
+G030,C001,15,20,15,53,83,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G030,C002,18,20,17,45,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G030,C005,13,20,13,42,68,PASS,General,جيد,FALSE,Pass,جيد
+G030,C006,3,20,20,46,69,PASS,General,جيد,FALSE,Pass,جيد
+G030,C008,13,20,19,60,92,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G031,C003,14,20,15,54,44,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G031,C005,13,20,14,59,43,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G031,C006,16,20,12,54,31,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G031,C007,15,20,16,44,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G031,C008,15,20,14,59,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G032,C001,15,20,19,40,74,PASS,General,جيد,FALSE,Pass,جيد
+G032,C005,8,20,12,51,71,WEAK,General,جيد,FALSE,Pass,جيد
+G032,C006,16,20,14,60,90,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G032,C009,14,20,12,59,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G032,C010,13,20,17,45,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G033,C002,6,20,17,43,47,PASS,General,جيد,FALSE,Fail,جيد
+G033,C004,10,20,12,60,47,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G033,C005,16,20,19,59,94,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G033,C007,20,20,16,56,92,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G033,C009,3,20,14,45,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G034,C001,18,20,14,59,91,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G034,C005,13,20,20,51,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G034,C006,18,20,15,57,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G034,C008,8,20,12,55,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G034,C010,15,20,20,40,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G035,C002,18,20,16,56,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G035,C003,11,20,12,56,79,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G035,C004,13,20,12,46,71,WEAK,General,جيد,FALSE,Pass,جيد
+G035,C005,13,20,13,51,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G035,C006,11,20,12,45,68,WEAK,General,جيد,FALSE,Pass,جيد
+G036,C001,18,20,13,56,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G036,C003,14,20,19,49,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G036,C005,11,20,14,45,70,PASS,General,جيد,FALSE,Pass,جيد
+G036,C007,11,20,12,52,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G036,C008,11,20,19,50,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G037,C002,15,20,13,40,68,PASS,General,جيد,FALSE,Pass,جيد
+G037,C003,6,20,16,56,78,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G037,C006,14,20,19,46,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G037,C009,18,20,13,43,74,FAIL,General,جيد,FALSE,Pass,جيد
+G037,C010,15,20,13,55,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G038,C001,18,20,15,51,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G038,C006,11,20,14,56,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G038,C007,18,20,12,44,74,PASS,General,جيد,FALSE,Pass,جيد
+G038,C008,15,20,12,56,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G038,C009,13,20,12,59,84,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G039,C002,13,20,17,55,47,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G039,C003,18,20,19,56,45,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G039,C005,10,20,19,47,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G039,C006,10,20,16,54,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G039,C008,20,20,20,55,95,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G040,C001,18,20,12,47,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G040,C005,10,20,16,56,82,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G040,C007,13,20,18,57,88,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G040,C009,13,20,18,43,74,PASS,General,جيد,FALSE,Pass,جيد
+G040,C010,16,20,18,42,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G041,C002,11,20,13,52,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G041,C004,13,20,16,50,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G041,C006,11,20,14,40,65,PASS,General,جيد,FALSE,Pass,جيد
+G041,C007,8,20,15,50,73,PASS,General,جيد,FALSE,Pass,جيد
+G041,C009,14,20,17,48,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G042,C002,15,20,17,60,45,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G042,C004,5,20,15,47,47,PASS,General,جيد,FALSE,Fail,جيد
+G042,C005,15,20,14,45,74,PASS,General,جيد,FALSE,Pass,جيد
+G042,C009,15,20,18,41,74,PASS,General,جيد,FALSE,Pass,جيد
+G042,C010,14,20,20,54,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G043,C001,20,20,19,57,41,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G043,C002,16,20,18,57,42,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G043,C004,16,20,12,45,38,PASS,General,جيد,FALSE,Fail,جيد
+G043,C006,14,20,15,55,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G043,C008,15,20,18,57,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G044,C002,13,20,19,52,84,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G044,C003,18,20,15,41,74,PASS,General,جيد,FALSE,Pass,جيد
+G044,C004,18,20,12,56,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G044,C007,10,20,14,44,68,PASS,General,جيد,FALSE,Pass,جيد
+G044,C010,15,20,18,57,90,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G045,C003,13,20,17,53,83,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G045,C004,13,20,20,44,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G045,C005,14,20,16,55,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G045,C009,16,20,20,51,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G045,C010,8,20,12,45,65,PASS,General,جيد,FALSE,Pass,جيد
+G046,C001,13,20,16,51,39,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G046,C002,16,20,13,60,34,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G046,C005,15,20,18,56,31,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G046,C007,8,20,15,49,72,PASS,General,جيد,FALSE,Pass,جيد
+G046,C008,18,20,16,45,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G047,C001,13,20,20,48,32,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G047,C002,16,20,17,52,30,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G047,C003,13,20,17,56,33,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G047,C007,0,20,12,48,60,WEAK,General,مقبول,FALSE,Pass,مقبول
+G047,C009,15,20,20,56,91,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G048,C001,15,20,17,44,48,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G048,C002,14,20,20,60,47,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G048,C006,8,20,14,60,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G048,C008,9,20,13,43,65,PASS,General,جيد,FALSE,Pass,جيد
+G048,C010,13,20,14,49,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G049,C002,18,20,13,46,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G049,C005,13,20,13,56,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G049,C006,9,20,13,44,66,PASS,General,جيد,FALSE,Pass,جيد
+G049,C007,16,20,17,58,91,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G049,C010,15,20,16,57,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G050,C002,18,20,16,43,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G050,C003,15,20,16,56,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G050,C006,16,20,15,41,72,PASS,General,جيد,FALSE,Pass,جيد
+G050,C007,3,20,20,53,76,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G050,C008,15,20,12,55,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G051,C002,16,20,20,51,87,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G051,C003,15,20,17,58,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G051,C004,20,20,16,41,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G051,C009,11,20,19,56,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G051,C010,18,20,18,40,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G052,C001,13,20,17,48,78,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G052,C003,18,20,18,59,95,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G052,C004,18,20,13,44,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G052,C008,15,20,12,57,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G052,C010,8,20,18,48,74,PASS,General,جيد,FALSE,Pass,جيد
+G053,C001,5,20,17,55,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G053,C002,6,20,15,50,71,WEAK,General,جيد,FALSE,Pass,جيد
+G053,C004,18,20,18,45,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G053,C005,18,20,16,41,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G053,C007,16,20,13,47,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G054,C001,14,20,15,52,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G054,C003,15,20,19,51,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G054,C006,18,20,20,45,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G054,C007,18,20,12,46,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G054,C010,10,20,19,48,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G055,C002,15,20,14,45,74,PASS,General,جيد,FALSE,Pass,جيد
+G055,C003,10,20,17,45,72,PASS,General,جيد,FALSE,Pass,جيد
+G055,C004,9,20,16,41,66,PASS,General,جيد,FALSE,Pass,جيد
+G055,C005,16,20,13,42,71,PASS,General,جيد,FALSE,Pass,جيد
+G055,C009,18,20,19,45,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G056,C001,13,20,18,50,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G056,C004,15,20,15,59,89,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G056,C005,20,20,19,60,99,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G056,C007,18,20,19,56,93,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G056,C008,10,20,12,56,78,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G057,C003,13,20,15,50,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G057,C004,20,20,19,53,92,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G057,C005,16,20,18,40,74,PASS,General,جيد,FALSE,Pass,جيد
+G057,C008,16,20,12,56,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G057,C010,11,20,14,51,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G058,C001,5,20,13,59,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G058,C003,13,20,14,49,76,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G058,C004,11,20,19,55,85,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G058,C006,14,20,18,60,92,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G058,C007,16,20,16,55,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G059,C001,9,20,20,41,70,PASS,General,جيد,FALSE,Pass,جيد
+G059,C002,18,20,13,40,71,PASS,General,جيد,FALSE,Pass,جيد
+G059,C008,11,20,13,42,66,PASS,General,جيد,FALSE,Pass,جيد
+G059,C009,16,20,14,40,70,FAIL,General,جيد,FALSE,Pass,جيد
+G059,C010,18,20,16,57,91,FAIL,General,ممتاز,FALSE,Pass,جيد جدًا
+G060,C002,10,20,15,45,48,PASS,General,جيد,FALSE,Fail,جيد
+G060,C005,13,20,18,57,45,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G060,C007,13,20,17,57,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G060,C009,8,20,20,59,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G060,C010,8,20,20,45,73,PASS,General,جيد,FALSE,Pass,جيد
+G061,C002,10,20,15,53,43,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G061,C003,13,20,12,52,30,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G061,C004,18,20,16,47,30,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G061,C008,18,20,20,49,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G061,C009,11,20,18,59,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G062,C001,18,20,15,45,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G062,C005,18,20,20,50,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G062,C006,10,20,15,52,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G062,C007,20,20,15,55,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G062,C008,18,20,12,43,73,WEAK,General,جيد,FALSE,Pass,جيد
+G063,C001,6,20,20,55,46,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G063,C003,18,20,15,55,46,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G063,C005,16,20,20,52,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G063,C007,16,20,12,49,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G063,C010,20,20,17,41,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G064,C001,20,20,12,49,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G064,C002,13,20,20,49,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G064,C003,18,20,18,60,96,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G064,C008,15,20,16,57,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G064,C010,15,20,14,55,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G065,C001,11,20,18,41,48,WEAK,General,جيد,FALSE,Fail,جيد
+G065,C006,13,20,15,57,45,WEAK,General,ممتاز,FALSE,Fail,جيد جدًا
+G065,C007,13,20,15,49,77,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G065,C009,13,20,20,60,93,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G065,C010,11,20,17,47,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G066,C001,18,20,19,57,94,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G066,C003,20,20,19,48,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G066,C007,20,20,19,47,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G066,C009,14,20,13,54,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G066,C010,16,20,12,40,68,PASS,General,جيد,FALSE,Pass,جيد
+G067,C001,15,20,12,42,69,PASS,General,جيد,FALSE,Pass,جيد
+G067,C002,20,20,12,44,76,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G067,C006,18,20,14,56,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G067,C007,18,20,16,46,80,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G067,C008,14,20,16,47,77,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G068,C003,14,20,18,50,48,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G068,C004,11,20,20,50,46,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G068,C005,13,20,13,47,73,PASS,General,جيد,FALSE,Pass,جيد
+G068,C006,10,20,19,43,72,PASS,General,جيد,FALSE,Pass,جيد
+G068,C009,13,20,19,56,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G069,C002,10,20,15,41,66,PASS,General,جيد,FALSE,Pass,جيد
+G069,C005,13,20,19,46,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G069,C006,15,20,12,54,81,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G069,C007,18,20,13,49,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G069,C009,18,20,18,42,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G070,C001,15,20,16,53,84,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G070,C004,18,20,13,44,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G070,C006,13,20,12,55,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G070,C008,10,20,19,47,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G070,C010,10,20,18,44,72,WEAK,General,جيد,FALSE,Pass,جيد
+G071,C001,14,20,15,48,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G071,C002,14,20,16,53,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G071,C004,8,20,17,45,70,PASS,General,جيد,FALSE,Pass,جيد
+G071,C006,15,20,19,60,94,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G071,C008,20,20,13,43,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G072,C002,14,20,18,47,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G072,C003,6,20,20,44,70,WEAK,General,جيد,FALSE,Pass,جيد
+G072,C004,15,20,19,43,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G072,C007,13,20,18,42,73,PASS,General,جيد,FALSE,Pass,جيد
+G072,C010,13,20,18,58,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G073,C002,15,20,13,58,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G073,C003,18,20,18,41,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G073,C004,18,20,18,46,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G073,C009,11,20,15,46,72,PASS,General,جيد,FALSE,Pass,جيد
+G073,C010,16,20,13,59,88,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G074,C001,11,20,15,40,45,PASS,General,جيد,FALSE,Fail,جيد
+G074,C002,15,20,18,60,47,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G074,C007,3,20,16,49,68,FAIL,General,جيد,FALSE,Pass,جيد
+G074,C008,13,20,19,53,85,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G074,C010,16,20,13,57,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G075,C001,18,20,16,58,45,WEAK,General,ممتاز,FALSE,Fail,جيد جدًا
+G075,C005,15,20,20,60,46,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G075,C006,3,20,20,56,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G075,C007,18,20,18,57,93,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G075,C009,15,20,16,45,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G076,C001,11,20,20,42,73,PASS,General,جيد,FALSE,Pass,جيد
+G076,C002,14,20,17,52,83,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G076,C006,8,20,20,52,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G076,C009,11,20,15,46,72,WEAK,General,جيد,FALSE,Pass,جيد
+G076,C010,20,20,12,47,79,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G077,C001,15,20,20,59,94,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G077,C002,13,20,12,50,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G077,C005,18,20,20,46,84,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G077,C008,9,20,15,43,67,PASS,General,جيد,FALSE,Pass,جيد
+G077,C009,20,20,15,43,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G078,C002,13,20,16,52,81,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G078,C003,16,20,12,48,76,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G078,C004,18,20,19,51,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G078,C009,16,20,14,42,72,PASS,General,جيد,FALSE,Pass,جيد
+G078,C010,15,20,18,56,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G079,C004,10,20,16,44,70,PASS,General,جيد,FALSE,Pass,جيد
+G079,C005,11,20,16,56,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G079,C006,15,20,13,46,74,PASS,General,جيد,FALSE,Pass,جيد
+G079,C008,10,20,12,54,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G079,C009,3,20,13,56,72,PASS,General,جيد,FALSE,Pass,جيد
+G080,C001,18,20,12,47,32,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G080,C002,18,20,14,50,36,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G080,C008,10,20,14,46,30,PASS,General,جيد,FALSE,Fail,جيد
+G080,C009,16,20,18,45,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G080,C010,13,20,19,42,74,PASS,General,جيد,FALSE,Pass,جيد
+G081,C002,8,20,15,53,45,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G081,C003,20,20,13,43,45,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G081,C004,20,20,13,53,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G081,C006,18,20,19,52,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G081,C008,13,20,17,59,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G082,C004,13,20,19,47,45,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G082,C005,16,20,14,50,45,FAIL,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G082,C006,16,20,15,58,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G082,C008,18,20,13,46,77,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G082,C009,15,20,19,42,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G083,C001,13,20,18,53,30,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G083,C005,10,20,20,56,32,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G083,C006,8,20,15,40,33,PASS,General,مقبول,FALSE,Fail,مقبول
+G083,C009,13,20,20,53,86,FAIL,General,ممتاز,FALSE,Pass,جيد جدًا
+G083,C010,10,20,19,47,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G084,C001,20,20,20,51,48,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G084,C003,18,20,13,54,48,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G084,C006,10,20,14,60,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G084,C008,10,20,13,59,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G084,C010,13,20,12,57,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G085,C004,20,20,20,53,46,WEAK,General,ممتاز,FALSE,Fail,جيد جدًا
+G085,C006,18,20,12,45,45,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G085,C007,20,20,17,50,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G085,C008,15,20,16,41,72,PASS,General,جيد,FALSE,Pass,جيد
+G085,C009,13,20,17,40,70,PASS,General,جيد,FALSE,Pass,جيد
+G086,C001,5,20,13,42,48,PASS,General,مقبول,FALSE,Fail,مقبول
+G086,C002,13,20,13,59,46,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G086,C004,13,20,13,48,74,PASS,General,جيد,FALSE,Pass,جيد
+G086,C006,16,20,19,43,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G086,C008,14,20,20,42,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G087,C002,18,20,19,45,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G087,C004,20,20,14,45,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G087,C006,16,20,13,51,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G087,C007,13,20,15,54,82,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G087,C010,15,20,18,53,86,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G088,C004,18,20,17,49,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G088,C005,11,20,15,53,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G088,C006,10,20,12,57,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G088,C008,13,20,20,59,92,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G088,C009,13,20,14,41,68,PASS,General,جيد,FALSE,Pass,جيد
+G089,C003,13,20,12,59,45,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G089,C004,16,20,12,48,47,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G089,C006,13,20,19,41,73,WEAK,General,جيد,FALSE,Pass,جيد
+G089,C007,18,20,20,46,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G089,C008,13,20,19,59,91,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G090,C001,13,20,17,43,73,PASS,General,جيد,FALSE,Pass,جيد
+G090,C005,20,20,18,45,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G090,C006,16,20,20,49,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G090,C008,8,20,19,46,73,PASS,General,جيد,FALSE,Pass,جيد
+G090,C009,11,20,17,41,69,WEAK,General,جيد,FALSE,Pass,جيد
+G091,C001,20,20,15,42,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G091,C005,11,20,13,44,68,PASS,General,جيد,FALSE,Pass,جيد
+G091,C006,11,20,20,56,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G091,C007,13,20,20,43,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G091,C008,15,20,15,47,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G092,C001,20,20,14,46,46,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G092,C002,13,20,18,51,47,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G092,C005,20,20,18,55,93,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G092,C006,13,20,16,60,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G092,C008,18,20,14,48,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G093,C003,20,20,18,41,48,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G093,C004,15,20,12,59,45,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G093,C005,18,20,19,59,96,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G093,C007,15,20,18,51,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G093,C009,13,20,15,60,88,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G094,C001,10,20,19,40,69,WEAK,General,جيد,FALSE,Pass,جيد
+G094,C004,18,20,14,46,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G094,C006,20,20,12,49,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G094,C009,9,20,13,60,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G094,C010,18,20,19,53,90,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G095,C002,20,20,16,54,47,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G095,C004,13,20,19,51,46,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G095,C005,16,20,15,40,71,PASS,General,جيد,FALSE,Pass,جيد
+G095,C007,15,20,18,47,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G095,C010,18,20,20,46,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G096,C001,16,20,20,56,92,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G096,C002,13,20,13,51,77,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G096,C005,10,20,15,53,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G096,C008,10,20,15,56,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G096,C010,13,20,16,52,81,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G097,C003,15,20,20,54,45,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G097,C005,20,20,13,58,48,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G097,C006,16,20,18,49,83,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G097,C008,11,20,19,55,85,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G097,C009,5,20,14,47,66,PASS,General,جيد,FALSE,Pass,جيد
+G098,C001,18,20,18,45,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G098,C004,13,20,19,56,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G098,C007,20,20,15,46,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G098,C009,16,20,14,59,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G098,C010,18,20,17,51,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G099,C001,15,20,19,50,84,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G099,C003,13,20,19,48,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G099,C004,18,20,20,51,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G099,C007,15,20,18,44,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G099,C008,11,20,17,49,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G100,C001,18,20,15,43,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G100,C002,16,20,19,43,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G100,C003,18,20,16,45,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G100,C006,11,20,16,51,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G100,C008,16,20,15,49,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G101,C001,10,20,20,60,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G101,C002,18,20,20,53,91,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G101,C003,8,20,14,55,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G101,C004,20,20,16,51,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G101,C009,13,20,16,56,85,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G102,C002,11,20,17,52,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G102,C003,15,20,19,50,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G102,C006,18,20,16,40,74,PASS,General,جيد,FALSE,Pass,جيد
+G102,C007,16,20,19,57,92,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G102,C010,11,20,17,50,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G103,C002,18,20,14,48,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G103,C003,15,20,19,47,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G103,C004,6,20,12,50,68,PASS,General,جيد,FALSE,Pass,جيد
+G103,C007,18,20,20,46,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G103,C008,16,20,19,44,79,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G104,C002,20,20,13,59,92,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G104,C005,18,20,19,54,91,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G104,C006,13,20,16,53,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G104,C008,20,20,18,49,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G104,C010,5,20,18,48,71,PASS,General,جيد,FALSE,Pass,جيد
+G105,C002,20,20,13,59,38,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G105,C005,13,20,18,50,32,FAIL,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G105,C006,18,20,18,51,38,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G105,C009,8,20,16,53,77,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G105,C010,8,20,14,59,81,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G106,C001,10,20,14,53,77,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G106,C003,16,20,12,41,69,WEAK,General,جيد,FALSE,Pass,جيد
+G106,C007,15,20,14,53,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G106,C009,16,20,15,46,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G106,C010,11,20,12,56,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G107,C002,8,20,18,43,69,PASS,General,جيد,FALSE,Pass,جيد
+G107,C003,20,20,15,41,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G107,C005,13,20,14,51,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G107,C006,11,20,14,54,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G107,C010,18,20,12,48,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G108,C001,11,20,18,53,82,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G108,C002,11,20,19,40,70,PASS,General,جيد,FALSE,Pass,جيد
+G108,C003,16,20,19,42,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G108,C007,15,20,18,46,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G108,C009,13,20,18,43,74,PASS,General,جيد,FALSE,Pass,جيد
+G109,C002,13,20,15,49,77,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G109,C003,13,20,15,46,74,PASS,General,جيد,FALSE,Pass,جيد
+G109,C008,11,20,20,55,86,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G109,C009,14,20,13,56,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G109,C010,10,20,19,45,74,PASS,General,جيد,FALSE,Pass,جيد
+G110,C001,16,20,13,60,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G110,C002,18,20,17,46,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G110,C006,18,20,19,53,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G110,C007,15,20,17,52,84,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G110,C008,6,20,20,57,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G111,C001,20,20,17,59,96,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G111,C003,18,20,13,45,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G111,C005,6,20,17,57,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G111,C007,15,20,20,54,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G111,C008,15,20,19,47,81,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G112,C002,16,20,12,53,81,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G112,C003,15,20,14,51,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G112,C005,18,20,17,49,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G112,C007,3,20,20,58,81,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G112,C009,14,20,16,58,88,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G113,C001,10,20,20,58,45,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G113,C002,20,20,12,48,45,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G113,C003,16,20,13,57,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G113,C004,9,20,19,51,79,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G113,C005,15,20,12,53,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G114,C003,10,20,17,58,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G114,C006,16,20,13,44,73,WEAK,General,جيد,FALSE,Pass,جيد
+G114,C007,15,20,17,52,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G114,C008,15,20,14,45,74,PASS,General,جيد,FALSE,Pass,جيد
+G114,C010,14,20,15,45,74,PASS,General,جيد,FALSE,Pass,جيد
+G115,C002,6,20,17,51,74,PASS,General,جيد,FALSE,Pass,جيد
+G115,C004,18,20,13,49,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G115,C005,18,20,19,58,95,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G115,C008,13,20,17,51,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G115,C010,18,20,19,57,94,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G116,C006,15,20,20,41,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G116,C007,15,20,14,45,74,PASS,General,جيد,FALSE,Pass,جيد
+G116,C008,20,20,13,55,88,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G116,C009,15,20,12,53,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G116,C010,10,20,15,47,72,PASS,General,جيد,FALSE,Pass,جيد
+G117,C001,20,20,17,41,42,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G117,C003,18,20,13,52,32,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G117,C004,13,20,14,57,31,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G117,C006,16,20,14,53,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G117,C007,15,20,16,54,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G118,C001,8,20,15,45,68,WEAK,General,جيد,FALSE,Pass,جيد
+G118,C003,18,20,15,44,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G118,C005,11,20,12,44,67,FAIL,General,جيد,FALSE,Pass,جيد
+G118,C006,13,20,17,45,75,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G118,C007,18,20,17,40,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G119,C002,13,20,15,49,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G119,C003,18,20,15,60,93,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G119,C006,15,20,13,40,68,PASS,General,جيد,FALSE,Pass,جيد
+G119,C009,11,20,14,43,68,PASS,General,جيد,FALSE,Pass,جيد
+G119,C010,18,20,14,57,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G120,C003,20,20,20,47,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G120,C004,8,20,18,46,72,PASS,General,جيد,FALSE,Pass,جيد
+G120,C008,15,20,17,59,91,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G120,C009,13,20,13,51,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G120,C010,14,20,16,53,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G121,C011,15,20,15,32,47,FAIL,General,مقبول,FALSE,Fail,مقبول
+G121,C015,15,20,13,38,47,PASS,General,جيد,FALSE,Fail,جيد
+G121,C017,18,20,13,52,83,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G121,C018,13,20,12,50,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G121,C019,13,20,10,55,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G122,C013,10,20,13,54,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G122,C014,15,20,18,36,69,PASS,General,جيد,FALSE,Pass,جيد
+G122,C017,8,20,17,48,73,FAIL,General,جيد,FALSE,Pass,جيد
+G122,C018,16,20,12,37,65,PASS,General,جيد,FALSE,Pass,جيد
+G122,C019,20,20,13,49,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G123,C013,13,20,13,49,46,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G123,C014,16,20,12,36,45,PASS,General,مقبول,FALSE,Fail,مقبول
+G123,C015,16,20,17,42,75,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G123,C017,13,20,14,42,69,WEAK,General,جيد,FALSE,Pass,جيد
+G123,C018,13,20,10,53,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G124,C011,5,20,18,47,48,PASS,General,جيد,FALSE,Fail,جيد
+G124,C014,13,20,14,47,45,PASS,General,جيد,FALSE,Fail,جيد
+G124,C017,15,20,17,35,67,PASS,General,جيد,FALSE,Pass,جيد
+G124,C018,10,20,15,53,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G124,C020,13,20,11,43,67,PASS,General,جيد,FALSE,Pass,جيد
+G125,C014,18,20,14,37,69,WEAK,General,جيد,FALSE,Pass,جيد
+G125,C015,18,20,13,51,82,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G125,C016,18,20,10,52,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G125,C019,18,20,12,48,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G125,C020,11,20,13,41,65,WEAK,General,جيد,FALSE,Pass,جيد
+G126,C012,20,20,11,50,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G126,C014,11,20,17,50,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G126,C015,16,20,17,41,74,PASS,General,جيد,FALSE,Pass,جيد
+G126,C018,18,20,18,48,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G126,C020,12,20,14,46,72,WEAK,General,جيد,FALSE,Pass,جيد
+G127,C012,20,20,11,36,67,PASS,General,جيد,FALSE,Pass,جيد
+G127,C014,14,20,16,54,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G127,C015,13,20,15,53,81,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G127,C018,13,20,18,37,68,FAIL,General,جيد,FALSE,Pass,جيد
+G127,C019,3,20,13,54,70,PASS,General,جيد,FALSE,Pass,جيد
+G128,C011,15,20,14,47,39,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G128,C014,20,20,17,49,37,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G128,C016,5,20,13,54,42,PASS,General,جيد,FALSE,Fail,جيد
+G128,C017,18,20,17,35,70,PASS,General,جيد,FALSE,Pass,جيد
+G128,C020,8,20,13,45,66,PASS,General,جيد,FALSE,Pass,جيد
+G129,C012,13,20,15,35,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G129,C014,10,20,18,30,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G129,C015,18,20,10,44,72,PASS,General,جيد,FALSE,Pass,جيد
+G129,C018,16,20,15,38,69,PASS,General,جيد,FALSE,Pass,جيد
+G129,C019,18,20,13,52,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G130,C014,6,20,10,43,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G130,C015,14,20,16,53,83,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G130,C017,16,20,17,53,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G130,C019,15,20,14,46,75,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G130,C020,15,20,15,47,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G131,C013,3,20,17,51,71,PASS,General,جيد,FALSE,Pass,جيد
+G131,C015,20,20,12,36,68,PASS,General,جيد,FALSE,Pass,جيد
+G131,C016,11,20,18,45,74,PASS,General,جيد,FALSE,Pass,جيد
+G131,C017,11,20,11,53,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G131,C020,3,20,17,47,67,PASS,General,جيد,FALSE,Pass,جيد
+G132,C011,14,20,11,36,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G132,C012,14,20,17,54,85,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G132,C014,11,20,17,33,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G132,C015,18,20,12,44,74,PASS,General,جيد,FALSE,Pass,جيد
+G132,C019,8,20,17,33,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G133,C012,15,20,13,47,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G133,C013,13,20,12,49,74,PASS,General,جيد,FALSE,Pass,جيد
+G133,C014,13,20,10,37,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G133,C015,18,20,16,43,77,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G133,C018,13,20,12,43,68,WEAK,General,جيد,FALSE,Pass,جيد
+G134,C011,10,20,17,55,82,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G134,C012,10,20,11,52,73,PASS,General,جيد,FALSE,Pass,جيد
+G134,C013,15,20,15,54,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G134,C014,20,20,11,46,77,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G134,C019,10,20,13,34,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G135,C013,18,20,15,48,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G135,C014,10,20,16,45,71,PASS,General,جيد,FALSE,Pass,جيد
+G135,C015,16,20,16,31,63,FAIL,General,مقبول,FALSE,Pass,مقبول
+G135,C017,16,20,10,49,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G135,C018,16,20,11,32,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G136,C013,11,20,10,49,70,PASS,General,جيد,FALSE,Pass,جيد
+G136,C016,13,20,17,37,67,PASS,General,جيد,FALSE,Pass,جيد
+G136,C017,16,20,10,46,72,PASS,General,جيد,FALSE,Pass,جيد
+G136,C018,13,20,14,42,69,PASS,General,جيد,FALSE,Pass,جيد
+G136,C019,16,20,16,30,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G137,C014,16,20,12,54,47,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G137,C016,16,20,17,50,45,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G137,C017,18,20,17,46,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G137,C018,20,20,14,46,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G137,C020,18,20,12,47,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G138,C012,16,20,16,48,43,FAIL,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G138,C013,15,20,14,51,31,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G138,C014,15,20,17,41,32,PASS,General,جيد,FALSE,Fail,جيد
+G138,C015,20,20,18,39,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G138,C016,15,20,12,48,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G139,C011,18,20,12,43,73,PASS,General,جيد,FALSE,Pass,جيد
+G139,C012,10,20,15,51,76,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G139,C013,18,20,11,32,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G139,C018,13,20,13,44,70,PASS,General,جيد,FALSE,Pass,جيد
+G139,C019,13,20,10,50,73,PASS,General,جيد,FALSE,Pass,جيد
+G140,C011,13,20,17,43,46,PASS,General,جيد,FALSE,Fail,جيد
+G140,C012,13,20,11,55,45,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G140,C014,9,20,15,35,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G140,C017,10,20,16,53,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G140,C019,15,20,11,43,69,PASS,General,جيد,FALSE,Pass,جيد
+G141,C011,8,20,18,44,70,WEAK,General,جيد,FALSE,Pass,جيد
+G141,C013,18,20,10,52,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G141,C015,15,20,16,40,71,PASS,General,جيد,FALSE,Pass,جيد
+G141,C017,20,20,17,47,84,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G141,C020,13,20,14,48,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G142,C011,20,20,13,52,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G142,C014,8,20,16,33,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G142,C015,14,20,15,52,81,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G142,C019,15,20,10,41,66,WEAK,General,جيد,FALSE,Pass,جيد
+G142,C020,13,20,14,40,67,WEAK,General,جيد,FALSE,Pass,جيد
+G143,C011,18,20,15,31,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G143,C013,10,20,17,35,62,FAIL,General,مقبول,FALSE,Pass,مقبول
+G143,C014,8,20,12,37,57,FAIL,General,مقبول,FALSE,Pass,مقبول
+G143,C018,16,20,10,34,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G143,C020,18,20,13,30,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G144,C011,18,20,17,51,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G144,C012,14,20,15,52,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G144,C013,16,20,18,55,89,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G144,C015,15,20,10,35,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G144,C018,8,20,11,40,59,WEAK,General,مقبول,FALSE,Pass,مقبول
+G145,C014,3,20,17,38,45,PASS,General,مقبول,FALSE,Fail,مقبول
+G145,C015,10,20,10,30,47,PASS,General,مقبول,FALSE,Fail,مقبول
+G145,C016,5,20,18,34,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G145,C017,14,20,13,40,67,PASS,General,جيد,FALSE,Pass,جيد
+G145,C018,13,20,14,44,71,FAIL,General,جيد,FALSE,Pass,جيد
+G146,C011,13,20,15,34,62,WEAK,General,مقبول,FALSE,Pass,مقبول
+G146,C014,15,20,16,55,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G146,C015,18,20,17,52,87,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G146,C017,11,20,13,31,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G146,C018,20,20,17,34,71,PASS,General,جيد,FALSE,Pass,جيد
+G147,C012,18,20,10,48,36,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G147,C014,13,20,16,38,42,PASS,General,جيد,FALSE,Fail,جيد
+G147,C016,15,20,17,37,36,PASS,General,جيد,FALSE,Fail,جيد
+G147,C017,16,20,14,50,80,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G147,C018,10,20,17,51,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G148,C011,13,20,16,38,67,PASS,General,جيد,FALSE,Pass,جيد
+G148,C014,13,20,18,36,67,PASS,General,جيد,FALSE,Pass,جيد
+G148,C015,18,20,12,34,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G148,C016,15,20,13,47,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G148,C017,10,20,16,50,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G149,C016,16,20,16,39,71,WEAK,General,جيد,FALSE,Pass,جيد
+G149,C017,15,20,11,33,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G149,C018,18,20,11,50,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G149,C019,10,20,12,38,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G149,C020,11,20,11,34,56,PASS,General,مقبول,FALSE,Pass,مقبول
+G150,C012,8,20,12,40,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G150,C013,13,20,10,52,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G150,C015,20,20,14,43,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G150,C016,20,20,15,50,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G150,C019,11,20,16,52,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G151,C012,15,20,17,44,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G151,C013,11,20,10,45,66,PASS,General,جيد,FALSE,Pass,جيد
+G151,C018,18,20,12,38,68,PASS,General,جيد,FALSE,Pass,جيد
+G151,C019,11,20,15,43,69,PASS,General,جيد,FALSE,Pass,جيد
+G151,C020,9,20,18,37,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G152,C012,9,20,18,46,73,WEAK,General,جيد,FALSE,Pass,جيد
+G152,C015,18,20,16,46,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G152,C016,16,20,11,35,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G152,C018,0,20,18,55,73,PASS,General,جيد,FALSE,Pass,جيد
+G152,C019,20,20,18,41,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G153,C011,13,20,11,32,47,PASS,General,مقبول,FALSE,Fail,مقبول
+G153,C012,16,20,13,54,45,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G153,C016,5,20,17,46,68,PASS,General,جيد,FALSE,Pass,جيد
+G153,C017,16,20,15,30,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G153,C018,13,20,11,37,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G154,C011,15,20,12,30,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G154,C012,16,20,16,49,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G154,C014,15,20,17,36,68,PASS,General,جيد,FALSE,Pass,جيد
+G154,C015,20,20,13,54,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G154,C019,14,20,14,45,73,FAIL,General,جيد,FALSE,Pass,جيد
+G155,C012,20,20,11,48,79,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G155,C013,18,20,17,34,69,PASS,General,جيد,FALSE,Pass,جيد
+G155,C016,16,20,15,49,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G155,C019,15,20,14,31,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G155,C020,14,20,13,52,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G156,C011,20,20,13,31,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G156,C012,13,20,12,31,56,WEAK,General,مقبول,FALSE,Pass,مقبول
+G156,C014,13,20,12,54,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G156,C016,10,20,13,39,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G156,C019,18,20,12,44,74,PASS,General,جيد,FALSE,Pass,جيد
+G157,C011,13,20,14,48,45,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G157,C016,16,20,18,38,46,PASS,General,جيد,FALSE,Fail,جيد
+G157,C017,11,20,14,49,74,PASS,General,جيد,FALSE,Pass,جيد
+G157,C018,14,20,13,41,68,PASS,General,جيد,FALSE,Pass,جيد
+G157,C019,20,20,15,41,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G158,C011,16,20,12,37,65,PASS,General,جيد,FALSE,Pass,جيد
+G158,C014,8,20,10,39,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G158,C015,15,20,14,41,70,PASS,General,جيد,FALSE,Pass,جيد
+G158,C017,13,20,11,54,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G158,C019,11,20,18,39,68,PASS,General,جيد,FALSE,Pass,جيد
+G159,C014,18,20,15,35,42,PASS,General,جيد,FALSE,Fail,جيد
+G159,C016,20,20,14,33,40,WEAK,General,جيد,FALSE,Fail,جيد
+G159,C017,9,20,15,31,42,PASS,General,مقبول,FALSE,Fail,مقبول
+G159,C018,20,20,18,49,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G159,C020,6,20,13,36,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G160,C013,3,20,15,53,48,PASS,General,جيد,FALSE,Fail,جيد
+G160,C014,18,20,11,45,46,PASS,General,جيد,FALSE,Fail,جيد
+G160,C015,15,20,16,32,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G160,C017,18,20,18,40,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G160,C018,14,20,16,52,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G161,C012,18,20,17,55,90,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G161,C015,16,20,15,43,74,PASS,General,جيد,FALSE,Pass,جيد
+G161,C016,16,20,17,47,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G161,C017,18,20,13,33,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G161,C020,6,20,16,37,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G162,C011,11,20,16,53,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G162,C013,15,20,10,32,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G162,C015,18,20,11,51,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G162,C016,11,20,16,54,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G162,C018,11,20,10,55,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G163,C014,11,20,10,44,65,PASS,General,جيد,FALSE,Pass,جيد
+G163,C015,14,20,15,37,66,WEAK,General,جيد,FALSE,Pass,جيد
+G163,C016,18,20,13,48,79,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G163,C017,13,20,18,47,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G163,C019,18,20,15,36,69,PASS,General,جيد,FALSE,Pass,جيد
+G164,C012,3,20,10,30,45,PASS,General,ضعيف,TRUE,Fail,مقبول
+G164,C014,18,20,14,46,47,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G164,C015,18,20,17,50,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G164,C017,18,20,12,53,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G164,C019,6,20,18,43,67,PASS,General,جيد,FALSE,Pass,جيد
+G165,C012,13,20,14,44,71,WEAK,General,جيد,FALSE,Pass,جيد
+G165,C013,11,20,15,33,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G165,C015,18,20,15,34,67,PASS,General,جيد,FALSE,Pass,جيد
+G165,C017,13,20,12,32,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G165,C019,18,20,13,34,65,PASS,General,جيد,FALSE,Pass,جيد
+G166,C012,16,20,17,32,31,PASS,General,جيد,FALSE,Fail,جيد
+G166,C013,15,20,11,31,30,PASS,General,مقبول,FALSE,Fail,مقبول
+G166,C016,18,20,15,47,36,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G166,C019,13,20,11,33,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G166,C020,15,20,16,40,71,PASS,General,جيد,FALSE,Pass,جيد
+G167,C011,8,20,18,55,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G167,C013,16,20,15,47,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G167,C016,8,20,12,35,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G167,C017,11,20,13,47,71,WEAK,General,جيد,FALSE,Pass,جيد
+G167,C018,13,20,11,44,68,WEAK,General,جيد,FALSE,Pass,جيد
+G168,C013,13,20,15,42,70,PASS,General,جيد,FALSE,Pass,جيد
+G168,C016,20,20,11,49,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G168,C017,13,20,15,46,74,PASS,General,جيد,FALSE,Pass,جيد
+G168,C018,8,20,16,44,68,PASS,General,جيد,FALSE,Pass,جيد
+G168,C020,16,20,14,48,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G169,C011,10,20,17,35,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G169,C012,18,20,13,32,63,WEAK,General,مقبول,FALSE,Pass,مقبول
+G169,C014,10,20,11,52,73,PASS,General,جيد,FALSE,Pass,جيد
+G169,C017,20,20,14,36,70,WEAK,General,جيد,FALSE,Pass,جيد
+G169,C020,15,20,17,41,73,PASS,General,جيد,FALSE,Pass,جيد
+G170,C012,8,20,16,42,66,PASS,General,جيد,FALSE,Pass,جيد
+G170,C013,9,20,14,55,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G170,C014,16,20,16,48,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G170,C017,13,20,11,39,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G170,C018,18,20,16,52,86,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G171,C013,18,20,14,30,62,WEAK,General,مقبول,FALSE,Pass,مقبول
+G171,C015,18,20,17,42,77,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G171,C017,20,20,17,48,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G171,C018,18,20,11,54,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G171,C019,15,20,15,36,66,PASS,General,جيد,FALSE,Pass,جيد
+G172,C011,18,20,13,51,82,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G172,C012,18,20,18,46,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G172,C013,15,20,13,46,74,FAIL,General,جيد,FALSE,Pass,جيد
+G172,C014,13,20,11,52,76,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G172,C015,18,20,14,32,64,FAIL,General,مقبول,FALSE,Pass,مقبول
+G173,C011,10,20,11,45,66,PASS,General,جيد,FALSE,Pass,جيد
+G173,C012,10,20,17,38,65,PASS,General,جيد,FALSE,Pass,جيد
+G173,C015,18,20,10,37,65,PASS,General,جيد,FALSE,Pass,جيد
+G173,C018,16,20,14,30,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G173,C019,15,20,15,47,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G174,C011,13,20,12,48,73,PASS,General,جيد,FALSE,Pass,جيد
+G174,C012,16,20,11,54,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G174,C016,13,20,12,50,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G174,C018,11,20,18,32,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G174,C019,18,20,13,38,69,PASS,General,جيد,FALSE,Pass,جيد
+G175,C011,16,20,15,30,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G175,C016,13,20,10,51,74,PASS,General,جيد,FALSE,Pass,جيد
+G175,C018,8,20,18,33,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G175,C019,20,20,18,49,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G175,C020,20,20,16,51,87,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G176,C012,20,20,12,34,47,PASS,General,جيد,FALSE,Fail,جيد
+G176,C014,13,20,13,44,45,WEAK,General,جيد,FALSE,Fail,جيد
+G176,C015,13,20,12,46,71,PASS,General,جيد,FALSE,Pass,جيد
+G176,C016,13,20,12,37,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G176,C019,16,20,17,38,71,PASS,General,جيد,FALSE,Pass,جيد
+G177,C014,20,20,17,40,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G177,C015,13,20,17,51,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G177,C016,11,20,12,45,68,PASS,General,جيد,FALSE,Pass,جيد
+G177,C017,20,20,18,37,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G177,C019,15,20,15,49,79,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G178,C012,13,20,10,49,72,WEAK,General,جيد,FALSE,Pass,جيد
+G178,C014,8,20,15,49,72,PASS,General,جيد,FALSE,Pass,جيد
+G178,C015,20,20,13,48,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G178,C016,20,20,10,49,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G178,C017,14,20,12,42,68,PASS,General,جيد,FALSE,Pass,جيد
+G179,C011,14,20,18,31,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G179,C013,15,20,14,42,71,WEAK,General,جيد,FALSE,Pass,جيد
+G179,C016,11,20,14,37,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G179,C019,13,20,14,49,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G179,C020,13,20,10,53,76,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G180,C014,15,20,15,49,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G180,C016,12,20,12,47,71,WEAK,General,جيد,FALSE,Pass,جيد
+G180,C018,11,20,14,38,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G180,C019,10,20,12,55,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G180,C020,13,20,16,38,67,PASS,General,جيد,FALSE,Pass,جيد
+G181,C011,18,20,13,33,64,WEAK,General,مقبول,FALSE,Pass,مقبول
+G181,C012,15,20,11,30,56,WEAK,General,مقبول,FALSE,Pass,مقبول
+G181,C014,13,20,16,54,83,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G181,C016,15,20,17,42,74,WEAK,General,جيد,FALSE,Pass,جيد
+G181,C019,16,20,10,40,66,PASS,General,جيد,FALSE,Pass,جيد
+G182,C011,16,20,17,48,81,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G182,C013,15,20,12,35,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G182,C015,10,20,15,36,61,WEAK,General,مقبول,FALSE,Pass,مقبول
+G182,C016,15,20,12,52,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G182,C018,20,20,11,41,72,PASS,General,جيد,FALSE,Pass,جيد
+G183,C012,18,20,10,49,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G183,C015,16,20,13,42,71,PASS,General,جيد,FALSE,Pass,جيد
+G183,C018,13,20,16,45,74,FAIL,General,جيد,FALSE,Pass,جيد
+G183,C019,15,20,12,45,72,PASS,General,جيد,FALSE,Pass,جيد
+G183,C020,15,20,12,38,65,PASS,General,جيد,FALSE,Pass,جيد
+G184,C013,13,20,11,48,34,PASS,General,جيد,FALSE,Fail,جيد
+G184,C014,20,20,14,31,42,PASS,General,جيد,FALSE,Fail,جيد
+G184,C016,18,20,12,43,38,PASS,General,جيد,FALSE,Fail,جيد
+G184,C019,18,20,14,37,69,PASS,General,جيد,FALSE,Pass,جيد
+G184,C020,13,20,15,34,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G185,C011,15,20,16,38,69,PASS,General,جيد,FALSE,Pass,جيد
+G185,C012,15,20,14,44,73,PASS,General,جيد,FALSE,Pass,جيد
+G185,C014,18,20,17,50,85,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G185,C018,13,20,15,39,67,WEAK,General,جيد,FALSE,Pass,جيد
+G185,C019,13,20,17,48,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G186,C012,11,20,18,31,32,PASS,General,مقبول,FALSE,Fail,مقبول
+G186,C013,13,20,10,47,41,PASS,General,جيد,FALSE,Fail,جيد
+G186,C014,15,20,12,51,38,WEAK,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G186,C016,13,20,18,50,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G186,C020,15,20,14,54,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G187,C012,11,20,12,31,48,PASS,General,مقبول,FALSE,Fail,مقبول
+G187,C013,13,20,15,31,45,PASS,General,مقبول,FALSE,Fail,مقبول
+G187,C014,13,20,14,51,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G187,C017,18,20,13,46,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G187,C019,13,20,13,50,76,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G188,C012,13,20,18,54,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G188,C014,11,20,17,36,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G188,C015,13,20,11,45,69,PASS,General,جيد,FALSE,Pass,جيد
+G188,C018,16,20,17,38,71,PASS,General,جيد,FALSE,Pass,جيد
+G188,C020,20,20,10,48,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G189,C011,13,20,12,32,57,FAIL,General,مقبول,FALSE,Pass,مقبول
+G189,C016,9,20,12,32,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G189,C018,18,20,12,44,74,PASS,General,جيد,FALSE,Pass,جيد
+G189,C019,10,20,17,31,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G189,C020,14,20,17,36,67,PASS,General,جيد,FALSE,Pass,جيد
+G190,C013,10,20,15,44,69,PASS,General,جيد,FALSE,Pass,جيد
+G190,C015,18,20,14,54,86,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G190,C017,16,20,12,38,66,PASS,General,جيد,FALSE,Pass,جيد
+G190,C018,16,20,18,37,71,WEAK,General,جيد,FALSE,Pass,جيد
+G190,C020,11,20,16,52,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G191,C011,3,20,16,38,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G191,C012,18,20,10,38,66,PASS,General,جيد,FALSE,Pass,جيد
+G191,C013,18,20,10,33,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G191,C017,16,20,18,45,79,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G191,C020,16,20,16,39,71,PASS,General,جيد,FALSE,Pass,جيد
+G192,C011,20,20,10,52,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G192,C014,13,20,18,53,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G192,C015,11,20,10,51,72,PASS,General,جيد,FALSE,Pass,جيد
+G192,C017,13,20,13,41,67,PASS,General,جيد,FALSE,Pass,جيد
+G192,C019,13,20,14,50,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G193,C014,20,20,13,47,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G193,C015,15,20,13,44,72,PASS,General,جيد,FALSE,Pass,جيد
+G193,C017,11,20,10,49,70,FAIL,General,جيد,FALSE,Pass,جيد
+G193,C018,10,20,10,44,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G193,C019,16,20,17,34,67,FAIL,General,جيد,FALSE,Pass,جيد
+G194,C011,15,20,15,53,83,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G194,C015,13,20,12,48,73,PASS,General,جيد,FALSE,Pass,جيد
+G194,C017,6,20,18,47,71,PASS,General,جيد,FALSE,Pass,جيد
+G194,C018,18,20,15,36,69,PASS,General,جيد,FALSE,Pass,جيد
+G194,C019,5,20,11,54,70,PASS,General,جيد,FALSE,Pass,جيد
+G195,C013,8,20,11,43,37,PASS,General,مقبول,FALSE,Fail,مقبول
+G195,C014,18,20,10,33,36,PASS,General,مقبول,FALSE,Fail,مقبول
+G195,C016,20,20,11,55,43,PASS,General,ممتاز,FALSE,Fail,جيد جدًا
+G195,C017,16,20,12,46,74,PASS,General,جيد,FALSE,Pass,جيد
+G195,C020,15,20,12,51,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G196,C011,18,20,17,50,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G196,C012,16,20,13,47,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G196,C015,13,20,10,48,71,WEAK,General,جيد,FALSE,Pass,جيد
+G196,C019,16,20,10,42,68,WEAK,General,جيد,FALSE,Pass,جيد
+G196,C020,13,20,16,53,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G197,C011,8,20,15,35,39,PASS,General,مقبول,FALSE,Fail,مقبول
+G197,C012,10,20,12,44,39,FAIL,General,جيد,FALSE,Fail,جيد
+G197,C014,20,20,15,47,39,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G197,C015,13,20,16,51,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G197,C020,20,20,18,43,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G198,C011,13,20,17,32,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G198,C013,16,20,11,32,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G198,C014,11,20,14,36,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G198,C017,14,20,15,35,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G198,C019,15,20,15,30,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G199,C012,18,20,17,46,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G199,C017,5,20,16,45,66,PASS,General,جيد,FALSE,Pass,جيد
+G199,C018,16,20,13,41,70,PASS,General,جيد,FALSE,Pass,جيد
+G199,C019,13,20,17,50,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G199,C020,20,20,13,42,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G200,C011,13,20,15,53,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G200,C012,20,20,13,51,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G200,C016,18,20,10,55,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G200,C018,13,20,11,44,68,PASS,General,جيد,FALSE,Pass,جيد
+G200,C019,18,20,11,38,67,PASS,General,جيد,FALSE,Pass,جيد
+G201,C011,18,20,18,40,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G201,C014,5,20,14,39,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G201,C015,18,20,14,52,84,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G201,C016,16,20,10,32,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G201,C019,8,20,10,43,61,FAIL,General,مقبول,FALSE,Pass,مقبول
+G202,C011,8,20,10,31,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G202,C012,16,20,16,50,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G202,C013,20,20,17,33,70,PASS,General,جيد,FALSE,Pass,جيد
+G202,C018,8,20,14,53,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G202,C019,20,20,16,32,68,PASS,General,جيد,FALSE,Pass,جيد
+G203,C012,20,20,18,55,93,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G203,C015,15,20,10,44,69,PASS,General,جيد,FALSE,Pass,جيد
+G203,C016,8,20,16,40,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G203,C017,16,20,14,42,72,WEAK,General,جيد,FALSE,Pass,جيد
+G203,C018,14,20,14,34,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G204,C015,18,20,17,45,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G204,C016,14,20,14,42,70,PASS,General,جيد,FALSE,Pass,جيد
+G204,C017,9,20,12,34,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G204,C019,18,20,10,47,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G204,C020,18,20,16,49,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G205,C011,16,20,16,38,70,PASS,General,جيد,FALSE,Pass,جيد
+G205,C014,18,20,14,54,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G205,C017,11,20,12,49,72,PASS,General,جيد,FALSE,Pass,جيد
+G205,C018,13,20,14,38,65,PASS,General,جيد,FALSE,Pass,جيد
+G205,C020,11,20,17,35,63,FAIL,General,مقبول,FALSE,Pass,مقبول
+G206,C011,15,20,13,54,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G206,C014,15,20,10,40,65,WEAK,General,جيد,FALSE,Pass,جيد
+G206,C018,18,20,16,45,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G206,C019,10,20,13,48,71,PASS,General,جيد,FALSE,Pass,جيد
+G206,C020,16,20,11,32,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G207,C012,13,20,10,33,56,PASS,General,مقبول,FALSE,Pass,مقبول
+G207,C015,13,20,14,33,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G207,C017,10,20,18,40,68,PASS,General,جيد,FALSE,Pass,جيد
+G207,C018,11,20,15,54,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G207,C019,14,20,13,50,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G208,C012,11,20,17,41,46,WEAK,General,جيد,FALSE,Fail,جيد
+G208,C014,13,20,12,52,47,FAIL,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G208,C015,13,20,18,44,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G208,C016,10,20,17,36,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G208,C019,13,20,11,41,65,PASS,General,جيد,FALSE,Pass,جيد
+G209,C014,18,20,15,42,75,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G209,C015,16,20,15,54,85,WEAK,General,ممتاز,FALSE,Pass,جيد جدًا
+G209,C016,11,20,13,35,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G209,C017,18,20,14,42,74,PASS,General,جيد,FALSE,Pass,جيد
+G209,C020,18,20,11,31,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G210,C011,15,20,14,52,38,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G210,C012,20,20,10,31,36,WEAK,General,مقبول,FALSE,Fail,مقبول
+G210,C016,6,20,16,54,33,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G210,C019,15,20,14,49,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G210,C020,13,20,11,45,69,PASS,General,جيد,FALSE,Pass,جيد
+G211,C011,15,20,11,36,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G211,C013,13,20,10,35,58,WEAK,General,مقبول,FALSE,Pass,مقبول
+G211,C014,13,20,12,31,56,PASS,General,مقبول,FALSE,Pass,مقبول
+G211,C016,9,20,18,51,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G211,C017,13,20,11,55,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G212,C011,13,20,16,38,67,PASS,General,جيد,FALSE,Pass,جيد
+G212,C012,16,20,13,49,78,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G212,C013,11,20,15,53,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G212,C014,13,20,16,38,67,PASS,General,جيد,FALSE,Pass,جيد
+G212,C019,20,20,10,36,66,WEAK,General,جيد,FALSE,Pass,جيد
+G213,C011,16,20,15,45,76,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G213,C013,18,20,11,41,70,PASS,General,جيد,FALSE,Pass,جيد
+G213,C014,11,20,15,47,73,PASS,General,جيد,FALSE,Pass,جيد
+G213,C017,20,20,17,55,92,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G213,C018,13,20,10,45,68,PASS,General,جيد,FALSE,Pass,جيد
+G214,C011,15,20,16,33,47,PASS,General,مقبول,FALSE,Fail,مقبول
+G214,C012,10,20,13,50,46,PASS,General,جيد,FALSE,Fail,جيد
+G214,C013,14,20,14,40,68,PASS,General,جيد,FALSE,Pass,جيد
+G214,C015,13,20,15,31,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G214,C019,13,20,10,33,56,WEAK,General,مقبول,FALSE,Pass,مقبول
+G215,C012,8,20,13,32,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G215,C013,6,20,14,43,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G215,C015,16,20,18,52,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G215,C017,13,20,14,38,65,PASS,General,جيد,FALSE,Pass,جيد
+G215,C020,8,20,13,47,68,PASS,General,جيد,FALSE,Pass,جيد
+G216,C013,15,20,15,32,62,WEAK,General,مقبول,FALSE,Pass,مقبول
+G216,C016,11,20,17,35,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G216,C017,15,20,10,31,56,PASS,General,مقبول,FALSE,Pass,مقبول
+G216,C019,15,20,16,48,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G216,C020,15,20,11,41,67,WEAK,General,جيد,FALSE,Pass,جيد
+G217,C011,10,20,18,31,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G217,C014,13,20,17,35,65,PASS,General,جيد,FALSE,Pass,جيد
+G217,C015,13,20,16,46,75,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G217,C016,16,20,16,42,74,PASS,General,جيد,FALSE,Pass,جيد
+G217,C017,9,20,16,38,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G218,C011,13,20,11,37,45,PASS,General,مقبول,FALSE,Fail,مقبول
+G218,C013,8,20,17,30,48,PASS,General,مقبول,FALSE,Fail,مقبول
+G218,C014,8,20,11,34,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G218,C018,13,20,13,50,76,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G218,C020,18,20,12,55,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G219,C012,11,20,18,46,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G219,C013,16,20,10,34,60,FAIL,General,مقبول,FALSE,Pass,مقبول
+G219,C015,15,20,10,30,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G219,C018,20,20,10,55,85,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G219,C019,15,20,14,44,73,PASS,General,جيد,FALSE,Pass,جيد
+G220,C011,10,20,18,55,83,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G220,C013,18,20,15,41,74,PASS,General,جيد,FALSE,Pass,جيد
+G220,C016,10,20,12,33,55,WEAK,General,مقبول,FALSE,Pass,مقبول
+G220,C019,18,20,18,47,83,FAIL,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G220,C020,16,20,13,50,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G221,C029,8,20,8,28,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G221,C031,16,20,10,36,62,WEAK,General,مقبول,FALSE,Pass,مقبول
+G221,C037,15,20,12,26,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G221,C043,20,20,9,33,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G221,C045,18,20,15,36,69,WEAK,General,جيد,FALSE,Pass,جيد
+G222,C023,10,20,14,45,43,PASS,General,جيد,FALSE,Fail,جيد
+G222,C038,18,20,17,41,33,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G222,C040,16,20,13,36,38,PASS,General,جيد,FALSE,Fail,جيد
+G222,C043,20,20,17,26,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G222,C044,15,20,13,31,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G223,C023,15,20,17,30,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G223,C028,11,20,12,31,54,PASS,General,مقبول,FALSE,Pass,مقبول
+G223,C032,13,20,12,47,72,FAIL,General,جيد,FALSE,Pass,جيد
+G223,C038,13,20,9,25,50,WEAK,General,ضعيف,TRUE,Pass,مقبول
+G223,C042,18,20,11,28,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G224,C026,16,20,10,49,46,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G224,C037,5,20,10,35,48,PASS,General,مقبول,FALSE,Fail,مقبول
+G224,C040,16,20,17,31,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G224,C042,18,20,17,25,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G224,C043,18,20,14,35,67,PASS,General,جيد,FALSE,Pass,جيد
+G225,C021,16,20,17,42,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G225,C029,18,20,16,31,65,PASS,General,جيد,FALSE,Pass,جيد
+G225,C030,10,20,10,39,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G225,C035,13,20,16,47,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G225,C047,15,20,8,35,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G226,C024,10,20,8,30,45,PASS,General,ضعيف,TRUE,Fail,مقبول
+G226,C032,13,20,15,30,45,PASS,General,مقبول,FALSE,Fail,مقبول
+G226,C038,18,20,16,34,68,WEAK,General,جيد,FALSE,Pass,جيد
+G226,C041,16,20,17,29,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G226,C049,13,20,9,38,60,WEAK,General,مقبول,FALSE,Pass,مقبول
+G227,C023,18,20,13,39,34,PASS,General,جيد,FALSE,Fail,جيد
+G227,C027,20,20,13,38,41,PASS,General,جيد,FALSE,Fail,جيد
+G227,C032,18,20,17,34,30,PASS,General,جيد,FALSE,Fail,جيد
+G227,C038,15,20,15,25,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G227,C043,5,20,10,49,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G228,C031,16,20,14,27,38,PASS,General,مقبول,FALSE,Fail,مقبول
+G228,C034,20,20,13,36,37,PASS,General,جيد,FALSE,Fail,جيد
+G228,C036,11,20,9,49,32,WEAK,General,جيد,FALSE,Fail,جيد
+G228,C039,13,20,17,30,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G228,C045,15,20,12,41,68,PASS,General,جيد,FALSE,Pass,جيد
+G229,C024,10,20,10,37,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G229,C029,15,20,13,36,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G229,C033,15,20,17,28,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G229,C034,18,20,16,28,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G229,C048,18,20,9,35,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G230,C021,8,20,9,36,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G230,C035,8,20,13,39,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G230,C044,16,20,8,36,60,WEAK,General,مقبول,FALSE,Pass,مقبول
+G230,C045,13,20,15,29,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G230,C050,10,20,8,34,52,PASS,General,مقبول,FALSE,Pass,مقبول
+G231,C021,10,20,9,36,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G231,C039,15,20,16,40,71,FAIL,General,جيد,FALSE,Pass,جيد
+G231,C040,9,20,14,46,69,PASS,General,جيد,FALSE,Pass,جيد
+G231,C048,18,20,8,42,68,PASS,General,جيد,FALSE,Pass,جيد
+G231,C050,15,20,12,26,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G232,C028,18,20,14,46,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G232,C030,20,20,14,28,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G232,C031,15,20,16,38,69,PASS,General,جيد,FALSE,Pass,جيد
+G232,C033,20,20,10,27,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G232,C042,5,20,15,28,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G233,C024,16,20,12,40,46,PASS,General,جيد,FALSE,Fail,جيد
+G233,C032,11,20,8,39,47,PASS,General,مقبول,FALSE,Fail,مقبول
+G233,C035,14,20,14,25,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G233,C045,13,20,15,46,74,PASS,General,جيد,FALSE,Pass,جيد
+G233,C048,16,20,9,44,69,PASS,General,جيد,FALSE,Pass,جيد
+G234,C026,11,20,17,49,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G234,C027,20,20,15,40,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G234,C040,18,20,11,40,69,PASS,General,جيد,FALSE,Pass,جيد
+G234,C041,18,20,12,43,73,PASS,General,جيد,FALSE,Pass,جيد
+G234,C049,20,20,12,46,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G235,C023,15,20,14,44,73,PASS,General,جيد,FALSE,Pass,جيد
+G235,C027,16,20,14,50,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G235,C031,18,20,14,43,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G235,C032,13,20,10,34,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G235,C048,15,20,10,33,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G236,C025,8,20,17,40,65,PASS,General,جيد,FALSE,Pass,جيد
+G236,C036,18,20,15,33,66,WEAK,General,جيد,FALSE,Pass,جيد
+G236,C037,13,20,13,28,54,FAIL,General,مقبول,FALSE,Pass,مقبول
+G236,C041,13,20,9,27,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G236,C046,18,20,8,43,69,PASS,General,جيد,FALSE,Pass,جيد
+G237,C021,16,20,15,36,47,PASS,General,جيد,FALSE,Fail,جيد
+G237,C028,8,20,8,37,45,PASS,General,مقبول,FALSE,Fail,مقبول
+G237,C032,20,20,11,42,73,PASS,General,جيد,FALSE,Pass,جيد
+G237,C040,13,20,10,29,52,PASS,General,مقبول,FALSE,Pass,مقبول
+G237,C044,13,20,9,47,69,WEAK,General,جيد,FALSE,Pass,جيد
+G238,C027,13,20,9,26,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G238,C029,16,20,12,38,66,PASS,General,جيد,FALSE,Pass,جيد
+G238,C032,18,20,13,32,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G238,C038,10,20,10,27,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G238,C041,20,20,12,35,67,PASS,General,جيد,FALSE,Pass,جيد
+G239,C023,14,20,14,25,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G239,C038,20,20,13,25,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G239,C042,16,20,10,42,68,PASS,General,جيد,FALSE,Pass,جيد
+G239,C045,18,20,13,26,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G239,C047,8,20,8,47,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G240,C032,13,20,14,26,46,PASS,General,مقبول,FALSE,Fail,مقبول
+G240,C034,13,20,16,45,48,PASS,General,جيد,FALSE,Fail,جيد
+G240,C036,20,20,10,45,75,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G240,C044,14,20,13,37,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G240,C047,20,20,13,38,71,PASS,General,جيد,FALSE,Pass,جيد
+G241,C023,16,20,10,31,48,WEAK,General,مقبول,FALSE,Fail,مقبول
+G241,C026,13,20,13,49,47,PASS,General,جيد جدًا,FALSE,Fail,جيد جدًا
+G241,C029,13,20,12,27,52,PASS,General,مقبول,FALSE,Pass,مقبول
+G241,C041,20,20,9,46,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G241,C044,8,20,14,36,58,WEAK,General,مقبول,FALSE,Pass,مقبول
+G242,C038,15,20,10,34,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G242,C040,15,20,17,50,82,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G242,C044,14,20,11,48,73,PASS,General,جيد,FALSE,Pass,جيد
+G242,C045,20,20,16,41,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G242,C046,15,20,17,49,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G243,C034,3,20,13,50,66,PASS,General,جيد,FALSE,Pass,جيد
+G243,C037,8,20,10,42,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G243,C038,8,20,8,32,50,FAIL,General,ضعيف,TRUE,Pass,مقبول
+G243,C046,15,20,10,42,67,WEAK,General,جيد,FALSE,Pass,جيد
+G243,C049,11,20,15,36,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G244,C031,13,20,10,45,68,PASS,General,جيد,FALSE,Pass,جيد
+G244,C034,20,20,10,43,73,PASS,General,جيد,FALSE,Pass,جيد
+G244,C035,18,20,11,26,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G244,C046,20,20,13,45,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G244,C049,16,20,16,32,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G245,C022,15,20,10,48,73,PASS,General,جيد,FALSE,Pass,جيد
+G245,C026,14,20,13,30,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G245,C029,18,20,16,44,78,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G245,C030,16,20,16,33,65,PASS,General,جيد,FALSE,Pass,جيد
+G245,C039,14,20,11,39,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G246,C022,15,20,15,46,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G246,C028,16,20,9,50,75,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G246,C031,13,20,16,30,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G246,C037,11,20,17,28,56,PASS,General,مقبول,FALSE,Pass,مقبول
+G246,C041,20,20,17,49,86,PASS,General,ممتاز,FALSE,Pass,جيد جدًا
+G247,C022,13,20,14,36,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G247,C026,15,20,16,27,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G247,C032,15,20,13,49,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G247,C035,16,20,15,50,81,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G247,C038,15,20,15,31,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G248,C036,8,20,14,29,37,WEAK,General,مقبول,FALSE,Fail,مقبول
+G248,C041,15,20,11,31,33,PASS,General,مقبول,FALSE,Fail,مقبول
+G248,C048,20,20,9,44,38,PASS,General,جيد,FALSE,Fail,جيد
+G248,C049,16,20,13,31,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G248,C050,18,20,9,38,65,PASS,General,جيد,FALSE,Pass,جيد
+G249,C032,16,20,15,44,75,WEAK,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G249,C038,16,20,13,37,66,PASS,General,جيد,FALSE,Pass,جيد
+G249,C040,14,20,10,33,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G249,C046,11,20,16,34,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G249,C050,18,20,15,45,78,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G250,C025,9,20,14,36,59,WEAK,General,مقبول,FALSE,Pass,مقبول
+G250,C030,20,20,9,35,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G250,C046,15,20,12,28,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G250,C048,20,20,16,37,73,PASS,General,جيد,FALSE,Pass,جيد
+G250,C050,18,20,10,40,68,PASS,General,جيد,FALSE,Pass,جيد
+G251,C023,13,20,17,35,65,PASS,General,جيد,FALSE,Pass,جيد
+G251,C033,15,20,8,48,71,PASS,General,جيد,FALSE,Pass,جيد
+G251,C041,16,20,11,38,65,PASS,General,جيد,FALSE,Pass,جيد
+G251,C046,13,20,14,31,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G251,C047,16,20,15,31,62,PASS,General,مقبول,FALSE,Pass,مقبول
+G252,C027,18,20,11,41,70,PASS,General,جيد,FALSE,Pass,جيد
+G252,C029,8,20,9,43,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G252,C039,18,20,9,37,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G252,C047,20,20,11,32,63,PASS,General,مقبول,FALSE,Pass,مقبول
+G252,C048,8,20,11,37,56,PASS,General,مقبول,FALSE,Pass,مقبول
+G253,C024,8,20,12,38,58,WEAK,General,مقبول,FALSE,Pass,مقبول
+G253,C027,16,20,11,28,55,WEAK,General,مقبول,FALSE,Pass,مقبول
+G253,C028,13,20,16,38,67,FAIL,General,جيد,FALSE,Pass,جيد
+G253,C034,8,20,12,34,54,WEAK,General,مقبول,FALSE,Pass,مقبول
+G253,C041,18,20,9,39,66,PASS,General,جيد,FALSE,Pass,جيد
+G254,C028,20,20,16,30,66,PASS,General,جيد,FALSE,Pass,جيد
+G254,C030,18,20,11,26,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G254,C033,11,20,15,40,66,PASS,General,جيد,FALSE,Pass,جيد
+G254,C036,18,20,11,30,59,PASS,General,مقبول,FALSE,Pass,مقبول
+G254,C037,12,20,12,37,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G255,C027,10,20,8,30,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G255,C031,8,20,12,29,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G255,C033,16,20,14,41,71,PASS,General,جيد,FALSE,Pass,جيد
+G255,C037,20,20,10,50,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G255,C042,11,20,9,30,50,PASS,General,مقبول,FALSE,Pass,مقبول
+G256,C022,11,20,16,30,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G256,C033,16,20,9,41,66,PASS,General,جيد,FALSE,Pass,جيد
+G256,C034,11,20,11,44,66,PASS,General,جيد,FALSE,Pass,جيد
+G256,C038,20,20,17,25,62,WEAK,General,مقبول,FALSE,Pass,مقبول
+G256,C041,10,20,17,37,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G257,C021,6,20,16,31,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G257,C022,16,20,10,26,52,PASS,General,مقبول,FALSE,Pass,مقبول
+G257,C028,11,20,16,38,65,PASS,General,جيد,FALSE,Pass,جيد
+G257,C039,10,20,16,39,65,PASS,General,جيد,FALSE,Pass,جيد
+G257,C041,8,20,12,25,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G258,C021,11,20,15,27,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G258,C022,11,20,13,42,66,FAIL,General,جيد,FALSE,Pass,جيد
+G258,C029,10,20,16,29,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G258,C040,18,20,9,27,54,PASS,General,مقبول,FALSE,Pass,مقبول
+G258,C045,18,20,12,41,71,PASS,General,جيد,FALSE,Pass,جيد
+G259,C023,11,20,15,27,53,PASS,General,مقبول,FALSE,Pass,مقبول
+G259,C036,15,20,16,48,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G259,C041,13,20,8,26,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G259,C043,18,20,10,48,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G259,C046,13,20,8,29,50,PASS,General,مقبول,FALSE,Pass,مقبول
+G260,C023,10,20,13,32,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G260,C027,16,20,8,48,72,PASS,General,جيد,FALSE,Pass,جيد
+G260,C031,16,20,13,43,72,PASS,General,جيد,FALSE,Pass,جيد
+G260,C032,18,20,9,42,69,PASS,General,جيد,FALSE,Pass,جيد
+G260,C046,18,20,14,48,80,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G261,C033,18,20,11,34,47,PASS,General,مقبول,FALSE,Fail,مقبول
+G261,C035,10,20,8,31,48,PASS,General,ضعيف,TRUE,Fail,مقبول
+G261,C036,18,20,15,34,67,FAIL,General,جيد,FALSE,Pass,جيد
+G261,C046,18,20,10,48,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G261,C049,11,20,17,40,68,WEAK,General,جيد,FALSE,Pass,جيد
+G262,C023,13,20,8,39,60,PASS,General,مقبول,FALSE,Pass,مقبول
+G262,C028,13,20,17,34,64,PASS,General,مقبول,FALSE,Pass,مقبول
+G262,C032,15,20,9,33,57,PASS,General,مقبول,FALSE,Pass,مقبول
+G262,C037,14,20,16,25,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G262,C040,20,20,15,44,79,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G263,C021,15,20,15,35,65,PASS,General,جيد,FALSE,Pass,جيد
+G263,C032,20,20,10,31,61,WEAK,General,مقبول,FALSE,Pass,مقبول
+G263,C033,16,20,9,29,54,PASS,General,مقبول,FALSE,Pass,مقبول
+G263,C038,11,20,11,41,63,WEAK,General,مقبول,FALSE,Pass,مقبول
+G263,C039,13,20,13,30,56,PASS,General,مقبول,FALSE,Pass,مقبول
+G264,C022,18,20,13,38,69,PASS,General,جيد,FALSE,Pass,جيد
+G264,C030,15,20,11,26,52,PASS,General,مقبول,FALSE,Pass,مقبول
+G264,C035,15,20,10,33,58,PASS,General,مقبول,FALSE,Pass,مقبول
+G264,C044,15,20,9,47,71,PASS,General,جيد,FALSE,Pass,جيد
+G264,C049,8,20,16,43,67,PASS,General,جيد,FALSE,Pass,جيد
+G265,C024,18,20,9,28,55,WEAK,General,مقبول,FALSE,Pass,مقبول
+G265,C026,18,20,10,27,55,PASS,General,مقبول,FALSE,Pass,مقبول
+G265,C039,15,20,13,40,68,FAIL,General,جيد,FALSE,Pass,جيد
+G265,C043,16,20,11,25,52,WEAK,General,مقبول,FALSE,Pass,مقبول
+G265,C050,13,20,15,40,68,PASS,General,جيد,FALSE,Pass,جيد
+G266,C024,16,20,9,40,65,PASS,General,جيد,FALSE,Pass,جيد
+G266,C032,8,20,13,31,52,PASS,General,مقبول,FALSE,Pass,مقبول
+G266,C035,18,20,8,48,74,PASS,General,جيد,FALSE,Pass,جيد
+G266,C036,14,20,11,43,68,PASS,General,جيد,FALSE,Pass,جيد
+G266,C041,18,20,11,40,69,PASS,General,جيد,FALSE,Pass,جيد
+G267,C024,13,20,17,30,35,PASS,General,مقبول,FALSE,Fail,مقبول
+G267,C028,8,20,10,33,42,PASS,General,مقبول,FALSE,Fail,مقبول
+G267,C039,5,20,17,27,40,PASS,General,ضعيف,TRUE,Fail,مقبول
+G267,C041,18,20,10,33,61,PASS,General,مقبول,FALSE,Pass,مقبول
+G267,C047,13,20,15,49,77,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G268,C030,16,20,17,41,74,PASS,General,جيد,FALSE,Pass,جيد
+G268,C033,15,20,17,42,74,PASS,General,جيد,FALSE,Pass,جيد
+G268,C035,16,20,16,38,70,PASS,General,جيد,FALSE,Pass,جيد
+G268,C043,16,20,14,42,72,PASS,General,جيد,FALSE,Pass,جيد
+G268,C044,16,20,14,46,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G269,C026,16,20,9,46,33,PASS,General,جيد,FALSE,Fail,جيد
+G269,C029,13,20,13,42,39,PASS,General,جيد,FALSE,Fail,جيد
+G269,C037,11,20,13,50,34,PASS,General,جيد,FALSE,Fail,جيد
+G269,C038,10,20,16,50,76,PASS,General,جيد جدًا,FALSE,Pass,جيد جدًا
+G269,C045,13,20,12,32,57,WEAK,General,مقبول,FALSE,Pass,مقبول
+G270,C026,11,20,12,25,50,PASS,General,ضعيف,TRUE,Pass,مقبول
+G270,C038,13,20,15,28,56,PASS,General,مقبول,FALSE,Pass,مقبول
+G270,C044,15,20,16,39,70,PASS,General,جيد,FALSE,Pass,جيد
+G270,C045,8,20,9,42,59,WEAK,General,مقبول,FALSE,Pass,مقبول
+G270,C049,10,20,8,42,60,WEAK,General,مقبول,FALSE,Pass,مقبول

@@ -1,0 +1,881 @@
+﻿lecture_unique_id,course_unique_id,lecture_number,lecture_title_english,lecture_title_arabic,upload_date,offline_available
+L00001,C001,1,Programming Fundamentals - Lecture 1,أساسيات البرمجة - المحاضرة 1,2025-02-02,Yes
+L00002,C001,2,Programming Fundamentals - Lecture 2,أساسيات البرمجة - المحاضرة 2,2025-02-03,Yes
+L00003,C001,3,Programming Fundamentals - Lecture 3,أساسيات البرمجة - المحاضرة 3,2025-02-04,Yes
+L00004,C001,4,Programming Fundamentals - Lecture 4,أساسيات البرمجة - المحاضرة 4,2025-02-05,Yes
+L00005,C001,5,Programming Fundamentals - Lecture 5,أساسيات البرمجة - المحاضرة 5,2025-02-06,Yes
+L00006,C001,6,Programming Fundamentals - Lecture 6,أساسيات البرمجة - المحاضرة 6,2025-02-07,Yes
+L00007,C001,7,Programming Fundamentals - Lecture 7,أساسيات البرمجة - المحاضرة 7,2025-02-08,Yes
+L00008,C001,8,Programming Fundamentals - Lecture 8,أساسيات البرمجة - المحاضرة 8,2025-02-09,Yes
+L00009,C001,9,Programming Fundamentals - Lecture 9,أساسيات البرمجة - المحاضرة 9,2025-02-10,Yes
+L00010,C001,10,Programming Fundamentals - Lecture 10,أساسيات البرمجة - المحاضرة 10,2025-02-11,Yes
+L00011,C001,11,Programming Fundamentals - Lecture 11,أساسيات البرمجة - المحاضرة 11,2025-02-12,Yes
+L00012,C002,1,Discrete Mathematics - Lecture 1,الرياضيات المتقطعة - المحاضرة 1,2025-02-02,Yes
+L00013,C002,2,Discrete Mathematics - Lecture 2,الرياضيات المتقطعة - المحاضرة 2,2025-02-03,Yes
+L00014,C002,3,Discrete Mathematics - Lecture 3,الرياضيات المتقطعة - المحاضرة 3,2025-02-04,Yes
+L00015,C002,4,Discrete Mathematics - Lecture 4,الرياضيات المتقطعة - المحاضرة 4,2025-02-05,Yes
+L00016,C002,5,Discrete Mathematics - Lecture 5,الرياضيات المتقطعة - المحاضرة 5,2025-02-06,Yes
+L00017,C002,6,Discrete Mathematics - Lecture 6,الرياضيات المتقطعة - المحاضرة 6,2025-02-07,Yes
+L00018,C002,7,Discrete Mathematics - Lecture 7,الرياضيات المتقطعة - المحاضرة 7,2025-02-08,Yes
+L00019,C002,8,Discrete Mathematics - Lecture 8,الرياضيات المتقطعة - المحاضرة 8,2025-02-09,Yes
+L00020,C002,9,Discrete Mathematics - Lecture 9,الرياضيات المتقطعة - المحاضرة 9,2025-02-10,Yes
+L00021,C002,10,Discrete Mathematics - Lecture 10,الرياضيات المتقطعة - المحاضرة 10,2025-02-11,Yes
+L00022,C002,11,Discrete Mathematics - Lecture 11,الرياضيات المتقطعة - المحاضرة 11,2025-02-12,Yes
+L00023,C003,1,Introduction to Computer Systems - Lecture 1,مقدمة في نظم الحاسب - المحاضرة 1,2025-02-02,Yes
+L00024,C003,2,Introduction to Computer Systems - Lecture 2,مقدمة في نظم الحاسب - المحاضرة 2,2025-02-03,Yes
+L00025,C003,3,Introduction to Computer Systems - Lecture 3,مقدمة في نظم الحاسب - المحاضرة 3,2025-02-04,Yes
+L00026,C003,4,Introduction to Computer Systems - Lecture 4,مقدمة في نظم الحاسب - المحاضرة 4,2025-02-05,Yes
+L00027,C003,5,Introduction to Computer Systems - Lecture 5,مقدمة في نظم الحاسب - المحاضرة 5,2025-02-06,Yes
+L00028,C003,6,Introduction to Computer Systems - Lecture 6,مقدمة في نظم الحاسب - المحاضرة 6,2025-02-07,Yes
+L00029,C003,7,Introduction to Computer Systems - Lecture 7,مقدمة في نظم الحاسب - المحاضرة 7,2025-02-08,Yes
+L00030,C003,8,Introduction to Computer Systems - Lecture 8,مقدمة في نظم الحاسب - المحاضرة 8,2025-02-09,Yes
+L00031,C003,9,Introduction to Computer Systems - Lecture 9,مقدمة في نظم الحاسب - المحاضرة 9,2025-02-10,Yes
+L00032,C003,10,Introduction to Computer Systems - Lecture 10,مقدمة في نظم الحاسب - المحاضرة 10,2025-02-11,Yes
+L00033,C003,11,Introduction to Computer Systems - Lecture 11,مقدمة في نظم الحاسب - المحاضرة 11,2025-02-12,Yes
+L00034,C004,1,Logic Design & Digital Circuits - Lecture 1,الدوائر الرقمية وتصميم المنطق - المحاضرة 1,2025-02-02,Yes
+L00035,C004,2,Logic Design & Digital Circuits - Lecture 2,الدوائر الرقمية وتصميم المنطق - المحاضرة 2,2025-02-03,Yes
+L00036,C004,3,Logic Design & Digital Circuits - Lecture 3,الدوائر الرقمية وتصميم المنطق - المحاضرة 3,2025-02-04,Yes
+L00037,C004,4,Logic Design & Digital Circuits - Lecture 4,الدوائر الرقمية وتصميم المنطق - المحاضرة 4,2025-02-05,Yes
+L00038,C004,5,Logic Design & Digital Circuits - Lecture 5,الدوائر الرقمية وتصميم المنطق - المحاضرة 5,2025-02-06,Yes
+L00039,C004,6,Logic Design & Digital Circuits - Lecture 6,الدوائر الرقمية وتصميم المنطق - المحاضرة 6,2025-02-07,Yes
+L00040,C004,7,Logic Design & Digital Circuits - Lecture 7,الدوائر الرقمية وتصميم المنطق - المحاضرة 7,2025-02-08,Yes
+L00041,C004,8,Logic Design & Digital Circuits - Lecture 8,الدوائر الرقمية وتصميم المنطق - المحاضرة 8,2025-02-09,Yes
+L00042,C004,9,Logic Design & Digital Circuits - Lecture 9,الدوائر الرقمية وتصميم المنطق - المحاضرة 9,2025-02-10,Yes
+L00043,C004,10,Logic Design & Digital Circuits - Lecture 10,الدوائر الرقمية وتصميم المنطق - المحاضرة 10,2025-02-11,Yes
+L00044,C004,11,Logic Design & Digital Circuits - Lecture 11,الدوائر الرقمية وتصميم المنطق - المحاضرة 11,2025-02-12,Yes
+L00045,C005,1,Introduction to Information Technology - Lecture 1,مقدمة في تكنولوجيا المعلومات - المحاضرة 1,2025-02-02,Yes
+L00046,C005,2,Introduction to Information Technology - Lecture 2,مقدمة في تكنولوجيا المعلومات - المحاضرة 2,2025-02-03,Yes
+L00047,C005,3,Introduction to Information Technology - Lecture 3,مقدمة في تكنولوجيا المعلومات - المحاضرة 3,2025-02-04,Yes
+L00048,C005,4,Introduction to Information Technology - Lecture 4,مقدمة في تكنولوجيا المعلومات - المحاضرة 4,2025-02-05,Yes
+L00049,C005,5,Introduction to Information Technology - Lecture 5,مقدمة في تكنولوجيا المعلومات - المحاضرة 5,2025-02-06,Yes
+L00050,C005,6,Introduction to Information Technology - Lecture 6,مقدمة في تكنولوجيا المعلومات - المحاضرة 6,2025-02-07,Yes
+L00051,C005,7,Introduction to Information Technology - Lecture 7,مقدمة في تكنولوجيا المعلومات - المحاضرة 7,2025-02-08,Yes
+L00052,C005,8,Introduction to Information Technology - Lecture 8,مقدمة في تكنولوجيا المعلومات - المحاضرة 8,2025-02-09,Yes
+L00053,C005,9,Introduction to Information Technology - Lecture 9,مقدمة في تكنولوجيا المعلومات - المحاضرة 9,2025-02-10,Yes
+L00054,C005,10,Introduction to Information Technology - Lecture 10,مقدمة في تكنولوجيا المعلومات - المحاضرة 10,2025-02-11,Yes
+L00055,C005,11,Introduction to Information Technology - Lecture 11,مقدمة في تكنولوجيا المعلومات - المحاضرة 11,2025-02-12,Yes
+L00056,C006,1,Object-Oriented Programming - Lecture 1,البرمجة الكائنية - المحاضرة 1,2025-02-02,Yes
+L00057,C006,2,Object-Oriented Programming - Lecture 2,البرمجة الكائنية - المحاضرة 2,2025-02-03,Yes
+L00058,C006,3,Object-Oriented Programming - Lecture 3,البرمجة الكائنية - المحاضرة 3,2025-02-04,Yes
+L00059,C006,4,Object-Oriented Programming - Lecture 4,البرمجة الكائنية - المحاضرة 4,2025-02-05,Yes
+L00060,C006,5,Object-Oriented Programming - Lecture 5,البرمجة الكائنية - المحاضرة 5,2025-02-06,Yes
+L00061,C006,6,Object-Oriented Programming - Lecture 6,البرمجة الكائنية - المحاضرة 6,2025-02-07,Yes
+L00062,C006,7,Object-Oriented Programming - Lecture 7,البرمجة الكائنية - المحاضرة 7,2025-02-08,Yes
+L00063,C006,8,Object-Oriented Programming - Lecture 8,البرمجة الكائنية - المحاضرة 8,2025-02-09,Yes
+L00064,C006,9,Object-Oriented Programming - Lecture 9,البرمجة الكائنية - المحاضرة 9,2025-02-10,Yes
+L00065,C006,10,Object-Oriented Programming - Lecture 10,البرمجة الكائنية - المحاضرة 10,2025-02-11,Yes
+L00066,C006,11,Object-Oriented Programming - Lecture 11,البرمجة الكائنية - المحاضرة 11,2025-02-12,Yes
+L00067,C007,1,Linear Algebra - Lecture 1,الجبر الخطي - المحاضرة 1,2025-02-02,Yes
+L00068,C007,2,Linear Algebra - Lecture 2,الجبر الخطي - المحاضرة 2,2025-02-03,Yes
+L00069,C007,3,Linear Algebra - Lecture 3,الجبر الخطي - المحاضرة 3,2025-02-04,Yes
+L00070,C007,4,Linear Algebra - Lecture 4,الجبر الخطي - المحاضرة 4,2025-02-05,Yes
+L00071,C007,5,Linear Algebra - Lecture 5,الجبر الخطي - المحاضرة 5,2025-02-06,Yes
+L00072,C007,6,Linear Algebra - Lecture 6,الجبر الخطي - المحاضرة 6,2025-02-07,Yes
+L00073,C007,7,Linear Algebra - Lecture 7,الجبر الخطي - المحاضرة 7,2025-02-08,Yes
+L00074,C007,8,Linear Algebra - Lecture 8,الجبر الخطي - المحاضرة 8,2025-02-09,Yes
+L00075,C007,9,Linear Algebra - Lecture 9,الجبر الخطي - المحاضرة 9,2025-02-10,Yes
+L00076,C007,10,Linear Algebra - Lecture 10,الجبر الخطي - المحاضرة 10,2025-02-11,Yes
+L00077,C007,11,Linear Algebra - Lecture 11,الجبر الخطي - المحاضرة 11,2025-02-12,Yes
+L00078,C008,1,Computer Skills - Lecture 1,مهارات الحاسب - المحاضرة 1,2025-02-02,Yes
+L00079,C008,2,Computer Skills - Lecture 2,مهارات الحاسب - المحاضرة 2,2025-02-03,Yes
+L00080,C008,3,Computer Skills - Lecture 3,مهارات الحاسب - المحاضرة 3,2025-02-04,Yes
+L00081,C008,4,Computer Skills - Lecture 4,مهارات الحاسب - المحاضرة 4,2025-02-05,Yes
+L00082,C008,5,Computer Skills - Lecture 5,مهارات الحاسب - المحاضرة 5,2025-02-06,Yes
+L00083,C008,6,Computer Skills - Lecture 6,مهارات الحاسب - المحاضرة 6,2025-02-07,Yes
+L00084,C008,7,Computer Skills - Lecture 7,مهارات الحاسب - المحاضرة 7,2025-02-08,Yes
+L00085,C008,8,Computer Skills - Lecture 8,مهارات الحاسب - المحاضرة 8,2025-02-09,Yes
+L00086,C008,9,Computer Skills - Lecture 9,مهارات الحاسب - المحاضرة 9,2025-02-10,Yes
+L00087,C008,10,Computer Skills - Lecture 10,مهارات الحاسب - المحاضرة 10,2025-02-11,Yes
+L00088,C008,11,Computer Skills - Lecture 11,مهارات الحاسب - المحاضرة 11,2025-02-12,Yes
+L00089,C009,1,Technical Writing - Lecture 1,الكتابة الفنية - المحاضرة 1,2025-02-02,Yes
+L00090,C009,2,Technical Writing - Lecture 2,الكتابة الفنية - المحاضرة 2,2025-02-03,Yes
+L00091,C009,3,Technical Writing - Lecture 3,الكتابة الفنية - المحاضرة 3,2025-02-04,Yes
+L00092,C009,4,Technical Writing - Lecture 4,الكتابة الفنية - المحاضرة 4,2025-02-05,Yes
+L00093,C009,5,Technical Writing - Lecture 5,الكتابة الفنية - المحاضرة 5,2025-02-06,Yes
+L00094,C009,6,Technical Writing - Lecture 6,الكتابة الفنية - المحاضرة 6,2025-02-07,Yes
+L00095,C009,7,Technical Writing - Lecture 7,الكتابة الفنية - المحاضرة 7,2025-02-08,Yes
+L00096,C009,8,Technical Writing - Lecture 8,الكتابة الفنية - المحاضرة 8,2025-02-09,Yes
+L00097,C009,9,Technical Writing - Lecture 9,الكتابة الفنية - المحاضرة 9,2025-02-10,Yes
+L00098,C009,10,Technical Writing - Lecture 10,الكتابة الفنية - المحاضرة 10,2025-02-11,Yes
+L00099,C009,11,Technical Writing - Lecture 11,الكتابة الفنية - المحاضرة 11,2025-02-12,Yes
+L00100,C010,1,Introduction to Algorithms - Lecture 1,مقدمة في الخوارزميات - المحاضرة 1,2025-02-02,Yes
+L00101,C010,2,Introduction to Algorithms - Lecture 2,مقدمة في الخوارزميات - المحاضرة 2,2025-02-03,Yes
+L00102,C010,3,Introduction to Algorithms - Lecture 3,مقدمة في الخوارزميات - المحاضرة 3,2025-02-04,Yes
+L00103,C010,4,Introduction to Algorithms - Lecture 4,مقدمة في الخوارزميات - المحاضرة 4,2025-02-05,Yes
+L00104,C010,5,Introduction to Algorithms - Lecture 5,مقدمة في الخوارزميات - المحاضرة 5,2025-02-06,Yes
+L00105,C010,6,Introduction to Algorithms - Lecture 6,مقدمة في الخوارزميات - المحاضرة 6,2025-02-07,Yes
+L00106,C010,7,Introduction to Algorithms - Lecture 7,مقدمة في الخوارزميات - المحاضرة 7,2025-02-08,Yes
+L00107,C010,8,Introduction to Algorithms - Lecture 8,مقدمة في الخوارزميات - المحاضرة 8,2025-02-09,Yes
+L00108,C010,9,Introduction to Algorithms - Lecture 9,مقدمة في الخوارزميات - المحاضرة 9,2025-02-10,Yes
+L00109,C010,10,Introduction to Algorithms - Lecture 10,مقدمة في الخوارزميات - المحاضرة 10,2025-02-11,Yes
+L00110,C010,11,Introduction to Algorithms - Lecture 11,مقدمة في الخوارزميات - المحاضرة 11,2025-02-12,Yes
+L00111,C011,1,Data Structures - Lecture 1,هياكل البيانات - المحاضرة 1,2025-02-02,Yes
+L00112,C011,2,Data Structures - Lecture 2,هياكل البيانات - المحاضرة 2,2025-02-03,Yes
+L00113,C011,3,Data Structures - Lecture 3,هياكل البيانات - المحاضرة 3,2025-02-04,Yes
+L00114,C011,4,Data Structures - Lecture 4,هياكل البيانات - المحاضرة 4,2025-02-05,Yes
+L00115,C011,5,Data Structures - Lecture 5,هياكل البيانات - المحاضرة 5,2025-02-06,Yes
+L00116,C011,6,Data Structures - Lecture 6,هياكل البيانات - المحاضرة 6,2025-02-07,Yes
+L00117,C011,7,Data Structures - Lecture 7,هياكل البيانات - المحاضرة 7,2025-02-08,Yes
+L00118,C011,8,Data Structures - Lecture 8,هياكل البيانات - المحاضرة 8,2025-02-09,Yes
+L00119,C011,9,Data Structures - Lecture 9,هياكل البيانات - المحاضرة 9,2025-02-10,Yes
+L00120,C011,10,Data Structures - Lecture 10,هياكل البيانات - المحاضرة 10,2025-02-11,Yes
+L00121,C011,11,Data Structures - Lecture 11,هياكل البيانات - المحاضرة 11,2025-02-12,Yes
+L00122,C012,1,Operating Systems - Lecture 1,نظم التشغيل - المحاضرة 1,2025-02-02,Yes
+L00123,C012,2,Operating Systems - Lecture 2,نظم التشغيل - المحاضرة 2,2025-02-03,Yes
+L00124,C012,3,Operating Systems - Lecture 3,نظم التشغيل - المحاضرة 3,2025-02-04,Yes
+L00125,C012,4,Operating Systems - Lecture 4,نظم التشغيل - المحاضرة 4,2025-02-05,Yes
+L00126,C012,5,Operating Systems - Lecture 5,نظم التشغيل - المحاضرة 5,2025-02-06,Yes
+L00127,C012,6,Operating Systems - Lecture 6,نظم التشغيل - المحاضرة 6,2025-02-07,Yes
+L00128,C012,7,Operating Systems - Lecture 7,نظم التشغيل - المحاضرة 7,2025-02-08,Yes
+L00129,C012,8,Operating Systems - Lecture 8,نظم التشغيل - المحاضرة 8,2025-02-09,Yes
+L00130,C012,9,Operating Systems - Lecture 9,نظم التشغيل - المحاضرة 9,2025-02-10,Yes
+L00131,C012,10,Operating Systems - Lecture 10,نظم التشغيل - المحاضرة 10,2025-02-11,Yes
+L00132,C012,11,Operating Systems - Lecture 11,نظم التشغيل - المحاضرة 11,2025-02-12,Yes
+L00133,C013,1,Database Systems - Lecture 1,نظم قواعد البيانات - المحاضرة 1,2025-02-02,Yes
+L00134,C013,2,Database Systems - Lecture 2,نظم قواعد البيانات - المحاضرة 2,2025-02-03,Yes
+L00135,C013,3,Database Systems - Lecture 3,نظم قواعد البيانات - المحاضرة 3,2025-02-04,Yes
+L00136,C013,4,Database Systems - Lecture 4,نظم قواعد البيانات - المحاضرة 4,2025-02-05,Yes
+L00137,C013,5,Database Systems - Lecture 5,نظم قواعد البيانات - المحاضرة 5,2025-02-06,Yes
+L00138,C013,6,Database Systems - Lecture 6,نظم قواعد البيانات - المحاضرة 6,2025-02-07,Yes
+L00139,C013,7,Database Systems - Lecture 7,نظم قواعد البيانات - المحاضرة 7,2025-02-08,Yes
+L00140,C013,8,Database Systems - Lecture 8,نظم قواعد البيانات - المحاضرة 8,2025-02-09,Yes
+L00141,C013,9,Database Systems - Lecture 9,نظم قواعد البيانات - المحاضرة 9,2025-02-10,Yes
+L00142,C013,10,Database Systems - Lecture 10,نظم قواعد البيانات - المحاضرة 10,2025-02-11,Yes
+L00143,C013,11,Database Systems - Lecture 11,نظم قواعد البيانات - المحاضرة 11,2025-02-12,Yes
+L00144,C014,1,Computer Networks - Lecture 1,شبكات الحاسب - المحاضرة 1,2025-02-02,Yes
+L00145,C014,2,Computer Networks - Lecture 2,شبكات الحاسب - المحاضرة 2,2025-02-03,Yes
+L00146,C014,3,Computer Networks - Lecture 3,شبكات الحاسب - المحاضرة 3,2025-02-04,Yes
+L00147,C014,4,Computer Networks - Lecture 4,شبكات الحاسب - المحاضرة 4,2025-02-05,Yes
+L00148,C014,5,Computer Networks - Lecture 5,شبكات الحاسب - المحاضرة 5,2025-02-06,Yes
+L00149,C014,6,Computer Networks - Lecture 6,شبكات الحاسب - المحاضرة 6,2025-02-07,Yes
+L00150,C014,7,Computer Networks - Lecture 7,شبكات الحاسب - المحاضرة 7,2025-02-08,Yes
+L00151,C014,8,Computer Networks - Lecture 8,شبكات الحاسب - المحاضرة 8,2025-02-09,Yes
+L00152,C014,9,Computer Networks - Lecture 9,شبكات الحاسب - المحاضرة 9,2025-02-10,Yes
+L00153,C014,10,Computer Networks - Lecture 10,شبكات الحاسب - المحاضرة 10,2025-02-11,Yes
+L00154,C014,11,Computer Networks - Lecture 11,شبكات الحاسب - المحاضرة 11,2025-02-12,Yes
+L00155,C015,1,Probability & Statistics - Lecture 1,الاحتمالات والإحصاء - المحاضرة 1,2025-02-02,Yes
+L00156,C015,2,Probability & Statistics - Lecture 2,الاحتمالات والإحصاء - المحاضرة 2,2025-02-03,Yes
+L00157,C015,3,Probability & Statistics - Lecture 3,الاحتمالات والإحصاء - المحاضرة 3,2025-02-04,Yes
+L00158,C015,4,Probability & Statistics - Lecture 4,الاحتمالات والإحصاء - المحاضرة 4,2025-02-05,Yes
+L00159,C015,5,Probability & Statistics - Lecture 5,الاحتمالات والإحصاء - المحاضرة 5,2025-02-06,Yes
+L00160,C015,6,Probability & Statistics - Lecture 6,الاحتمالات والإحصاء - المحاضرة 6,2025-02-07,Yes
+L00161,C015,7,Probability & Statistics - Lecture 7,الاحتمالات والإحصاء - المحاضرة 7,2025-02-08,Yes
+L00162,C015,8,Probability & Statistics - Lecture 8,الاحتمالات والإحصاء - المحاضرة 8,2025-02-09,Yes
+L00163,C015,9,Probability & Statistics - Lecture 9,الاحتمالات والإحصاء - المحاضرة 9,2025-02-10,Yes
+L00164,C015,10,Probability & Statistics - Lecture 10,الاحتمالات والإحصاء - المحاضرة 10,2025-02-11,Yes
+L00165,C015,11,Probability & Statistics - Lecture 11,الاحتمالات والإحصاء - المحاضرة 11,2025-02-12,Yes
+L00166,C016,1,Web Development Basics - Lecture 1,أساسيات تطوير الويب - المحاضرة 1,2025-02-02,Yes
+L00167,C016,2,Web Development Basics - Lecture 2,أساسيات تطوير الويب - المحاضرة 2,2025-02-03,Yes
+L00168,C016,3,Web Development Basics - Lecture 3,أساسيات تطوير الويب - المحاضرة 3,2025-02-04,Yes
+L00169,C016,4,Web Development Basics - Lecture 4,أساسيات تطوير الويب - المحاضرة 4,2025-02-05,Yes
+L00170,C016,5,Web Development Basics - Lecture 5,أساسيات تطوير الويب - المحاضرة 5,2025-02-06,Yes
+L00171,C016,6,Web Development Basics - Lecture 6,أساسيات تطوير الويب - المحاضرة 6,2025-02-07,Yes
+L00172,C016,7,Web Development Basics - Lecture 7,أساسيات تطوير الويب - المحاضرة 7,2025-02-08,Yes
+L00173,C016,8,Web Development Basics - Lecture 8,أساسيات تطوير الويب - المحاضرة 8,2025-02-09,Yes
+L00174,C016,9,Web Development Basics - Lecture 9,أساسيات تطوير الويب - المحاضرة 9,2025-02-10,Yes
+L00175,C016,10,Web Development Basics - Lecture 10,أساسيات تطوير الويب - المحاضرة 10,2025-02-11,Yes
+L00176,C016,11,Web Development Basics - Lecture 11,أساسيات تطوير الويب - المحاضرة 11,2025-02-12,Yes
+L00177,C017,1,Advanced Programming - Lecture 1,برمجة متقدمة - المحاضرة 1,2025-02-02,Yes
+L00178,C017,2,Advanced Programming - Lecture 2,برمجة متقدمة - المحاضرة 2,2025-02-03,Yes
+L00179,C017,3,Advanced Programming - Lecture 3,برمجة متقدمة - المحاضرة 3,2025-02-04,Yes
+L00180,C017,4,Advanced Programming - Lecture 4,برمجة متقدمة - المحاضرة 4,2025-02-05,Yes
+L00181,C017,5,Advanced Programming - Lecture 5,برمجة متقدمة - المحاضرة 5,2025-02-06,Yes
+L00182,C017,6,Advanced Programming - Lecture 6,برمجة متقدمة - المحاضرة 6,2025-02-07,Yes
+L00183,C017,7,Advanced Programming - Lecture 7,برمجة متقدمة - المحاضرة 7,2025-02-08,Yes
+L00184,C017,8,Advanced Programming - Lecture 8,برمجة متقدمة - المحاضرة 8,2025-02-09,Yes
+L00185,C017,9,Advanced Programming - Lecture 9,برمجة متقدمة - المحاضرة 9,2025-02-10,Yes
+L00186,C017,10,Advanced Programming - Lecture 10,برمجة متقدمة - المحاضرة 10,2025-02-11,Yes
+L00187,C017,11,Advanced Programming - Lecture 11,برمجة متقدمة - المحاضرة 11,2025-02-12,Yes
+L00188,C018,1,Numerical Methods - Lecture 1,الأساليب العددية - المحاضرة 1,2025-02-02,Yes
+L00189,C018,2,Numerical Methods - Lecture 2,الأساليب العددية - المحاضرة 2,2025-02-03,Yes
+L00190,C018,3,Numerical Methods - Lecture 3,الأساليب العددية - المحاضرة 3,2025-02-04,Yes
+L00191,C018,4,Numerical Methods - Lecture 4,الأساليب العددية - المحاضرة 4,2025-02-05,Yes
+L00192,C018,5,Numerical Methods - Lecture 5,الأساليب العددية - المحاضرة 5,2025-02-06,Yes
+L00193,C018,6,Numerical Methods - Lecture 6,الأساليب العددية - المحاضرة 6,2025-02-07,Yes
+L00194,C018,7,Numerical Methods - Lecture 7,الأساليب العددية - المحاضرة 7,2025-02-08,Yes
+L00195,C018,8,Numerical Methods - Lecture 8,الأساليب العددية - المحاضرة 8,2025-02-09,Yes
+L00196,C018,9,Numerical Methods - Lecture 9,الأساليب العددية - المحاضرة 9,2025-02-10,Yes
+L00197,C018,10,Numerical Methods - Lecture 10,الأساليب العددية - المحاضرة 10,2025-02-11,Yes
+L00198,C018,11,Numerical Methods - Lecture 11,الأساليب العددية - المحاضرة 11,2025-02-12,Yes
+L00199,C019,1,Network Fundamentals - Lecture 1,أساسيات الشبكات - المحاضرة 1,2025-02-02,Yes
+L00200,C019,2,Network Fundamentals - Lecture 2,أساسيات الشبكات - المحاضرة 2,2025-02-03,Yes
+L00201,C019,3,Network Fundamentals - Lecture 3,أساسيات الشبكات - المحاضرة 3,2025-02-04,Yes
+L00202,C019,4,Network Fundamentals - Lecture 4,أساسيات الشبكات - المحاضرة 4,2025-02-05,Yes
+L00203,C019,5,Network Fundamentals - Lecture 5,أساسيات الشبكات - المحاضرة 5,2025-02-06,Yes
+L00204,C019,6,Network Fundamentals - Lecture 6,أساسيات الشبكات - المحاضرة 6,2025-02-07,Yes
+L00205,C019,7,Network Fundamentals - Lecture 7,أساسيات الشبكات - المحاضرة 7,2025-02-08,Yes
+L00206,C019,8,Network Fundamentals - Lecture 8,أساسيات الشبكات - المحاضرة 8,2025-02-09,Yes
+L00207,C019,9,Network Fundamentals - Lecture 9,أساسيات الشبكات - المحاضرة 9,2025-02-10,Yes
+L00208,C019,10,Network Fundamentals - Lecture 10,أساسيات الشبكات - المحاضرة 10,2025-02-11,Yes
+L00209,C019,11,Network Fundamentals - Lecture 11,أساسيات الشبكات - المحاضرة 11,2025-02-12,Yes
+L00210,C020,1,Information Security Basics - Lecture 1,أساسيات أمن المعلومات - المحاضرة 1,2025-02-02,Yes
+L00211,C020,2,Information Security Basics - Lecture 2,أساسيات أمن المعلومات - المحاضرة 2,2025-02-03,Yes
+L00212,C020,3,Information Security Basics - Lecture 3,أساسيات أمن المعلومات - المحاضرة 3,2025-02-04,Yes
+L00213,C020,4,Information Security Basics - Lecture 4,أساسيات أمن المعلومات - المحاضرة 4,2025-02-05,Yes
+L00214,C020,5,Information Security Basics - Lecture 5,أساسيات أمن المعلومات - المحاضرة 5,2025-02-06,Yes
+L00215,C020,6,Information Security Basics - Lecture 6,أساسيات أمن المعلومات - المحاضرة 6,2025-02-07,Yes
+L00216,C020,7,Information Security Basics - Lecture 7,أساسيات أمن المعلومات - المحاضرة 7,2025-02-08,Yes
+L00217,C020,8,Information Security Basics - Lecture 8,أساسيات أمن المعلومات - المحاضرة 8,2025-02-09,Yes
+L00218,C020,9,Information Security Basics - Lecture 9,أساسيات أمن المعلومات - المحاضرة 9,2025-02-10,Yes
+L00219,C020,10,Information Security Basics - Lecture 10,أساسيات أمن المعلومات - المحاضرة 10,2025-02-11,Yes
+L00220,C020,11,Information Security Basics - Lecture 11,أساسيات أمن المعلومات - المحاضرة 11,2025-02-12,Yes
+L00221,C021,1,Algorithms - Lecture 1,الخوارزميات - المحاضرة 1,2025-02-02,Yes
+L00222,C021,2,Algorithms - Lecture 2,الخوارزميات - المحاضرة 2,2025-02-03,Yes
+L00223,C021,3,Algorithms - Lecture 3,الخوارزميات - المحاضرة 3,2025-02-04,Yes
+L00224,C021,4,Algorithms - Lecture 4,الخوارزميات - المحاضرة 4,2025-02-05,Yes
+L00225,C021,5,Algorithms - Lecture 5,الخوارزميات - المحاضرة 5,2025-02-06,Yes
+L00226,C021,6,Algorithms - Lecture 6,الخوارزميات - المحاضرة 6,2025-02-07,Yes
+L00227,C021,7,Algorithms - Lecture 7,الخوارزميات - المحاضرة 7,2025-02-08,Yes
+L00228,C021,8,Algorithms - Lecture 8,الخوارزميات - المحاضرة 8,2025-02-09,Yes
+L00229,C021,9,Algorithms - Lecture 9,الخوارزميات - المحاضرة 9,2025-02-10,Yes
+L00230,C021,10,Algorithms - Lecture 10,الخوارزميات - المحاضرة 10,2025-02-11,Yes
+L00231,C021,11,Algorithms - Lecture 11,الخوارزميات - المحاضرة 11,2025-02-12,Yes
+L00232,C022,1,Computer Architecture - Lecture 1,هندسة الحاسب - المحاضرة 1,2025-02-02,Yes
+L00233,C022,2,Computer Architecture - Lecture 2,هندسة الحاسب - المحاضرة 2,2025-02-03,Yes
+L00234,C022,3,Computer Architecture - Lecture 3,هندسة الحاسب - المحاضرة 3,2025-02-04,Yes
+L00235,C022,4,Computer Architecture - Lecture 4,هندسة الحاسب - المحاضرة 4,2025-02-05,Yes
+L00236,C022,5,Computer Architecture - Lecture 5,هندسة الحاسب - المحاضرة 5,2025-02-06,Yes
+L00237,C022,6,Computer Architecture - Lecture 6,هندسة الحاسب - المحاضرة 6,2025-02-07,Yes
+L00238,C022,7,Computer Architecture - Lecture 7,هندسة الحاسب - المحاضرة 7,2025-02-08,Yes
+L00239,C022,8,Computer Architecture - Lecture 8,هندسة الحاسب - المحاضرة 8,2025-02-09,Yes
+L00240,C022,9,Computer Architecture - Lecture 9,هندسة الحاسب - المحاضرة 9,2025-02-10,Yes
+L00241,C022,10,Computer Architecture - Lecture 10,هندسة الحاسب - المحاضرة 10,2025-02-11,Yes
+L00242,C022,11,Computer Architecture - Lecture 11,هندسة الحاسب - المحاضرة 11,2025-02-12,Yes
+L00243,C023,1,Operating Systems 2 - Lecture 1,نظم التشغيل ٢ - المحاضرة 1,2025-02-02,Yes
+L00244,C023,2,Operating Systems 2 - Lecture 2,نظم التشغيل ٢ - المحاضرة 2,2025-02-03,Yes
+L00245,C023,3,Operating Systems 2 - Lecture 3,نظم التشغيل ٢ - المحاضرة 3,2025-02-04,Yes
+L00246,C023,4,Operating Systems 2 - Lecture 4,نظم التشغيل ٢ - المحاضرة 4,2025-02-05,Yes
+L00247,C023,5,Operating Systems 2 - Lecture 5,نظم التشغيل ٢ - المحاضرة 5,2025-02-06,Yes
+L00248,C023,6,Operating Systems 2 - Lecture 6,نظم التشغيل ٢ - المحاضرة 6,2025-02-07,Yes
+L00249,C023,7,Operating Systems 2 - Lecture 7,نظم التشغيل ٢ - المحاضرة 7,2025-02-08,Yes
+L00250,C023,8,Operating Systems 2 - Lecture 8,نظم التشغيل ٢ - المحاضرة 8,2025-02-09,Yes
+L00251,C023,9,Operating Systems 2 - Lecture 9,نظم التشغيل ٢ - المحاضرة 9,2025-02-10,Yes
+L00252,C023,10,Operating Systems 2 - Lecture 10,نظم التشغيل ٢ - المحاضرة 10,2025-02-11,Yes
+L00253,C023,11,Operating Systems 2 - Lecture 11,نظم التشغيل ٢ - المحاضرة 11,2025-02-12,Yes
+L00254,C024,1,Compiler Construction - Lecture 1,بناء المترجمات - المحاضرة 1,2025-02-02,Yes
+L00255,C024,2,Compiler Construction - Lecture 2,بناء المترجمات - المحاضرة 2,2025-02-03,Yes
+L00256,C024,3,Compiler Construction - Lecture 3,بناء المترجمات - المحاضرة 3,2025-02-04,Yes
+L00257,C024,4,Compiler Construction - Lecture 4,بناء المترجمات - المحاضرة 4,2025-02-05,Yes
+L00258,C024,5,Compiler Construction - Lecture 5,بناء المترجمات - المحاضرة 5,2025-02-06,Yes
+L00259,C024,6,Compiler Construction - Lecture 6,بناء المترجمات - المحاضرة 6,2025-02-07,Yes
+L00260,C024,7,Compiler Construction - Lecture 7,بناء المترجمات - المحاضرة 7,2025-02-08,Yes
+L00261,C024,8,Compiler Construction - Lecture 8,بناء المترجمات - المحاضرة 8,2025-02-09,Yes
+L00262,C024,9,Compiler Construction - Lecture 9,بناء المترجمات - المحاضرة 9,2025-02-10,Yes
+L00263,C024,10,Compiler Construction - Lecture 10,بناء المترجمات - المحاضرة 10,2025-02-11,Yes
+L00264,C024,11,Compiler Construction - Lecture 11,بناء المترجمات - المحاضرة 11,2025-02-12,Yes
+L00265,C025,1,Artificial Intelligence - Lecture 1,الذكاء الاصطناعي - المحاضرة 1,2025-02-02,Yes
+L00266,C025,2,Artificial Intelligence - Lecture 2,الذكاء الاصطناعي - المحاضرة 2,2025-02-03,Yes
+L00267,C025,3,Artificial Intelligence - Lecture 3,الذكاء الاصطناعي - المحاضرة 3,2025-02-04,Yes
+L00268,C025,4,Artificial Intelligence - Lecture 4,الذكاء الاصطناعي - المحاضرة 4,2025-02-05,Yes
+L00269,C025,5,Artificial Intelligence - Lecture 5,الذكاء الاصطناعي - المحاضرة 5,2025-02-06,Yes
+L00270,C025,6,Artificial Intelligence - Lecture 6,الذكاء الاصطناعي - المحاضرة 6,2025-02-07,Yes
+L00271,C025,7,Artificial Intelligence - Lecture 7,الذكاء الاصطناعي - المحاضرة 7,2025-02-08,Yes
+L00272,C025,8,Artificial Intelligence - Lecture 8,الذكاء الاصطناعي - المحاضرة 8,2025-02-09,Yes
+L00273,C025,9,Artificial Intelligence - Lecture 9,الذكاء الاصطناعي - المحاضرة 9,2025-02-10,Yes
+L00274,C025,10,Artificial Intelligence - Lecture 10,الذكاء الاصطناعي - المحاضرة 10,2025-02-11,Yes
+L00275,C025,11,Artificial Intelligence - Lecture 11,الذكاء الاصطناعي - المحاضرة 11,2025-02-12,Yes
+L00276,C026,1,Distributed Systems - Lecture 1,نظم موزعة - المحاضرة 1,2025-02-02,Yes
+L00277,C026,2,Distributed Systems - Lecture 2,نظم موزعة - المحاضرة 2,2025-02-03,Yes
+L00278,C026,3,Distributed Systems - Lecture 3,نظم موزعة - المحاضرة 3,2025-02-04,Yes
+L00279,C026,4,Distributed Systems - Lecture 4,نظم موزعة - المحاضرة 4,2025-02-05,Yes
+L00280,C026,5,Distributed Systems - Lecture 5,نظم موزعة - المحاضرة 5,2025-02-06,Yes
+L00281,C026,6,Distributed Systems - Lecture 6,نظم موزعة - المحاضرة 6,2025-02-07,Yes
+L00282,C026,7,Distributed Systems - Lecture 7,نظم موزعة - المحاضرة 7,2025-02-08,Yes
+L00283,C026,8,Distributed Systems - Lecture 8,نظم موزعة - المحاضرة 8,2025-02-09,Yes
+L00284,C026,9,Distributed Systems - Lecture 9,نظم موزعة - المحاضرة 9,2025-02-10,Yes
+L00285,C026,10,Distributed Systems - Lecture 10,نظم موزعة - المحاضرة 10,2025-02-11,Yes
+L00286,C026,11,Distributed Systems - Lecture 11,نظم موزعة - المحاضرة 11,2025-02-12,Yes
+L00287,C027,1,Parallel Computing - Lecture 1,الحوسبة المتوازية - المحاضرة 1,2025-02-02,Yes
+L00288,C027,2,Parallel Computing - Lecture 2,الحوسبة المتوازية - المحاضرة 2,2025-02-03,Yes
+L00289,C027,3,Parallel Computing - Lecture 3,الحوسبة المتوازية - المحاضرة 3,2025-02-04,Yes
+L00290,C027,4,Parallel Computing - Lecture 4,الحوسبة المتوازية - المحاضرة 4,2025-02-05,Yes
+L00291,C027,5,Parallel Computing - Lecture 5,الحوسبة المتوازية - المحاضرة 5,2025-02-06,Yes
+L00292,C027,6,Parallel Computing - Lecture 6,الحوسبة المتوازية - المحاضرة 6,2025-02-07,Yes
+L00293,C027,7,Parallel Computing - Lecture 7,الحوسبة المتوازية - المحاضرة 7,2025-02-08,Yes
+L00294,C027,8,Parallel Computing - Lecture 8,الحوسبة المتوازية - المحاضرة 8,2025-02-09,Yes
+L00295,C027,9,Parallel Computing - Lecture 9,الحوسبة المتوازية - المحاضرة 9,2025-02-10,Yes
+L00296,C027,10,Parallel Computing - Lecture 10,الحوسبة المتوازية - المحاضرة 10,2025-02-11,Yes
+L00297,C027,11,Parallel Computing - Lecture 11,الحوسبة المتوازية - المحاضرة 11,2025-02-12,Yes
+L00298,C028,1,Advanced Algorithms - Lecture 1,الخوارزميات المتقدمة - المحاضرة 1,2025-02-02,Yes
+L00299,C028,2,Advanced Algorithms - Lecture 2,الخوارزميات المتقدمة - المحاضرة 2,2025-02-03,Yes
+L00300,C028,3,Advanced Algorithms - Lecture 3,الخوارزميات المتقدمة - المحاضرة 3,2025-02-04,Yes
+L00301,C028,4,Advanced Algorithms - Lecture 4,الخوارزميات المتقدمة - المحاضرة 4,2025-02-05,Yes
+L00302,C028,5,Advanced Algorithms - Lecture 5,الخوارزميات المتقدمة - المحاضرة 5,2025-02-06,Yes
+L00303,C028,6,Advanced Algorithms - Lecture 6,الخوارزميات المتقدمة - المحاضرة 6,2025-02-07,Yes
+L00304,C028,7,Advanced Algorithms - Lecture 7,الخوارزميات المتقدمة - المحاضرة 7,2025-02-08,Yes
+L00305,C028,8,Advanced Algorithms - Lecture 8,الخوارزميات المتقدمة - المحاضرة 8,2025-02-09,Yes
+L00306,C028,9,Advanced Algorithms - Lecture 9,الخوارزميات المتقدمة - المحاضرة 9,2025-02-10,Yes
+L00307,C028,10,Advanced Algorithms - Lecture 10,الخوارزميات المتقدمة - المحاضرة 10,2025-02-11,Yes
+L00308,C028,11,Advanced Algorithms - Lecture 11,الخوارزميات المتقدمة - المحاضرة 11,2025-02-12,Yes
+L00309,C029,1,Theory of Computation - Lecture 1,نظرية الحوسبة - المحاضرة 1,2025-02-02,Yes
+L00310,C029,2,Theory of Computation - Lecture 2,نظرية الحوسبة - المحاضرة 2,2025-02-03,Yes
+L00311,C029,3,Theory of Computation - Lecture 3,نظرية الحوسبة - المحاضرة 3,2025-02-04,Yes
+L00312,C029,4,Theory of Computation - Lecture 4,نظرية الحوسبة - المحاضرة 4,2025-02-05,Yes
+L00313,C029,5,Theory of Computation - Lecture 5,نظرية الحوسبة - المحاضرة 5,2025-02-06,Yes
+L00314,C029,6,Theory of Computation - Lecture 6,نظرية الحوسبة - المحاضرة 6,2025-02-07,Yes
+L00315,C029,7,Theory of Computation - Lecture 7,نظرية الحوسبة - المحاضرة 7,2025-02-08,Yes
+L00316,C029,8,Theory of Computation - Lecture 8,نظرية الحوسبة - المحاضرة 8,2025-02-09,Yes
+L00317,C029,9,Theory of Computation - Lecture 9,نظرية الحوسبة - المحاضرة 9,2025-02-10,Yes
+L00318,C029,10,Theory of Computation - Lecture 10,نظرية الحوسبة - المحاضرة 10,2025-02-11,Yes
+L00319,C029,11,Theory of Computation - Lecture 11,نظرية الحوسبة - المحاضرة 11,2025-02-12,Yes
+L00320,C030,1,Software Design Patterns - Lecture 1,أنماط تصميم البرمجيات - المحاضرة 1,2025-02-02,Yes
+L00321,C030,2,Software Design Patterns - Lecture 2,أنماط تصميم البرمجيات - المحاضرة 2,2025-02-03,Yes
+L00322,C030,3,Software Design Patterns - Lecture 3,أنماط تصميم البرمجيات - المحاضرة 3,2025-02-04,Yes
+L00323,C030,4,Software Design Patterns - Lecture 4,أنماط تصميم البرمجيات - المحاضرة 4,2025-02-05,Yes
+L00324,C030,5,Software Design Patterns - Lecture 5,أنماط تصميم البرمجيات - المحاضرة 5,2025-02-06,Yes
+L00325,C030,6,Software Design Patterns - Lecture 6,أنماط تصميم البرمجيات - المحاضرة 6,2025-02-07,Yes
+L00326,C030,7,Software Design Patterns - Lecture 7,أنماط تصميم البرمجيات - المحاضرة 7,2025-02-08,Yes
+L00327,C030,8,Software Design Patterns - Lecture 8,أنماط تصميم البرمجيات - المحاضرة 8,2025-02-09,Yes
+L00328,C030,9,Software Design Patterns - Lecture 9,أنماط تصميم البرمجيات - المحاضرة 9,2025-02-10,Yes
+L00329,C030,10,Software Design Patterns - Lecture 10,أنماط تصميم البرمجيات - المحاضرة 10,2025-02-11,Yes
+L00330,C030,11,Software Design Patterns - Lecture 11,أنماط تصميم البرمجيات - المحاضرة 11,2025-02-12,Yes
+L00331,C031,1,Information Systems Analysis - Lecture 1,تحليل نظم المعلومات - المحاضرة 1,2025-02-02,Yes
+L00332,C031,2,Information Systems Analysis - Lecture 2,تحليل نظم المعلومات - المحاضرة 2,2025-02-03,Yes
+L00333,C031,3,Information Systems Analysis - Lecture 3,تحليل نظم المعلومات - المحاضرة 3,2025-02-04,Yes
+L00334,C031,4,Information Systems Analysis - Lecture 4,تحليل نظم المعلومات - المحاضرة 4,2025-02-05,Yes
+L00335,C031,5,Information Systems Analysis - Lecture 5,تحليل نظم المعلومات - المحاضرة 5,2025-02-06,Yes
+L00336,C031,6,Information Systems Analysis - Lecture 6,تحليل نظم المعلومات - المحاضرة 6,2025-02-07,Yes
+L00337,C031,7,Information Systems Analysis - Lecture 7,تحليل نظم المعلومات - المحاضرة 7,2025-02-08,Yes
+L00338,C031,8,Information Systems Analysis - Lecture 8,تحليل نظم المعلومات - المحاضرة 8,2025-02-09,Yes
+L00339,C031,9,Information Systems Analysis - Lecture 9,تحليل نظم المعلومات - المحاضرة 9,2025-02-10,Yes
+L00340,C031,10,Information Systems Analysis - Lecture 10,تحليل نظم المعلومات - المحاضرة 10,2025-02-11,Yes
+L00341,C031,11,Information Systems Analysis - Lecture 11,تحليل نظم المعلومات - المحاضرة 11,2025-02-12,Yes
+L00342,C032,1,Enterprise Systems - Lecture 1,نظم المؤسسات - المحاضرة 1,2025-02-02,Yes
+L00343,C032,2,Enterprise Systems - Lecture 2,نظم المؤسسات - المحاضرة 2,2025-02-03,Yes
+L00344,C032,3,Enterprise Systems - Lecture 3,نظم المؤسسات - المحاضرة 3,2025-02-04,Yes
+L00345,C032,4,Enterprise Systems - Lecture 4,نظم المؤسسات - المحاضرة 4,2025-02-05,Yes
+L00346,C032,5,Enterprise Systems - Lecture 5,نظم المؤسسات - المحاضرة 5,2025-02-06,Yes
+L00347,C032,6,Enterprise Systems - Lecture 6,نظم المؤسسات - المحاضرة 6,2025-02-07,Yes
+L00348,C032,7,Enterprise Systems - Lecture 7,نظم المؤسسات - المحاضرة 7,2025-02-08,Yes
+L00349,C032,8,Enterprise Systems - Lecture 8,نظم المؤسسات - المحاضرة 8,2025-02-09,Yes
+L00350,C032,9,Enterprise Systems - Lecture 9,نظم المؤسسات - المحاضرة 9,2025-02-10,Yes
+L00351,C032,10,Enterprise Systems - Lecture 10,نظم المؤسسات - المحاضرة 10,2025-02-11,Yes
+L00352,C032,11,Enterprise Systems - Lecture 11,نظم المؤسسات - المحاضرة 11,2025-02-12,Yes
+L00353,C033,1,Business Intelligence - Lecture 1,ذكاء الأعمال - المحاضرة 1,2025-02-02,Yes
+L00354,C033,2,Business Intelligence - Lecture 2,ذكاء الأعمال - المحاضرة 2,2025-02-03,Yes
+L00355,C033,3,Business Intelligence - Lecture 3,ذكاء الأعمال - المحاضرة 3,2025-02-04,Yes
+L00356,C033,4,Business Intelligence - Lecture 4,ذكاء الأعمال - المحاضرة 4,2025-02-05,Yes
+L00357,C033,5,Business Intelligence - Lecture 5,ذكاء الأعمال - المحاضرة 5,2025-02-06,Yes
+L00358,C033,6,Business Intelligence - Lecture 6,ذكاء الأعمال - المحاضرة 6,2025-02-07,Yes
+L00359,C033,7,Business Intelligence - Lecture 7,ذكاء الأعمال - المحاضرة 7,2025-02-08,Yes
+L00360,C033,8,Business Intelligence - Lecture 8,ذكاء الأعمال - المحاضرة 8,2025-02-09,Yes
+L00361,C033,9,Business Intelligence - Lecture 9,ذكاء الأعمال - المحاضرة 9,2025-02-10,Yes
+L00362,C033,10,Business Intelligence - Lecture 10,ذكاء الأعمال - المحاضرة 10,2025-02-11,Yes
+L00363,C033,11,Business Intelligence - Lecture 11,ذكاء الأعمال - المحاضرة 11,2025-02-12,Yes
+L00364,C034,1,E-Commerce Systems - Lecture 1,نظم التجارة الإلكترونية - المحاضرة 1,2025-02-02,Yes
+L00365,C034,2,E-Commerce Systems - Lecture 2,نظم التجارة الإلكترونية - المحاضرة 2,2025-02-03,Yes
+L00366,C034,3,E-Commerce Systems - Lecture 3,نظم التجارة الإلكترونية - المحاضرة 3,2025-02-04,Yes
+L00367,C034,4,E-Commerce Systems - Lecture 4,نظم التجارة الإلكترونية - المحاضرة 4,2025-02-05,Yes
+L00368,C034,5,E-Commerce Systems - Lecture 5,نظم التجارة الإلكترونية - المحاضرة 5,2025-02-06,Yes
+L00369,C034,6,E-Commerce Systems - Lecture 6,نظم التجارة الإلكترونية - المحاضرة 6,2025-02-07,Yes
+L00370,C034,7,E-Commerce Systems - Lecture 7,نظم التجارة الإلكترونية - المحاضرة 7,2025-02-08,Yes
+L00371,C034,8,E-Commerce Systems - Lecture 8,نظم التجارة الإلكترونية - المحاضرة 8,2025-02-09,Yes
+L00372,C034,9,E-Commerce Systems - Lecture 9,نظم التجارة الإلكترونية - المحاضرة 9,2025-02-10,Yes
+L00373,C034,10,E-Commerce Systems - Lecture 10,نظم التجارة الإلكترونية - المحاضرة 10,2025-02-11,Yes
+L00374,C034,11,E-Commerce Systems - Lecture 11,نظم التجارة الإلكترونية - المحاضرة 11,2025-02-12,Yes
+L00375,C035,1,Software Project Management - Lecture 1,إدارة مشاريع البرمجيات - المحاضرة 1,2025-02-02,Yes
+L00376,C035,2,Software Project Management - Lecture 2,إدارة مشاريع البرمجيات - المحاضرة 2,2025-02-03,Yes
+L00377,C035,3,Software Project Management - Lecture 3,إدارة مشاريع البرمجيات - المحاضرة 3,2025-02-04,Yes
+L00378,C035,4,Software Project Management - Lecture 4,إدارة مشاريع البرمجيات - المحاضرة 4,2025-02-05,Yes
+L00379,C035,5,Software Project Management - Lecture 5,إدارة مشاريع البرمجيات - المحاضرة 5,2025-02-06,Yes
+L00380,C035,6,Software Project Management - Lecture 6,إدارة مشاريع البرمجيات - المحاضرة 6,2025-02-07,Yes
+L00381,C035,7,Software Project Management - Lecture 7,إدارة مشاريع البرمجيات - المحاضرة 7,2025-02-08,Yes
+L00382,C035,8,Software Project Management - Lecture 8,إدارة مشاريع البرمجيات - المحاضرة 8,2025-02-09,Yes
+L00383,C035,9,Software Project Management - Lecture 9,إدارة مشاريع البرمجيات - المحاضرة 9,2025-02-10,Yes
+L00384,C035,10,Software Project Management - Lecture 10,إدارة مشاريع البرمجيات - المحاضرة 10,2025-02-11,Yes
+L00385,C035,11,Software Project Management - Lecture 11,إدارة مشاريع البرمجيات - المحاضرة 11,2025-02-12,Yes
+L00386,C036,1,Decision Support Systems - Lecture 1,نظم دعم القرار - المحاضرة 1,2025-02-02,Yes
+L00387,C036,2,Decision Support Systems - Lecture 2,نظم دعم القرار - المحاضرة 2,2025-02-03,Yes
+L00388,C036,3,Decision Support Systems - Lecture 3,نظم دعم القرار - المحاضرة 3,2025-02-04,Yes
+L00389,C036,4,Decision Support Systems - Lecture 4,نظم دعم القرار - المحاضرة 4,2025-02-05,Yes
+L00390,C036,5,Decision Support Systems - Lecture 5,نظم دعم القرار - المحاضرة 5,2025-02-06,Yes
+L00391,C036,6,Decision Support Systems - Lecture 6,نظم دعم القرار - المحاضرة 6,2025-02-07,Yes
+L00392,C036,7,Decision Support Systems - Lecture 7,نظم دعم القرار - المحاضرة 7,2025-02-08,Yes
+L00393,C036,8,Decision Support Systems - Lecture 8,نظم دعم القرار - المحاضرة 8,2025-02-09,Yes
+L00394,C036,9,Decision Support Systems - Lecture 9,نظم دعم القرار - المحاضرة 9,2025-02-10,Yes
+L00395,C036,10,Decision Support Systems - Lecture 10,نظم دعم القرار - المحاضرة 10,2025-02-11,Yes
+L00396,C036,11,Decision Support Systems - Lecture 11,نظم دعم القرار - المحاضرة 11,2025-02-12,Yes
+L00397,C037,1,Information Retrieval - Lecture 1,استرجاع المعلومات - المحاضرة 1,2025-02-02,Yes
+L00398,C037,2,Information Retrieval - Lecture 2,استرجاع المعلومات - المحاضرة 2,2025-02-03,Yes
+L00399,C037,3,Information Retrieval - Lecture 3,استرجاع المعلومات - المحاضرة 3,2025-02-04,Yes
+L00400,C037,4,Information Retrieval - Lecture 4,استرجاع المعلومات - المحاضرة 4,2025-02-05,Yes
+L00401,C037,5,Information Retrieval - Lecture 5,استرجاع المعلومات - المحاضرة 5,2025-02-06,Yes
+L00402,C037,6,Information Retrieval - Lecture 6,استرجاع المعلومات - المحاضرة 6,2025-02-07,Yes
+L00403,C037,7,Information Retrieval - Lecture 7,استرجاع المعلومات - المحاضرة 7,2025-02-08,Yes
+L00404,C037,8,Information Retrieval - Lecture 8,استرجاع المعلومات - المحاضرة 8,2025-02-09,Yes
+L00405,C037,9,Information Retrieval - Lecture 9,استرجاع المعلومات - المحاضرة 9,2025-02-10,Yes
+L00406,C037,10,Information Retrieval - Lecture 10,استرجاع المعلومات - المحاضرة 10,2025-02-11,Yes
+L00407,C037,11,Information Retrieval - Lecture 11,استرجاع المعلومات - المحاضرة 11,2025-02-12,Yes
+L00408,C038,1,Knowledge Management - Lecture 1,إدارة المعرفة - المحاضرة 1,2025-02-02,Yes
+L00409,C038,2,Knowledge Management - Lecture 2,إدارة المعرفة - المحاضرة 2,2025-02-03,Yes
+L00410,C038,3,Knowledge Management - Lecture 3,إدارة المعرفة - المحاضرة 3,2025-02-04,Yes
+L00411,C038,4,Knowledge Management - Lecture 4,إدارة المعرفة - المحاضرة 4,2025-02-05,Yes
+L00412,C038,5,Knowledge Management - Lecture 5,إدارة المعرفة - المحاضرة 5,2025-02-06,Yes
+L00413,C038,6,Knowledge Management - Lecture 6,إدارة المعرفة - المحاضرة 6,2025-02-07,Yes
+L00414,C038,7,Knowledge Management - Lecture 7,إدارة المعرفة - المحاضرة 7,2025-02-08,Yes
+L00415,C038,8,Knowledge Management - Lecture 8,إدارة المعرفة - المحاضرة 8,2025-02-09,Yes
+L00416,C038,9,Knowledge Management - Lecture 9,إدارة المعرفة - المحاضرة 9,2025-02-10,Yes
+L00417,C038,10,Knowledge Management - Lecture 10,إدارة المعرفة - المحاضرة 10,2025-02-11,Yes
+L00418,C038,11,Knowledge Management - Lecture 11,إدارة المعرفة - المحاضرة 11,2025-02-12,Yes
+L00419,C039,1,Database Administration - Lecture 1,إدارة قواعد البيانات - المحاضرة 1,2025-02-02,Yes
+L00420,C039,2,Database Administration - Lecture 2,إدارة قواعد البيانات - المحاضرة 2,2025-02-03,Yes
+L00421,C039,3,Database Administration - Lecture 3,إدارة قواعد البيانات - المحاضرة 3,2025-02-04,Yes
+L00422,C039,4,Database Administration - Lecture 4,إدارة قواعد البيانات - المحاضرة 4,2025-02-05,Yes
+L00423,C039,5,Database Administration - Lecture 5,إدارة قواعد البيانات - المحاضرة 5,2025-02-06,Yes
+L00424,C039,6,Database Administration - Lecture 6,إدارة قواعد البيانات - المحاضرة 6,2025-02-07,Yes
+L00425,C039,7,Database Administration - Lecture 7,إدارة قواعد البيانات - المحاضرة 7,2025-02-08,Yes
+L00426,C039,8,Database Administration - Lecture 8,إدارة قواعد البيانات - المحاضرة 8,2025-02-09,Yes
+L00427,C039,9,Database Administration - Lecture 9,إدارة قواعد البيانات - المحاضرة 9,2025-02-10,Yes
+L00428,C039,10,Database Administration - Lecture 10,إدارة قواعد البيانات - المحاضرة 10,2025-02-11,Yes
+L00429,C039,11,Database Administration - Lecture 11,إدارة قواعد البيانات - المحاضرة 11,2025-02-12,Yes
+L00430,C040,1,ERP Systems - Lecture 1,نظم تخطيط موارد المؤسسات - المحاضرة 1,2025-02-02,Yes
+L00431,C040,2,ERP Systems - Lecture 2,نظم تخطيط موارد المؤسسات - المحاضرة 2,2025-02-03,Yes
+L00432,C040,3,ERP Systems - Lecture 3,نظم تخطيط موارد المؤسسات - المحاضرة 3,2025-02-04,Yes
+L00433,C040,4,ERP Systems - Lecture 4,نظم تخطيط موارد المؤسسات - المحاضرة 4,2025-02-05,Yes
+L00434,C040,5,ERP Systems - Lecture 5,نظم تخطيط موارد المؤسسات - المحاضرة 5,2025-02-06,Yes
+L00435,C040,6,ERP Systems - Lecture 6,نظم تخطيط موارد المؤسسات - المحاضرة 6,2025-02-07,Yes
+L00436,C040,7,ERP Systems - Lecture 7,نظم تخطيط موارد المؤسسات - المحاضرة 7,2025-02-08,Yes
+L00437,C040,8,ERP Systems - Lecture 8,نظم تخطيط موارد المؤسسات - المحاضرة 8,2025-02-09,Yes
+L00438,C040,9,ERP Systems - Lecture 9,نظم تخطيط موارد المؤسسات - المحاضرة 9,2025-02-10,Yes
+L00439,C040,10,ERP Systems - Lecture 10,نظم تخطيط موارد المؤسسات - المحاضرة 10,2025-02-11,Yes
+L00440,C040,11,ERP Systems - Lecture 11,نظم تخطيط موارد المؤسسات - المحاضرة 11,2025-02-12,Yes
+L00441,C041,1,E-Learning Systems - Lecture 1,أنظمة التعلم الإلكتروني - المحاضرة 1,2025-02-02,Yes
+L00442,C041,2,E-Learning Systems - Lecture 2,أنظمة التعلم الإلكتروني - المحاضرة 2,2025-02-03,Yes
+L00443,C041,3,E-Learning Systems - Lecture 3,أنظمة التعلم الإلكتروني - المحاضرة 3,2025-02-04,Yes
+L00444,C041,4,E-Learning Systems - Lecture 4,أنظمة التعلم الإلكتروني - المحاضرة 4,2025-02-05,Yes
+L00445,C041,5,E-Learning Systems - Lecture 5,أنظمة التعلم الإلكتروني - المحاضرة 5,2025-02-06,Yes
+L00446,C041,6,E-Learning Systems - Lecture 6,أنظمة التعلم الإلكتروني - المحاضرة 6,2025-02-07,Yes
+L00447,C041,7,E-Learning Systems - Lecture 7,أنظمة التعلم الإلكتروني - المحاضرة 7,2025-02-08,Yes
+L00448,C041,8,E-Learning Systems - Lecture 8,أنظمة التعلم الإلكتروني - المحاضرة 8,2025-02-09,Yes
+L00449,C041,9,E-Learning Systems - Lecture 9,أنظمة التعلم الإلكتروني - المحاضرة 9,2025-02-10,Yes
+L00450,C041,10,E-Learning Systems - Lecture 10,أنظمة التعلم الإلكتروني - المحاضرة 10,2025-02-11,Yes
+L00451,C041,11,E-Learning Systems - Lecture 11,أنظمة التعلم الإلكتروني - المحاضرة 11,2025-02-12,Yes
+L00452,C042,1,Network Programming - Lecture 1,برمجة الشبكات - المحاضرة 1,2025-02-02,Yes
+L00453,C042,2,Network Programming - Lecture 2,برمجة الشبكات - المحاضرة 2,2025-02-03,Yes
+L00454,C042,3,Network Programming - Lecture 3,برمجة الشبكات - المحاضرة 3,2025-02-04,Yes
+L00455,C042,4,Network Programming - Lecture 4,برمجة الشبكات - المحاضرة 4,2025-02-05,Yes
+L00456,C042,5,Network Programming - Lecture 5,برمجة الشبكات - المحاضرة 5,2025-02-06,Yes
+L00457,C042,6,Network Programming - Lecture 6,برمجة الشبكات - المحاضرة 6,2025-02-07,Yes
+L00458,C042,7,Network Programming - Lecture 7,برمجة الشبكات - المحاضرة 7,2025-02-08,Yes
+L00459,C042,8,Network Programming - Lecture 8,برمجة الشبكات - المحاضرة 8,2025-02-09,Yes
+L00460,C042,9,Network Programming - Lecture 9,برمجة الشبكات - المحاضرة 9,2025-02-10,Yes
+L00461,C042,10,Network Programming - Lecture 10,برمجة الشبكات - المحاضرة 10,2025-02-11,Yes
+L00462,C042,11,Network Programming - Lecture 11,برمجة الشبكات - المحاضرة 11,2025-02-12,Yes
+L00463,C043,1,Computer Vision - Lecture 1,الرؤية الحاسوبية - المحاضرة 1,2025-02-02,Yes
+L00464,C043,2,Computer Vision - Lecture 2,الرؤية الحاسوبية - المحاضرة 2,2025-02-03,Yes
+L00465,C043,3,Computer Vision - Lecture 3,الرؤية الحاسوبية - المحاضرة 3,2025-02-04,Yes
+L00466,C043,4,Computer Vision - Lecture 4,الرؤية الحاسوبية - المحاضرة 4,2025-02-05,Yes
+L00467,C043,5,Computer Vision - Lecture 5,الرؤية الحاسوبية - المحاضرة 5,2025-02-06,Yes
+L00468,C043,6,Computer Vision - Lecture 6,الرؤية الحاسوبية - المحاضرة 6,2025-02-07,Yes
+L00469,C043,7,Computer Vision - Lecture 7,الرؤية الحاسوبية - المحاضرة 7,2025-02-08,Yes
+L00470,C043,8,Computer Vision - Lecture 8,الرؤية الحاسوبية - المحاضرة 8,2025-02-09,Yes
+L00471,C043,9,Computer Vision - Lecture 9,الرؤية الحاسوبية - المحاضرة 9,2025-02-10,Yes
+L00472,C043,10,Computer Vision - Lecture 10,الرؤية الحاسوبية - المحاضرة 10,2025-02-11,Yes
+L00473,C043,11,Computer Vision - Lecture 11,الرؤية الحاسوبية - المحاضرة 11,2025-02-12,Yes
+L00474,C044,1,Mobile Computing - Lecture 1,الحوسبة المتنقلة - المحاضرة 1,2025-02-02,Yes
+L00475,C044,2,Mobile Computing - Lecture 2,الحوسبة المتنقلة - المحاضرة 2,2025-02-03,Yes
+L00476,C044,3,Mobile Computing - Lecture 3,الحوسبة المتنقلة - المحاضرة 3,2025-02-04,Yes
+L00477,C044,4,Mobile Computing - Lecture 4,الحوسبة المتنقلة - المحاضرة 4,2025-02-05,Yes
+L00478,C044,5,Mobile Computing - Lecture 5,الحوسبة المتنقلة - المحاضرة 5,2025-02-06,Yes
+L00479,C044,6,Mobile Computing - Lecture 6,الحوسبة المتنقلة - المحاضرة 6,2025-02-07,Yes
+L00480,C044,7,Mobile Computing - Lecture 7,الحوسبة المتنقلة - المحاضرة 7,2025-02-08,Yes
+L00481,C044,8,Mobile Computing - Lecture 8,الحوسبة المتنقلة - المحاضرة 8,2025-02-09,Yes
+L00482,C044,9,Mobile Computing - Lecture 9,الحوسبة المتنقلة - المحاضرة 9,2025-02-10,Yes
+L00483,C044,10,Mobile Computing - Lecture 10,الحوسبة المتنقلة - المحاضرة 10,2025-02-11,Yes
+L00484,C044,11,Mobile Computing - Lecture 11,الحوسبة المتنقلة - المحاضرة 11,2025-02-12,Yes
+L00485,C045,1,Multimedia Systems - Lecture 1,نظم الوسائط المتعددة - المحاضرة 1,2025-02-02,Yes
+L00486,C045,2,Multimedia Systems - Lecture 2,نظم الوسائط المتعددة - المحاضرة 2,2025-02-03,Yes
+L00487,C045,3,Multimedia Systems - Lecture 3,نظم الوسائط المتعددة - المحاضرة 3,2025-02-04,Yes
+L00488,C045,4,Multimedia Systems - Lecture 4,نظم الوسائط المتعددة - المحاضرة 4,2025-02-05,Yes
+L00489,C045,5,Multimedia Systems - Lecture 5,نظم الوسائط المتعددة - المحاضرة 5,2025-02-06,Yes
+L00490,C045,6,Multimedia Systems - Lecture 6,نظم الوسائط المتعددة - المحاضرة 6,2025-02-07,Yes
+L00491,C045,7,Multimedia Systems - Lecture 7,نظم الوسائط المتعددة - المحاضرة 7,2025-02-08,Yes
+L00492,C045,8,Multimedia Systems - Lecture 8,نظم الوسائط المتعددة - المحاضرة 8,2025-02-09,Yes
+L00493,C045,9,Multimedia Systems - Lecture 9,نظم الوسائط المتعددة - المحاضرة 9,2025-02-10,Yes
+L00494,C045,10,Multimedia Systems - Lecture 10,نظم الوسائط المتعددة - المحاضرة 10,2025-02-11,Yes
+L00495,C045,11,Multimedia Systems - Lecture 11,نظم الوسائط المتعددة - المحاضرة 11,2025-02-12,Yes
+L00496,C046,1,Advanced Networking - Lecture 1,الشبكات المتقدمة - المحاضرة 1,2025-02-02,Yes
+L00497,C046,2,Advanced Networking - Lecture 2,الشبكات المتقدمة - المحاضرة 2,2025-02-03,Yes
+L00498,C046,3,Advanced Networking - Lecture 3,الشبكات المتقدمة - المحاضرة 3,2025-02-04,Yes
+L00499,C046,4,Advanced Networking - Lecture 4,الشبكات المتقدمة - المحاضرة 4,2025-02-05,Yes
+L00500,C046,5,Advanced Networking - Lecture 5,الشبكات المتقدمة - المحاضرة 5,2025-02-06,Yes
+L00501,C046,6,Advanced Networking - Lecture 6,الشبكات المتقدمة - المحاضرة 6,2025-02-07,Yes
+L00502,C046,7,Advanced Networking - Lecture 7,الشبكات المتقدمة - المحاضرة 7,2025-02-08,Yes
+L00503,C046,8,Advanced Networking - Lecture 8,الشبكات المتقدمة - المحاضرة 8,2025-02-09,Yes
+L00504,C046,9,Advanced Networking - Lecture 9,الشبكات المتقدمة - المحاضرة 9,2025-02-10,Yes
+L00505,C046,10,Advanced Networking - Lecture 10,الشبكات المتقدمة - المحاضرة 10,2025-02-11,Yes
+L00506,C046,11,Advanced Networking - Lecture 11,الشبكات المتقدمة - المحاضرة 11,2025-02-12,Yes
+L00507,C047,1,Wireless Communication - Lecture 1,الاتصالات اللاسلكية - المحاضرة 1,2025-02-02,Yes
+L00508,C047,2,Wireless Communication - Lecture 2,الاتصالات اللاسلكية - المحاضرة 2,2025-02-03,Yes
+L00509,C047,3,Wireless Communication - Lecture 3,الاتصالات اللاسلكية - المحاضرة 3,2025-02-04,Yes
+L00510,C047,4,Wireless Communication - Lecture 4,الاتصالات اللاسلكية - المحاضرة 4,2025-02-05,Yes
+L00511,C047,5,Wireless Communication - Lecture 5,الاتصالات اللاسلكية - المحاضرة 5,2025-02-06,Yes
+L00512,C047,6,Wireless Communication - Lecture 6,الاتصالات اللاسلكية - المحاضرة 6,2025-02-07,Yes
+L00513,C047,7,Wireless Communication - Lecture 7,الاتصالات اللاسلكية - المحاضرة 7,2025-02-08,Yes
+L00514,C047,8,Wireless Communication - Lecture 8,الاتصالات اللاسلكية - المحاضرة 8,2025-02-09,Yes
+L00515,C047,9,Wireless Communication - Lecture 9,الاتصالات اللاسلكية - المحاضرة 9,2025-02-10,Yes
+L00516,C047,10,Wireless Communication - Lecture 10,الاتصالات اللاسلكية - المحاضرة 10,2025-02-11,Yes
+L00517,C047,11,Wireless Communication - Lecture 11,الاتصالات اللاسلكية - المحاضرة 11,2025-02-12,Yes
+L00518,C048,1,Cloud Infrastructure - Lecture 1,البنية التحتية السحابية - المحاضرة 1,2025-02-02,Yes
+L00519,C048,2,Cloud Infrastructure - Lecture 2,البنية التحتية السحابية - المحاضرة 2,2025-02-03,Yes
+L00520,C048,3,Cloud Infrastructure - Lecture 3,البنية التحتية السحابية - المحاضرة 3,2025-02-04,Yes
+L00521,C048,4,Cloud Infrastructure - Lecture 4,البنية التحتية السحابية - المحاضرة 4,2025-02-05,Yes
+L00522,C048,5,Cloud Infrastructure - Lecture 5,البنية التحتية السحابية - المحاضرة 5,2025-02-06,Yes
+L00523,C048,6,Cloud Infrastructure - Lecture 6,البنية التحتية السحابية - المحاضرة 6,2025-02-07,Yes
+L00524,C048,7,Cloud Infrastructure - Lecture 7,البنية التحتية السحابية - المحاضرة 7,2025-02-08,Yes
+L00525,C048,8,Cloud Infrastructure - Lecture 8,البنية التحتية السحابية - المحاضرة 8,2025-02-09,Yes
+L00526,C048,9,Cloud Infrastructure - Lecture 9,البنية التحتية السحابية - المحاضرة 9,2025-02-10,Yes
+L00527,C048,10,Cloud Infrastructure - Lecture 10,البنية التحتية السحابية - المحاضرة 10,2025-02-11,Yes
+L00528,C048,11,Cloud Infrastructure - Lecture 11,البنية التحتية السحابية - المحاضرة 11,2025-02-12,Yes
+L00529,C049,1,Digital Image Processing - Lecture 1,معالجة الصور الرقمية - المحاضرة 1,2025-02-02,Yes
+L00530,C049,2,Digital Image Processing - Lecture 2,معالجة الصور الرقمية - المحاضرة 2,2025-02-03,Yes
+L00531,C049,3,Digital Image Processing - Lecture 3,معالجة الصور الرقمية - المحاضرة 3,2025-02-04,Yes
+L00532,C049,4,Digital Image Processing - Lecture 4,معالجة الصور الرقمية - المحاضرة 4,2025-02-05,Yes
+L00533,C049,5,Digital Image Processing - Lecture 5,معالجة الصور الرقمية - المحاضرة 5,2025-02-06,Yes
+L00534,C049,6,Digital Image Processing - Lecture 6,معالجة الصور الرقمية - المحاضرة 6,2025-02-07,Yes
+L00535,C049,7,Digital Image Processing - Lecture 7,معالجة الصور الرقمية - المحاضرة 7,2025-02-08,Yes
+L00536,C049,8,Digital Image Processing - Lecture 8,معالجة الصور الرقمية - المحاضرة 8,2025-02-09,Yes
+L00537,C049,9,Digital Image Processing - Lecture 9,معالجة الصور الرقمية - المحاضرة 9,2025-02-10,Yes
+L00538,C049,10,Digital Image Processing - Lecture 10,معالجة الصور الرقمية - المحاضرة 10,2025-02-11,Yes
+L00539,C049,11,Digital Image Processing - Lecture 11,معالجة الصور الرقمية - المحاضرة 11,2025-02-12,Yes
+L00540,C050,1,Distributed Networks - Lecture 1,شبكات موزعة - المحاضرة 1,2025-02-02,Yes
+L00541,C050,2,Distributed Networks - Lecture 2,شبكات موزعة - المحاضرة 2,2025-02-03,Yes
+L00542,C050,3,Distributed Networks - Lecture 3,شبكات موزعة - المحاضرة 3,2025-02-04,Yes
+L00543,C050,4,Distributed Networks - Lecture 4,شبكات موزعة - المحاضرة 4,2025-02-05,Yes
+L00544,C050,5,Distributed Networks - Lecture 5,شبكات موزعة - المحاضرة 5,2025-02-06,Yes
+L00545,C050,6,Distributed Networks - Lecture 6,شبكات موزعة - المحاضرة 6,2025-02-07,Yes
+L00546,C050,7,Distributed Networks - Lecture 7,شبكات موزعة - المحاضرة 7,2025-02-08,Yes
+L00547,C050,8,Distributed Networks - Lecture 8,شبكات موزعة - المحاضرة 8,2025-02-09,Yes
+L00548,C050,9,Distributed Networks - Lecture 9,شبكات موزعة - المحاضرة 9,2025-02-10,Yes
+L00549,C050,10,Distributed Networks - Lecture 10,شبكات موزعة - المحاضرة 10,2025-02-11,Yes
+L00550,C050,11,Distributed Networks - Lecture 11,شبكات موزعة - المحاضرة 11,2025-02-12,Yes
+L00551,C051,1,Machine Learning - Lecture 1,تعلم الآلة - المحاضرة 1,2025-02-02,Yes
+L00552,C051,2,Machine Learning - Lecture 2,تعلم الآلة - المحاضرة 2,2025-02-03,Yes
+L00553,C051,3,Machine Learning - Lecture 3,تعلم الآلة - المحاضرة 3,2025-02-04,Yes
+L00554,C051,4,Machine Learning - Lecture 4,تعلم الآلة - المحاضرة 4,2025-02-05,Yes
+L00555,C051,5,Machine Learning - Lecture 5,تعلم الآلة - المحاضرة 5,2025-02-06,Yes
+L00556,C051,6,Machine Learning - Lecture 6,تعلم الآلة - المحاضرة 6,2025-02-07,Yes
+L00557,C051,7,Machine Learning - Lecture 7,تعلم الآلة - المحاضرة 7,2025-02-08,Yes
+L00558,C051,8,Machine Learning - Lecture 8,تعلم الآلة - المحاضرة 8,2025-02-09,Yes
+L00559,C051,9,Machine Learning - Lecture 9,تعلم الآلة - المحاضرة 9,2025-02-10,Yes
+L00560,C051,10,Machine Learning - Lecture 10,تعلم الآلة - المحاضرة 10,2025-02-11,Yes
+L00561,C051,11,Machine Learning - Lecture 11,تعلم الآلة - المحاضرة 11,2025-02-12,Yes
+L00562,C052,1,Deep Learning - Lecture 1,التعلم العميق - المحاضرة 1,2025-02-02,Yes
+L00563,C052,2,Deep Learning - Lecture 2,التعلم العميق - المحاضرة 2,2025-02-03,Yes
+L00564,C052,3,Deep Learning - Lecture 3,التعلم العميق - المحاضرة 3,2025-02-04,Yes
+L00565,C052,4,Deep Learning - Lecture 4,التعلم العميق - المحاضرة 4,2025-02-05,Yes
+L00566,C052,5,Deep Learning - Lecture 5,التعلم العميق - المحاضرة 5,2025-02-06,Yes
+L00567,C052,6,Deep Learning - Lecture 6,التعلم العميق - المحاضرة 6,2025-02-07,Yes
+L00568,C052,7,Deep Learning - Lecture 7,التعلم العميق - المحاضرة 7,2025-02-08,Yes
+L00569,C052,8,Deep Learning - Lecture 8,التعلم العميق - المحاضرة 8,2025-02-09,Yes
+L00570,C052,9,Deep Learning - Lecture 9,التعلم العميق - المحاضرة 9,2025-02-10,Yes
+L00571,C052,10,Deep Learning - Lecture 10,التعلم العميق - المحاضرة 10,2025-02-11,Yes
+L00572,C052,11,Deep Learning - Lecture 11,التعلم العميق - المحاضرة 11,2025-02-12,Yes
+L00573,C053,1,Natural Language Processing - Lecture 1,معالجة اللغات الطبيعية - المحاضرة 1,2025-02-02,Yes
+L00574,C053,2,Natural Language Processing - Lecture 2,معالجة اللغات الطبيعية - المحاضرة 2,2025-02-03,Yes
+L00575,C053,3,Natural Language Processing - Lecture 3,معالجة اللغات الطبيعية - المحاضرة 3,2025-02-04,Yes
+L00576,C053,4,Natural Language Processing - Lecture 4,معالجة اللغات الطبيعية - المحاضرة 4,2025-02-05,Yes
+L00577,C053,5,Natural Language Processing - Lecture 5,معالجة اللغات الطبيعية - المحاضرة 5,2025-02-06,Yes
+L00578,C053,6,Natural Language Processing - Lecture 6,معالجة اللغات الطبيعية - المحاضرة 6,2025-02-07,Yes
+L00579,C053,7,Natural Language Processing - Lecture 7,معالجة اللغات الطبيعية - المحاضرة 7,2025-02-08,Yes
+L00580,C053,8,Natural Language Processing - Lecture 8,معالجة اللغات الطبيعية - المحاضرة 8,2025-02-09,Yes
+L00581,C053,9,Natural Language Processing - Lecture 9,معالجة اللغات الطبيعية - المحاضرة 9,2025-02-10,Yes
+L00582,C053,10,Natural Language Processing - Lecture 10,معالجة اللغات الطبيعية - المحاضرة 10,2025-02-11,Yes
+L00583,C053,11,Natural Language Processing - Lecture 11,معالجة اللغات الطبيعية - المحاضرة 11,2025-02-12,Yes
+L00584,C054,1,Computer Vision - Lecture 1,الرؤية الحاسوبية - المحاضرة 1,2025-02-02,Yes
+L00585,C054,2,Computer Vision - Lecture 2,الرؤية الحاسوبية - المحاضرة 2,2025-02-03,Yes
+L00586,C054,3,Computer Vision - Lecture 3,الرؤية الحاسوبية - المحاضرة 3,2025-02-04,Yes
+L00587,C054,4,Computer Vision - Lecture 4,الرؤية الحاسوبية - المحاضرة 4,2025-02-05,Yes
+L00588,C054,5,Computer Vision - Lecture 5,الرؤية الحاسوبية - المحاضرة 5,2025-02-06,Yes
+L00589,C054,6,Computer Vision - Lecture 6,الرؤية الحاسوبية - المحاضرة 6,2025-02-07,Yes
+L00590,C054,7,Computer Vision - Lecture 7,الرؤية الحاسوبية - المحاضرة 7,2025-02-08,Yes
+L00591,C054,8,Computer Vision - Lecture 8,الرؤية الحاسوبية - المحاضرة 8,2025-02-09,Yes
+L00592,C054,9,Computer Vision - Lecture 9,الرؤية الحاسوبية - المحاضرة 9,2025-02-10,Yes
+L00593,C054,10,Computer Vision - Lecture 10,الرؤية الحاسوبية - المحاضرة 10,2025-02-11,Yes
+L00594,C054,11,Computer Vision - Lecture 11,الرؤية الحاسوبية - المحاضرة 11,2025-02-12,Yes
+L00595,C055,1,AI Ethics & Decision Making - Lecture 1,أخلاقيات الذكاء الاصطناعي - المحاضرة 1,2025-02-02,Yes
+L00596,C055,2,AI Ethics & Decision Making - Lecture 2,أخلاقيات الذكاء الاصطناعي - المحاضرة 2,2025-02-03,Yes
+L00597,C055,3,AI Ethics & Decision Making - Lecture 3,أخلاقيات الذكاء الاصطناعي - المحاضرة 3,2025-02-04,Yes
+L00598,C055,4,AI Ethics & Decision Making - Lecture 4,أخلاقيات الذكاء الاصطناعي - المحاضرة 4,2025-02-05,Yes
+L00599,C055,5,AI Ethics & Decision Making - Lecture 5,أخلاقيات الذكاء الاصطناعي - المحاضرة 5,2025-02-06,Yes
+L00600,C055,6,AI Ethics & Decision Making - Lecture 6,أخلاقيات الذكاء الاصطناعي - المحاضرة 6,2025-02-07,Yes
+L00601,C055,7,AI Ethics & Decision Making - Lecture 7,أخلاقيات الذكاء الاصطناعي - المحاضرة 7,2025-02-08,Yes
+L00602,C055,8,AI Ethics & Decision Making - Lecture 8,أخلاقيات الذكاء الاصطناعي - المحاضرة 8,2025-02-09,Yes
+L00603,C055,9,AI Ethics & Decision Making - Lecture 9,أخلاقيات الذكاء الاصطناعي - المحاضرة 9,2025-02-10,Yes
+L00604,C055,10,AI Ethics & Decision Making - Lecture 10,أخلاقيات الذكاء الاصطناعي - المحاضرة 10,2025-02-11,Yes
+L00605,C055,11,AI Ethics & Decision Making - Lecture 11,أخلاقيات الذكاء الاصطناعي - المحاضرة 11,2025-02-12,Yes
+L00606,C056,1,Reinforcement Learning - Lecture 1,التعلم التعزيزي - المحاضرة 1,2025-02-02,Yes
+L00607,C056,2,Reinforcement Learning - Lecture 2,التعلم التعزيزي - المحاضرة 2,2025-02-03,Yes
+L00608,C056,3,Reinforcement Learning - Lecture 3,التعلم التعزيزي - المحاضرة 3,2025-02-04,Yes
+L00609,C056,4,Reinforcement Learning - Lecture 4,التعلم التعزيزي - المحاضرة 4,2025-02-05,Yes
+L00610,C056,5,Reinforcement Learning - Lecture 5,التعلم التعزيزي - المحاضرة 5,2025-02-06,Yes
+L00611,C056,6,Reinforcement Learning - Lecture 6,التعلم التعزيزي - المحاضرة 6,2025-02-07,Yes
+L00612,C056,7,Reinforcement Learning - Lecture 7,التعلم التعزيزي - المحاضرة 7,2025-02-08,Yes
+L00613,C056,8,Reinforcement Learning - Lecture 8,التعلم التعزيزي - المحاضرة 8,2025-02-09,Yes
+L00614,C056,9,Reinforcement Learning - Lecture 9,التعلم التعزيزي - المحاضرة 9,2025-02-10,Yes
+L00615,C056,10,Reinforcement Learning - Lecture 10,التعلم التعزيزي - المحاضرة 10,2025-02-11,Yes
+L00616,C056,11,Reinforcement Learning - Lecture 11,التعلم التعزيزي - المحاضرة 11,2025-02-12,Yes
+L00617,C057,1,Neural Networks - Lecture 1,الشبكات العصبية - المحاضرة 1,2025-02-02,Yes
+L00618,C057,2,Neural Networks - Lecture 2,الشبكات العصبية - المحاضرة 2,2025-02-03,Yes
+L00619,C057,3,Neural Networks - Lecture 3,الشبكات العصبية - المحاضرة 3,2025-02-04,Yes
+L00620,C057,4,Neural Networks - Lecture 4,الشبكات العصبية - المحاضرة 4,2025-02-05,Yes
+L00621,C057,5,Neural Networks - Lecture 5,الشبكات العصبية - المحاضرة 5,2025-02-06,Yes
+L00622,C057,6,Neural Networks - Lecture 6,الشبكات العصبية - المحاضرة 6,2025-02-07,Yes
+L00623,C057,7,Neural Networks - Lecture 7,الشبكات العصبية - المحاضرة 7,2025-02-08,Yes
+L00624,C057,8,Neural Networks - Lecture 8,الشبكات العصبية - المحاضرة 8,2025-02-09,Yes
+L00625,C057,9,Neural Networks - Lecture 9,الشبكات العصبية - المحاضرة 9,2025-02-10,Yes
+L00626,C057,10,Neural Networks - Lecture 10,الشبكات العصبية - المحاضرة 10,2025-02-11,Yes
+L00627,C057,11,Neural Networks - Lecture 11,الشبكات العصبية - المحاضرة 11,2025-02-12,Yes
+L00628,C058,1,AI in Healthcare - Lecture 1,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 1,2025-02-02,Yes
+L00629,C058,2,AI in Healthcare - Lecture 2,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 2,2025-02-03,Yes
+L00630,C058,3,AI in Healthcare - Lecture 3,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 3,2025-02-04,Yes
+L00631,C058,4,AI in Healthcare - Lecture 4,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 4,2025-02-05,Yes
+L00632,C058,5,AI in Healthcare - Lecture 5,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 5,2025-02-06,Yes
+L00633,C058,6,AI in Healthcare - Lecture 6,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 6,2025-02-07,Yes
+L00634,C058,7,AI in Healthcare - Lecture 7,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 7,2025-02-08,Yes
+L00635,C058,8,AI in Healthcare - Lecture 8,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 8,2025-02-09,Yes
+L00636,C058,9,AI in Healthcare - Lecture 9,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 9,2025-02-10,Yes
+L00637,C058,10,AI in Healthcare - Lecture 10,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 10,2025-02-11,Yes
+L00638,C058,11,AI in Healthcare - Lecture 11,الذكاء الاصطناعي في الرعاية الصحية - المحاضرة 11,2025-02-12,Yes
+L00639,C059,1,Data Mining - Lecture 1,تنقيب البيانات - المحاضرة 1,2025-02-02,Yes
+L00640,C059,2,Data Mining - Lecture 2,تنقيب البيانات - المحاضرة 2,2025-02-03,Yes
+L00641,C059,3,Data Mining - Lecture 3,تنقيب البيانات - المحاضرة 3,2025-02-04,Yes
+L00642,C059,4,Data Mining - Lecture 4,تنقيب البيانات - المحاضرة 4,2025-02-05,Yes
+L00643,C059,5,Data Mining - Lecture 5,تنقيب البيانات - المحاضرة 5,2025-02-06,Yes
+L00644,C059,6,Data Mining - Lecture 6,تنقيب البيانات - المحاضرة 6,2025-02-07,Yes
+L00645,C059,7,Data Mining - Lecture 7,تنقيب البيانات - المحاضرة 7,2025-02-08,Yes
+L00646,C059,8,Data Mining - Lecture 8,تنقيب البيانات - المحاضرة 8,2025-02-09,Yes
+L00647,C059,9,Data Mining - Lecture 9,تنقيب البيانات - المحاضرة 9,2025-02-10,Yes
+L00648,C059,10,Data Mining - Lecture 10,تنقيب البيانات - المحاضرة 10,2025-02-11,Yes
+L00649,C059,11,Data Mining - Lecture 11,تنقيب البيانات - المحاضرة 11,2025-02-12,Yes
+L00650,C060,1,Pattern Recognition - Lecture 1,التعرف على الأنماط - المحاضرة 1,2025-02-02,Yes
+L00651,C060,2,Pattern Recognition - Lecture 2,التعرف على الأنماط - المحاضرة 2,2025-02-03,Yes
+L00652,C060,3,Pattern Recognition - Lecture 3,التعرف على الأنماط - المحاضرة 3,2025-02-04,Yes
+L00653,C060,4,Pattern Recognition - Lecture 4,التعرف على الأنماط - المحاضرة 4,2025-02-05,Yes
+L00654,C060,5,Pattern Recognition - Lecture 5,التعرف على الأنماط - المحاضرة 5,2025-02-06,Yes
+L00655,C060,6,Pattern Recognition - Lecture 6,التعرف على الأنماط - المحاضرة 6,2025-02-07,Yes
+L00656,C060,7,Pattern Recognition - Lecture 7,التعرف على الأنماط - المحاضرة 7,2025-02-08,Yes
+L00657,C060,8,Pattern Recognition - Lecture 8,التعرف على الأنماط - المحاضرة 8,2025-02-09,Yes
+L00658,C060,9,Pattern Recognition - Lecture 9,التعرف على الأنماط - المحاضرة 9,2025-02-10,Yes
+L00659,C060,10,Pattern Recognition - Lecture 10,التعرف على الأنماط - المحاضرة 10,2025-02-11,Yes
+L00660,C060,11,Pattern Recognition - Lecture 11,التعرف على الأنماط - المحاضرة 11,2025-02-12,Yes
+L00661,C061,1,Software Engineering - Lecture 1,هندسة البرمجيات - المحاضرة 1,2025-02-02,Yes
+L00662,C061,2,Software Engineering - Lecture 2,هندسة البرمجيات - المحاضرة 2,2025-02-03,Yes
+L00663,C061,3,Software Engineering - Lecture 3,هندسة البرمجيات - المحاضرة 3,2025-02-04,Yes
+L00664,C061,4,Software Engineering - Lecture 4,هندسة البرمجيات - المحاضرة 4,2025-02-05,Yes
+L00665,C061,5,Software Engineering - Lecture 5,هندسة البرمجيات - المحاضرة 5,2025-02-06,Yes
+L00666,C061,6,Software Engineering - Lecture 6,هندسة البرمجيات - المحاضرة 6,2025-02-07,Yes
+L00667,C061,7,Software Engineering - Lecture 7,هندسة البرمجيات - المحاضرة 7,2025-02-08,Yes
+L00668,C061,8,Software Engineering - Lecture 8,هندسة البرمجيات - المحاضرة 8,2025-02-09,Yes
+L00669,C061,9,Software Engineering - Lecture 9,هندسة البرمجيات - المحاضرة 9,2025-02-10,Yes
+L00670,C061,10,Software Engineering - Lecture 10,هندسة البرمجيات - المحاضرة 10,2025-02-11,Yes
+L00671,C061,11,Software Engineering - Lecture 11,هندسة البرمجيات - المحاضرة 11,2025-02-12,Yes
+L00672,C062,1,Software Testing & Quality - Lecture 1,اختبار وضمان جودة البرمجيات - المحاضرة 1,2025-02-02,Yes
+L00673,C062,2,Software Testing & Quality - Lecture 2,اختبار وضمان جودة البرمجيات - المحاضرة 2,2025-02-03,Yes
+L00674,C062,3,Software Testing & Quality - Lecture 3,اختبار وضمان جودة البرمجيات - المحاضرة 3,2025-02-04,Yes
+L00675,C062,4,Software Testing & Quality - Lecture 4,اختبار وضمان جودة البرمجيات - المحاضرة 4,2025-02-05,Yes
+L00676,C062,5,Software Testing & Quality - Lecture 5,اختبار وضمان جودة البرمجيات - المحاضرة 5,2025-02-06,Yes
+L00677,C062,6,Software Testing & Quality - Lecture 6,اختبار وضمان جودة البرمجيات - المحاضرة 6,2025-02-07,Yes
+L00678,C062,7,Software Testing & Quality - Lecture 7,اختبار وضمان جودة البرمجيات - المحاضرة 7,2025-02-08,Yes
+L00679,C062,8,Software Testing & Quality - Lecture 8,اختبار وضمان جودة البرمجيات - المحاضرة 8,2025-02-09,Yes
+L00680,C062,9,Software Testing & Quality - Lecture 9,اختبار وضمان جودة البرمجيات - المحاضرة 9,2025-02-10,Yes
+L00681,C062,10,Software Testing & Quality - Lecture 10,اختبار وضمان جودة البرمجيات - المحاضرة 10,2025-02-11,Yes
+L00682,C062,11,Software Testing & Quality - Lecture 11,اختبار وضمان جودة البرمجيات - المحاضرة 11,2025-02-12,Yes
+L00683,C063,1,Requirements Engineering - Lecture 1,هندسة المتطلبات - المحاضرة 1,2025-02-02,Yes
+L00684,C063,2,Requirements Engineering - Lecture 2,هندسة المتطلبات - المحاضرة 2,2025-02-03,Yes
+L00685,C063,3,Requirements Engineering - Lecture 3,هندسة المتطلبات - المحاضرة 3,2025-02-04,Yes
+L00686,C063,4,Requirements Engineering - Lecture 4,هندسة المتطلبات - المحاضرة 4,2025-02-05,Yes
+L00687,C063,5,Requirements Engineering - Lecture 5,هندسة المتطلبات - المحاضرة 5,2025-02-06,Yes
+L00688,C063,6,Requirements Engineering - Lecture 6,هندسة المتطلبات - المحاضرة 6,2025-02-07,Yes
+L00689,C063,7,Requirements Engineering - Lecture 7,هندسة المتطلبات - المحاضرة 7,2025-02-08,Yes
+L00690,C063,8,Requirements Engineering - Lecture 8,هندسة المتطلبات - المحاضرة 8,2025-02-09,Yes
+L00691,C063,9,Requirements Engineering - Lecture 9,هندسة المتطلبات - المحاضرة 9,2025-02-10,Yes
+L00692,C063,10,Requirements Engineering - Lecture 10,هندسة المتطلبات - المحاضرة 10,2025-02-11,Yes
+L00693,C063,11,Requirements Engineering - Lecture 11,هندسة المتطلبات - المحاضرة 11,2025-02-12,Yes
+L00694,C064,1,Agile Methodologies - Lecture 1,الأساليب الرشيقة للتطوير - المحاضرة 1,2025-02-02,Yes
+L00695,C064,2,Agile Methodologies - Lecture 2,الأساليب الرشيقة للتطوير - المحاضرة 2,2025-02-03,Yes
+L00696,C064,3,Agile Methodologies - Lecture 3,الأساليب الرشيقة للتطوير - المحاضرة 3,2025-02-04,Yes
+L00697,C064,4,Agile Methodologies - Lecture 4,الأساليب الرشيقة للتطوير - المحاضرة 4,2025-02-05,Yes
+L00698,C064,5,Agile Methodologies - Lecture 5,الأساليب الرشيقة للتطوير - المحاضرة 5,2025-02-06,Yes
+L00699,C064,6,Agile Methodologies - Lecture 6,الأساليب الرشيقة للتطوير - المحاضرة 6,2025-02-07,Yes
+L00700,C064,7,Agile Methodologies - Lecture 7,الأساليب الرشيقة للتطوير - المحاضرة 7,2025-02-08,Yes
+L00701,C064,8,Agile Methodologies - Lecture 8,الأساليب الرشيقة للتطوير - المحاضرة 8,2025-02-09,Yes
+L00702,C064,9,Agile Methodologies - Lecture 9,الأساليب الرشيقة للتطوير - المحاضرة 9,2025-02-10,Yes
+L00703,C064,10,Agile Methodologies - Lecture 10,الأساليب الرشيقة للتطوير - المحاضرة 10,2025-02-11,Yes
+L00704,C064,11,Agile Methodologies - Lecture 11,الأساليب الرشيقة للتطوير - المحاضرة 11,2025-02-12,Yes
+L00705,C065,1,Software Architecture - Lecture 1,هندسة البرمجيات المعمارية - المحاضرة 1,2025-02-02,Yes
+L00706,C065,2,Software Architecture - Lecture 2,هندسة البرمجيات المعمارية - المحاضرة 2,2025-02-03,Yes
+L00707,C065,3,Software Architecture - Lecture 3,هندسة البرمجيات المعمارية - المحاضرة 3,2025-02-04,Yes
+L00708,C065,4,Software Architecture - Lecture 4,هندسة البرمجيات المعمارية - المحاضرة 4,2025-02-05,Yes
+L00709,C065,5,Software Architecture - Lecture 5,هندسة البرمجيات المعمارية - المحاضرة 5,2025-02-06,Yes
+L00710,C065,6,Software Architecture - Lecture 6,هندسة البرمجيات المعمارية - المحاضرة 6,2025-02-07,Yes
+L00711,C065,7,Software Architecture - Lecture 7,هندسة البرمجيات المعمارية - المحاضرة 7,2025-02-08,Yes
+L00712,C065,8,Software Architecture - Lecture 8,هندسة البرمجيات المعمارية - المحاضرة 8,2025-02-09,Yes
+L00713,C065,9,Software Architecture - Lecture 9,هندسة البرمجيات المعمارية - المحاضرة 9,2025-02-10,Yes
+L00714,C065,10,Software Architecture - Lecture 10,هندسة البرمجيات المعمارية - المحاضرة 10,2025-02-11,Yes
+L00715,C065,11,Software Architecture - Lecture 11,هندسة البرمجيات المعمارية - المحاضرة 11,2025-02-12,Yes
+L00716,C066,1,Software Metrics - Lecture 1,مقاييس البرمجيات - المحاضرة 1,2025-02-02,Yes
+L00717,C066,2,Software Metrics - Lecture 2,مقاييس البرمجيات - المحاضرة 2,2025-02-03,Yes
+L00718,C066,3,Software Metrics - Lecture 3,مقاييس البرمجيات - المحاضرة 3,2025-02-04,Yes
+L00719,C066,4,Software Metrics - Lecture 4,مقاييس البرمجيات - المحاضرة 4,2025-02-05,Yes
+L00720,C066,5,Software Metrics - Lecture 5,مقاييس البرمجيات - المحاضرة 5,2025-02-06,Yes
+L00721,C066,6,Software Metrics - Lecture 6,مقاييس البرمجيات - المحاضرة 6,2025-02-07,Yes
+L00722,C066,7,Software Metrics - Lecture 7,مقاييس البرمجيات - المحاضرة 7,2025-02-08,Yes
+L00723,C066,8,Software Metrics - Lecture 8,مقاييس البرمجيات - المحاضرة 8,2025-02-09,Yes
+L00724,C066,9,Software Metrics - Lecture 9,مقاييس البرمجيات - المحاضرة 9,2025-02-10,Yes
+L00725,C066,10,Software Metrics - Lecture 10,مقاييس البرمجيات - المحاضرة 10,2025-02-11,Yes
+L00726,C066,11,Software Metrics - Lecture 11,مقاييس البرمجيات - المحاضرة 11,2025-02-12,Yes
+L00727,C067,1,Project Management - Lecture 1,إدارة المشاريع - المحاضرة 1,2025-02-02,Yes
+L00728,C067,2,Project Management - Lecture 2,إدارة المشاريع - المحاضرة 2,2025-02-03,Yes
+L00729,C067,3,Project Management - Lecture 3,إدارة المشاريع - المحاضرة 3,2025-02-04,Yes
+L00730,C067,4,Project Management - Lecture 4,إدارة المشاريع - المحاضرة 4,2025-02-05,Yes
+L00731,C067,5,Project Management - Lecture 5,إدارة المشاريع - المحاضرة 5,2025-02-06,Yes
+L00732,C067,6,Project Management - Lecture 6,إدارة المشاريع - المحاضرة 6,2025-02-07,Yes
+L00733,C067,7,Project Management - Lecture 7,إدارة المشاريع - المحاضرة 7,2025-02-08,Yes
+L00734,C067,8,Project Management - Lecture 8,إدارة المشاريع - المحاضرة 8,2025-02-09,Yes
+L00735,C067,9,Project Management - Lecture 9,إدارة المشاريع - المحاضرة 9,2025-02-10,Yes
+L00736,C067,10,Project Management - Lecture 10,إدارة المشاريع - المحاضرة 10,2025-02-11,Yes
+L00737,C067,11,Project Management - Lecture 11,إدارة المشاريع - المحاضرة 11,2025-02-12,Yes
+L00738,C068,1,Version Control Systems - Lecture 1,أنظمة التحكم في الإصدارات - المحاضرة 1,2025-02-02,Yes
+L00739,C068,2,Version Control Systems - Lecture 2,أنظمة التحكم في الإصدارات - المحاضرة 2,2025-02-03,Yes
+L00740,C068,3,Version Control Systems - Lecture 3,أنظمة التحكم في الإصدارات - المحاضرة 3,2025-02-04,Yes
+L00741,C068,4,Version Control Systems - Lecture 4,أنظمة التحكم في الإصدارات - المحاضرة 4,2025-02-05,Yes
+L00742,C068,5,Version Control Systems - Lecture 5,أنظمة التحكم في الإصدارات - المحاضرة 5,2025-02-06,Yes
+L00743,C068,6,Version Control Systems - Lecture 6,أنظمة التحكم في الإصدارات - المحاضرة 6,2025-02-07,Yes
+L00744,C068,7,Version Control Systems - Lecture 7,أنظمة التحكم في الإصدارات - المحاضرة 7,2025-02-08,Yes
+L00745,C068,8,Version Control Systems - Lecture 8,أنظمة التحكم في الإصدارات - المحاضرة 8,2025-02-09,Yes
+L00746,C068,9,Version Control Systems - Lecture 9,أنظمة التحكم في الإصدارات - المحاضرة 9,2025-02-10,Yes
+L00747,C068,10,Version Control Systems - Lecture 10,أنظمة التحكم في الإصدارات - المحاضرة 10,2025-02-11,Yes
+L00748,C068,11,Version Control Systems - Lecture 11,أنظمة التحكم في الإصدارات - المحاضرة 11,2025-02-12,Yes
+L00749,C069,1,DevOps Fundamentals - Lecture 1,أساسيات ديف أوبس - المحاضرة 1,2025-02-02,Yes
+L00750,C069,2,DevOps Fundamentals - Lecture 2,أساسيات ديف أوبس - المحاضرة 2,2025-02-03,Yes
+L00751,C069,3,DevOps Fundamentals - Lecture 3,أساسيات ديف أوبس - المحاضرة 3,2025-02-04,Yes
+L00752,C069,4,DevOps Fundamentals - Lecture 4,أساسيات ديف أوبس - المحاضرة 4,2025-02-05,Yes
+L00753,C069,5,DevOps Fundamentals - Lecture 5,أساسيات ديف أوبس - المحاضرة 5,2025-02-06,Yes
+L00754,C069,6,DevOps Fundamentals - Lecture 6,أساسيات ديف أوبس - المحاضرة 6,2025-02-07,Yes
+L00755,C069,7,DevOps Fundamentals - Lecture 7,أساسيات ديف أوبس - المحاضرة 7,2025-02-08,Yes
+L00756,C069,8,DevOps Fundamentals - Lecture 8,أساسيات ديف أوبس - المحاضرة 8,2025-02-09,Yes
+L00757,C069,9,DevOps Fundamentals - Lecture 9,أساسيات ديف أوبس - المحاضرة 9,2025-02-10,Yes
+L00758,C069,10,DevOps Fundamentals - Lecture 10,أساسيات ديف أوبس - المحاضرة 10,2025-02-11,Yes
+L00759,C069,11,DevOps Fundamentals - Lecture 11,أساسيات ديف أوبس - المحاضرة 11,2025-02-12,Yes
+L00760,C070,1,Design Thinking - Lecture 1,التفكير التصميمي - المحاضرة 1,2025-02-02,Yes
+L00761,C070,2,Design Thinking - Lecture 2,التفكير التصميمي - المحاضرة 2,2025-02-03,Yes
+L00762,C070,3,Design Thinking - Lecture 3,التفكير التصميمي - المحاضرة 3,2025-02-04,Yes
+L00763,C070,4,Design Thinking - Lecture 4,التفكير التصميمي - المحاضرة 4,2025-02-05,Yes
+L00764,C070,5,Design Thinking - Lecture 5,التفكير التصميمي - المحاضرة 5,2025-02-06,Yes
+L00765,C070,6,Design Thinking - Lecture 6,التفكير التصميمي - المحاضرة 6,2025-02-07,Yes
+L00766,C070,7,Design Thinking - Lecture 7,التفكير التصميمي - المحاضرة 7,2025-02-08,Yes
+L00767,C070,8,Design Thinking - Lecture 8,التفكير التصميمي - المحاضرة 8,2025-02-09,Yes
+L00768,C070,9,Design Thinking - Lecture 9,التفكير التصميمي - المحاضرة 9,2025-02-10,Yes
+L00769,C070,10,Design Thinking - Lecture 10,التفكير التصميمي - المحاضرة 10,2025-02-11,Yes
+L00770,C070,11,Design Thinking - Lecture 11,التفكير التصميمي - المحاضرة 11,2025-02-12,Yes
+L00771,C071,1,Biomedical Signals - Lecture 1,الإشارات الحيوية - المحاضرة 1,2025-02-02,Yes
+L00772,C071,2,Biomedical Signals - Lecture 2,الإشارات الحيوية - المحاضرة 2,2025-02-03,Yes
+L00773,C071,3,Biomedical Signals - Lecture 3,الإشارات الحيوية - المحاضرة 3,2025-02-04,Yes
+L00774,C071,4,Biomedical Signals - Lecture 4,الإشارات الحيوية - المحاضرة 4,2025-02-05,Yes
+L00775,C071,5,Biomedical Signals - Lecture 5,الإشارات الحيوية - المحاضرة 5,2025-02-06,Yes
+L00776,C071,6,Biomedical Signals - Lecture 6,الإشارات الحيوية - المحاضرة 6,2025-02-07,Yes
+L00777,C071,7,Biomedical Signals - Lecture 7,الإشارات الحيوية - المحاضرة 7,2025-02-08,Yes
+L00778,C071,8,Biomedical Signals - Lecture 8,الإشارات الحيوية - المحاضرة 8,2025-02-09,Yes
+L00779,C071,9,Biomedical Signals - Lecture 9,الإشارات الحيوية - المحاضرة 9,2025-02-10,Yes
+L00780,C071,10,Biomedical Signals - Lecture 10,الإشارات الحيوية - المحاضرة 10,2025-02-11,Yes
+L00781,C071,11,Biomedical Signals - Lecture 11,الإشارات الحيوية - المحاضرة 11,2025-02-12,Yes
+L00782,C072,1,Medical Image Processing - Lecture 1,معالجة الصور الطبية - المحاضرة 1,2025-02-02,Yes
+L00783,C072,2,Medical Image Processing - Lecture 2,معالجة الصور الطبية - المحاضرة 2,2025-02-03,Yes
+L00784,C072,3,Medical Image Processing - Lecture 3,معالجة الصور الطبية - المحاضرة 3,2025-02-04,Yes
+L00785,C072,4,Medical Image Processing - Lecture 4,معالجة الصور الطبية - المحاضرة 4,2025-02-05,Yes
+L00786,C072,5,Medical Image Processing - Lecture 5,معالجة الصور الطبية - المحاضرة 5,2025-02-06,Yes
+L00787,C072,6,Medical Image Processing - Lecture 6,معالجة الصور الطبية - المحاضرة 6,2025-02-07,Yes
+L00788,C072,7,Medical Image Processing - Lecture 7,معالجة الصور الطبية - المحاضرة 7,2025-02-08,Yes
+L00789,C072,8,Medical Image Processing - Lecture 8,معالجة الصور الطبية - المحاضرة 8,2025-02-09,Yes
+L00790,C072,9,Medical Image Processing - Lecture 9,معالجة الصور الطبية - المحاضرة 9,2025-02-10,Yes
+L00791,C072,10,Medical Image Processing - Lecture 10,معالجة الصور الطبية - المحاضرة 10,2025-02-11,Yes
+L00792,C072,11,Medical Image Processing - Lecture 11,معالجة الصور الطبية - المحاضرة 11,2025-02-12,Yes
+L00793,C073,1,Anatomy & Physiology - Lecture 1,التشريح ووظائف الأعضاء - المحاضرة 1,2025-02-02,Yes
+L00794,C073,2,Anatomy & Physiology - Lecture 2,التشريح ووظائف الأعضاء - المحاضرة 2,2025-02-03,Yes
+L00795,C073,3,Anatomy & Physiology - Lecture 3,التشريح ووظائف الأعضاء - المحاضرة 3,2025-02-04,Yes
+L00796,C073,4,Anatomy & Physiology - Lecture 4,التشريح ووظائف الأعضاء - المحاضرة 4,2025-02-05,Yes
+L00797,C073,5,Anatomy & Physiology - Lecture 5,التشريح ووظائف الأعضاء - المحاضرة 5,2025-02-06,Yes
+L00798,C073,6,Anatomy & Physiology - Lecture 6,التشريح ووظائف الأعضاء - المحاضرة 6,2025-02-07,Yes
+L00799,C073,7,Anatomy & Physiology - Lecture 7,التشريح ووظائف الأعضاء - المحاضرة 7,2025-02-08,Yes
+L00800,C073,8,Anatomy & Physiology - Lecture 8,التشريح ووظائف الأعضاء - المحاضرة 8,2025-02-09,Yes
+L00801,C073,9,Anatomy & Physiology - Lecture 9,التشريح ووظائف الأعضاء - المحاضرة 9,2025-02-10,Yes
+L00802,C073,10,Anatomy & Physiology - Lecture 10,التشريح ووظائف الأعضاء - المحاضرة 10,2025-02-11,Yes
+L00803,C073,11,Anatomy & Physiology - Lecture 11,التشريح ووظائف الأعضاء - المحاضرة 11,2025-02-12,Yes
+L00804,C074,1,Biomedical Instrumentation - Lecture 1,أجهزة القياس الطبية - المحاضرة 1,2025-02-02,Yes
+L00805,C074,2,Biomedical Instrumentation - Lecture 2,أجهزة القياس الطبية - المحاضرة 2,2025-02-03,Yes
+L00806,C074,3,Biomedical Instrumentation - Lecture 3,أجهزة القياس الطبية - المحاضرة 3,2025-02-04,Yes
+L00807,C074,4,Biomedical Instrumentation - Lecture 4,أجهزة القياس الطبية - المحاضرة 4,2025-02-05,Yes
+L00808,C074,5,Biomedical Instrumentation - Lecture 5,أجهزة القياس الطبية - المحاضرة 5,2025-02-06,Yes
+L00809,C074,6,Biomedical Instrumentation - Lecture 6,أجهزة القياس الطبية - المحاضرة 6,2025-02-07,Yes
+L00810,C074,7,Biomedical Instrumentation - Lecture 7,أجهزة القياس الطبية - المحاضرة 7,2025-02-08,Yes
+L00811,C074,8,Biomedical Instrumentation - Lecture 8,أجهزة القياس الطبية - المحاضرة 8,2025-02-09,Yes
+L00812,C074,9,Biomedical Instrumentation - Lecture 9,أجهزة القياس الطبية - المحاضرة 9,2025-02-10,Yes
+L00813,C074,10,Biomedical Instrumentation - Lecture 10,أجهزة القياس الطبية - المحاضرة 10,2025-02-11,Yes
+L00814,C074,11,Biomedical Instrumentation - Lecture 11,أجهزة القياس الطبية - المحاضرة 11,2025-02-12,Yes
+L00815,C075,1,Biosensors - Lecture 1,المجسات الحيوية - المحاضرة 1,2025-02-02,Yes
+L00816,C075,2,Biosensors - Lecture 2,المجسات الحيوية - المحاضرة 2,2025-02-03,Yes
+L00817,C075,3,Biosensors - Lecture 3,المجسات الحيوية - المحاضرة 3,2025-02-04,Yes
+L00818,C075,4,Biosensors - Lecture 4,المجسات الحيوية - المحاضرة 4,2025-02-05,Yes
+L00819,C075,5,Biosensors - Lecture 5,المجسات الحيوية - المحاضرة 5,2025-02-06,Yes
+L00820,C075,6,Biosensors - Lecture 6,المجسات الحيوية - المحاضرة 6,2025-02-07,Yes
+L00821,C075,7,Biosensors - Lecture 7,المجسات الحيوية - المحاضرة 7,2025-02-08,Yes
+L00822,C075,8,Biosensors - Lecture 8,المجسات الحيوية - المحاضرة 8,2025-02-09,Yes
+L00823,C075,9,Biosensors - Lecture 9,المجسات الحيوية - المحاضرة 9,2025-02-10,Yes
+L00824,C075,10,Biosensors - Lecture 10,المجسات الحيوية - المحاضرة 10,2025-02-11,Yes
+L00825,C075,11,Biosensors - Lecture 11,المجسات الحيوية - المحاضرة 11,2025-02-12,Yes
+L00826,C076,1,Clinical Engineering - Lecture 1,الهندسة السريرية - المحاضرة 1,2025-02-02,Yes
+L00827,C076,2,Clinical Engineering - Lecture 2,الهندسة السريرية - المحاضرة 2,2025-02-03,Yes
+L00828,C076,3,Clinical Engineering - Lecture 3,الهندسة السريرية - المحاضرة 3,2025-02-04,Yes
+L00829,C076,4,Clinical Engineering - Lecture 4,الهندسة السريرية - المحاضرة 4,2025-02-05,Yes
+L00830,C076,5,Clinical Engineering - Lecture 5,الهندسة السريرية - المحاضرة 5,2025-02-06,Yes
+L00831,C076,6,Clinical Engineering - Lecture 6,الهندسة السريرية - المحاضرة 6,2025-02-07,Yes
+L00832,C076,7,Clinical Engineering - Lecture 7,الهندسة السريرية - المحاضرة 7,2025-02-08,Yes
+L00833,C076,8,Clinical Engineering - Lecture 8,الهندسة السريرية - المحاضرة 8,2025-02-09,Yes
+L00834,C076,9,Clinical Engineering - Lecture 9,الهندسة السريرية - المحاضرة 9,2025-02-10,Yes
+L00835,C076,10,Clinical Engineering - Lecture 10,الهندسة السريرية - المحاضرة 10,2025-02-11,Yes
+L00836,C076,11,Clinical Engineering - Lecture 11,الهندسة السريرية - المحاضرة 11,2025-02-12,Yes
+L00837,C077,1,Neuroimaging - Lecture 1,تصوير الأعصاب - المحاضرة 1,2025-02-02,Yes
+L00838,C077,2,Neuroimaging - Lecture 2,تصوير الأعصاب - المحاضرة 2,2025-02-03,Yes
+L00839,C077,3,Neuroimaging - Lecture 3,تصوير الأعصاب - المحاضرة 3,2025-02-04,Yes
+L00840,C077,4,Neuroimaging - Lecture 4,تصوير الأعصاب - المحاضرة 4,2025-02-05,Yes
+L00841,C077,5,Neuroimaging - Lecture 5,تصوير الأعصاب - المحاضرة 5,2025-02-06,Yes
+L00842,C077,6,Neuroimaging - Lecture 6,تصوير الأعصاب - المحاضرة 6,2025-02-07,Yes
+L00843,C077,7,Neuroimaging - Lecture 7,تصوير الأعصاب - المحاضرة 7,2025-02-08,Yes
+L00844,C077,8,Neuroimaging - Lecture 8,تصوير الأعصاب - المحاضرة 8,2025-02-09,Yes
+L00845,C077,9,Neuroimaging - Lecture 9,تصوير الأعصاب - المحاضرة 9,2025-02-10,Yes
+L00846,C077,10,Neuroimaging - Lecture 10,تصوير الأعصاب - المحاضرة 10,2025-02-11,Yes
+L00847,C077,11,Neuroimaging - Lecture 11,تصوير الأعصاب - المحاضرة 11,2025-02-12,Yes
+L00848,C078,1,Medical Robotics - Lecture 1,الروبوتات الطبية - المحاضرة 1,2025-02-02,Yes
+L00849,C078,2,Medical Robotics - Lecture 2,الروبوتات الطبية - المحاضرة 2,2025-02-03,Yes
+L00850,C078,3,Medical Robotics - Lecture 3,الروبوتات الطبية - المحاضرة 3,2025-02-04,Yes
+L00851,C078,4,Medical Robotics - Lecture 4,الروبوتات الطبية - المحاضرة 4,2025-02-05,Yes
+L00852,C078,5,Medical Robotics - Lecture 5,الروبوتات الطبية - المحاضرة 5,2025-02-06,Yes
+L00853,C078,6,Medical Robotics - Lecture 6,الروبوتات الطبية - المحاضرة 6,2025-02-07,Yes
+L00854,C078,7,Medical Robotics - Lecture 7,الروبوتات الطبية - المحاضرة 7,2025-02-08,Yes
+L00855,C078,8,Medical Robotics - Lecture 8,الروبوتات الطبية - المحاضرة 8,2025-02-09,Yes
+L00856,C078,9,Medical Robotics - Lecture 9,الروبوتات الطبية - المحاضرة 9,2025-02-10,Yes
+L00857,C078,10,Medical Robotics - Lecture 10,الروبوتات الطبية - المحاضرة 10,2025-02-11,Yes
+L00858,C078,11,Medical Robotics - Lecture 11,الروبوتات الطبية - المحاضرة 11,2025-02-12,Yes
+L00859,C079,1,Medical Data Analysis - Lecture 1,تحليل البيانات الطبية - المحاضرة 1,2025-02-02,Yes
+L00860,C079,2,Medical Data Analysis - Lecture 2,تحليل البيانات الطبية - المحاضرة 2,2025-02-03,Yes
+L00861,C079,3,Medical Data Analysis - Lecture 3,تحليل البيانات الطبية - المحاضرة 3,2025-02-04,Yes
+L00862,C079,4,Medical Data Analysis - Lecture 4,تحليل البيانات الطبية - المحاضرة 4,2025-02-05,Yes
+L00863,C079,5,Medical Data Analysis - Lecture 5,تحليل البيانات الطبية - المحاضرة 5,2025-02-06,Yes
+L00864,C079,6,Medical Data Analysis - Lecture 6,تحليل البيانات الطبية - المحاضرة 6,2025-02-07,Yes
+L00865,C079,7,Medical Data Analysis - Lecture 7,تحليل البيانات الطبية - المحاضرة 7,2025-02-08,Yes
+L00866,C079,8,Medical Data Analysis - Lecture 8,تحليل البيانات الطبية - المحاضرة 8,2025-02-09,Yes
+L00867,C079,9,Medical Data Analysis - Lecture 9,تحليل البيانات الطبية - المحاضرة 9,2025-02-10,Yes
+L00868,C079,10,Medical Data Analysis - Lecture 10,تحليل البيانات الطبية - المحاضرة 10,2025-02-11,Yes
+L00869,C079,11,Medical Data Analysis - Lecture 11,تحليل البيانات الطبية - المحاضرة 11,2025-02-12,Yes
+L00870,C080,1,Healthcare Information Systems - Lecture 1,نظم معلومات الرعاية الصحية - المحاضرة 1,2025-02-02,Yes
+L00871,C080,2,Healthcare Information Systems - Lecture 2,نظم معلومات الرعاية الصحية - المحاضرة 2,2025-02-03,Yes
+L00872,C080,3,Healthcare Information Systems - Lecture 3,نظم معلومات الرعاية الصحية - المحاضرة 3,2025-02-04,Yes
+L00873,C080,4,Healthcare Information Systems - Lecture 4,نظم معلومات الرعاية الصحية - المحاضرة 4,2025-02-05,Yes
+L00874,C080,5,Healthcare Information Systems - Lecture 5,نظم معلومات الرعاية الصحية - المحاضرة 5,2025-02-06,Yes
+L00875,C080,6,Healthcare Information Systems - Lecture 6,نظم معلومات الرعاية الصحية - المحاضرة 6,2025-02-07,Yes
+L00876,C080,7,Healthcare Information Systems - Lecture 7,نظم معلومات الرعاية الصحية - المحاضرة 7,2025-02-08,Yes
+L00877,C080,8,Healthcare Information Systems - Lecture 8,نظم معلومات الرعاية الصحية - المحاضرة 8,2025-02-09,Yes
+L00878,C080,9,Healthcare Information Systems - Lecture 9,نظم معلومات الرعاية الصحية - المحاضرة 9,2025-02-10,Yes
+L00879,C080,10,Healthcare Information Systems - Lecture 10,نظم معلومات الرعاية الصحية - المحاضرة 10,2025-02-11,Yes
+L00880,C080,11,Healthcare Information Systems - Lecture 11,نظم معلومات الرعاية الصحية - المحاضرة 11,2025-02-12,Yes

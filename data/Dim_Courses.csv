@@ -1,0 +1,81 @@
+﻿Course_ID,course_name_english,course_name_arabic,course_department_english,course_department_arabic,course_system_type,course_academic_year,course_academic_term,course_credit_hours,course_instructor_id,course_teaching_assistant_id,course_number_of_lectures
+C001,Programming Fundamentals,أساسيات البرمجة,General,عام,General,1,1,3,I001,I018,11
+C002,Discrete Mathematics,الرياضيات المتقطعة,General,عام,General,1,1,3,I012,I017,11
+C003,Introduction to Computer Systems,مقدمة في نظم الحاسب,General,عام,General,1,1,3,I001,I018,11
+C004,Logic Design & Digital Circuits,الدوائر الرقمية وتصميم المنطق,General,عام,General,1,1,3,I013,I014,11
+C005,Introduction to Information Technology,مقدمة في تكنولوجيا المعلومات,General,عام,General,1,1,3,I001,I018,11
+C006,Object-Oriented Programming,البرمجة الكائنية,General,عام,General,1,2,3,I001,I018,11
+C007,Linear Algebra,الجبر الخطي,General,عام,General,1,2,3,I001,I018,11
+C008,Computer Skills,مهارات الحاسب,General,عام,General,1,2,3,I002,I014,11
+C009,Technical Writing,الكتابة الفنية,General,عام,General,1,2,3,I002,I014,11
+C010,Introduction to Algorithms,مقدمة في الخوارزميات,General,عام,General,1,2,3,I004,I022,11
+C011,Data Structures,هياكل البيانات,General,عام,General,2,1,3,I004,I022,11
+C012,Operating Systems,نظم التشغيل,General,عام,General,2,1,3,I004,I022,11
+C013,Database Systems,نظم قواعد البيانات,General,عام,General,2,1,3,I004,I022,11
+C014,Computer Networks,شبكات الحاسب,General,عام,General,2,1,3,I004,I022,11
+C015,Probability & Statistics,الاحتمالات والإحصاء,General,عام,General,2,1,3,I002,I017,11
+C016,Web Development Basics,أساسيات تطوير الويب,General,عام,General,2,2,3,I001,I018,11
+C017,Advanced Programming,برمجة متقدمة,General,عام,General,2,2,3,I001,I018,11
+C018,Numerical Methods,الأساليب العددية,General,عام,General,2,2,3,I004,I022,11
+C019,Network Fundamentals,أساسيات الشبكات,General,عام,General,2,2,3,I004,I022,11
+C020,Information Security Basics,أساسيات أمن المعلومات,General,عام,General,2,2,3,I004,I022,11
+C021,Algorithms,الخوارزميات,Computer Science,علوم الحاسب,General,3,1,3,I004,I022,11
+C022,Computer Architecture,هندسة الحاسب,Computer Science,علوم الحاسب,General,3,1,3,I004,I022,11
+C023,Operating Systems 2,نظم التشغيل ٢,Computer Science,علوم الحاسب,General,3,1,3,I004,I022,11
+C024,Compiler Construction,بناء المترجمات,Computer Science,علوم الحاسب,General,3,1,3,I004,I022,11
+C025,Artificial Intelligence,الذكاء الاصطناعي,Computer Science,علوم الحاسب,General,3,1,3,I004,I022,11
+C026,Distributed Systems,نظم موزعة,Computer Science,علوم الحاسب,General,3,2,3,I004,I022,11
+C027,Parallel Computing,الحوسبة المتوازية,Computer Science,علوم الحاسب,General,3,2,3,I004,I022,11
+C028,Advanced Algorithms,الخوارزميات المتقدمة,Computer Science,علوم الحاسب,General,3,2,3,I004,I022,11
+C029,Theory of Computation,نظرية الحوسبة,Computer Science,علوم الحاسب,General,3,2,3,I004,I022,11
+C030,Software Design Patterns,أنماط تصميم البرمجيات,Computer Science,علوم الحاسب,General,3,2,3,I004,I022,11
+C031,Information Systems Analysis,تحليل نظم المعلومات,Information Systems,نظم المعلومات,General,3,1,3,I001,I018,11
+C032,Enterprise Systems,نظم المؤسسات,Information Systems,نظم المعلومات,General,3,1,3,I001,I018,11
+C033,Business Intelligence,ذكاء الأعمال,Information Systems,نظم المعلومات,General,3,1,3,I001,I018,11
+C034,E-Commerce Systems,نظم التجارة الإلكترونية,Information Systems,نظم المعلومات,General,3,1,3,I001,I018,11
+C035,Software Project Management,إدارة مشاريع البرمجيات,Information Systems,نظم المعلومات,General,3,1,3,I001,I018,11
+C036,Decision Support Systems,نظم دعم القرار,Information Systems,نظم المعلومات,General,3,2,3,I001,I018,11
+C037,Information Retrieval,استرجاع المعلومات,Information Systems,نظم المعلومات,General,3,2,3,I001,I018,11
+C038,Knowledge Management,إدارة المعرفة,Information Systems,نظم المعلومات,General,3,2,3,I001,I018,11
+C039,Database Administration,إدارة قواعد البيانات,Information Systems,نظم المعلومات,General,3,2,3,I001,I018,11
+C040,ERP Systems,نظم تخطيط موارد المؤسسات,Information Systems,نظم المعلومات,General,3,2,3,I001,I018,11
+C041,E-Learning Systems,أنظمة التعلم الإلكتروني,Information Technology,تكنولوجيا المعلومات,General,3,1,3,I006,I014,11
+C042,Network Programming,برمجة الشبكات,Information Technology,تكنولوجيا المعلومات,General,3,1,3,I013,I014,11
+C043,Computer Vision,الرؤية الحاسوبية,Information Technology,تكنولوجيا المعلومات,General,3,1,3,I013,I014,11
+C044,Mobile Computing,الحوسبة المتنقلة,Information Technology,تكنولوجيا المعلومات,General,3,1,3,I006,I017,11
+C045,Multimedia Systems,نظم الوسائط المتعددة,Information Technology,تكنولوجيا المعلومات,General,3,1,3,I012,I014,11
+C046,Advanced Networking,الشبكات المتقدمة,Information Technology,تكنولوجيا المعلومات,General,3,2,3,I006,I014,11
+C047,Wireless Communication,الاتصالات اللاسلكية,Information Technology,تكنولوجيا المعلومات,General,3,2,3,I012,I014,11
+C048,Cloud Infrastructure,البنية التحتية السحابية,Information Technology,تكنولوجيا المعلومات,General,3,2,3,I013,I017,11
+C049,Digital Image Processing,معالجة الصور الرقمية,Information Technology,تكنولوجيا المعلومات,General,3,2,3,I006,I017,11
+C050,Distributed Networks,شبكات موزعة,Information Technology,تكنولوجيا المعلومات,General,3,2,3,I006,I014,11
+C051,Machine Learning,تعلم الآلة,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,1,3,I007,I021,11
+C052,Deep Learning,التعلم العميق,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,1,3,I007,I021,11
+C053,Natural Language Processing,معالجة اللغات الطبيعية,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,1,3,I007,I021,11
+C054,Computer Vision,الرؤية الحاسوبية,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,1,3,I007,I021,11
+C055,AI Ethics & Decision Making,أخلاقيات الذكاء الاصطناعي,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,1,3,I007,I021,11
+C056,Reinforcement Learning,التعلم التعزيزي,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,2,3,I007,I021,11
+C057,Neural Networks,الشبكات العصبية,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,2,3,I007,I021,11
+C058,AI in Healthcare,الذكاء الاصطناعي في الرعاية الصحية,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,2,3,I007,I021,11
+C059,Data Mining,تنقيب البيانات,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,2,3,I007,I021,11
+C060,Pattern Recognition,التعرف على الأنماط,Artificial Intelligence,الذكاء الاصطناعي,Credit,1,2,3,I007,I021,11
+C061,Software Engineering,هندسة البرمجيات,Software Engineering,هندسة البرمجيات,Credit,1,1,3,I011,I026,11
+C062,Software Testing & Quality,اختبار وضمان جودة البرمجيات,Software Engineering,هندسة البرمجيات,Credit,1,1,3,I011,I026,11
+C063,Requirements Engineering,هندسة المتطلبات,Software Engineering,هندسة البرمجيات,Credit,1,1,3,I008,I026,11
+C064,Agile Methodologies,الأساليب الرشيقة للتطوير,Software Engineering,هندسة البرمجيات,Credit,1,1,3,I005,I015,11
+C065,Software Architecture,هندسة البرمجيات المعمارية,Software Engineering,هندسة البرمجيات,Credit,1,1,3,I005,I015,11
+C066,Software Metrics,مقاييس البرمجيات,Software Engineering,هندسة البرمجيات,Credit,1,2,3,I005,I015,11
+C067,Project Management,إدارة المشاريع,Software Engineering,هندسة البرمجيات,Credit,1,2,3,I005,I025,11
+C068,Version Control Systems,أنظمة التحكم في الإصدارات,Software Engineering,هندسة البرمجيات,Credit,1,2,3,I011,I025,11
+C069,DevOps Fundamentals,أساسيات ديف أوبس,Software Engineering,هندسة البرمجيات,Credit,1,2,3,I011,I015,11
+C070,Design Thinking,التفكير التصميمي,Software Engineering,هندسة البرمجيات,Credit,1,2,3,I005,I020,11
+C071,Biomedical Signals,الإشارات الحيوية,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,1,3,I003,I023,11
+C072,Medical Image Processing,معالجة الصور الطبية,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,1,3,I010,I016,11
+C073,Anatomy & Physiology,التشريح ووظائف الأعضاء,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,1,3,I010,I023,11
+C074,Biomedical Instrumentation,أجهزة القياس الطبية,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,1,3,I003,I023,11
+C075,Biosensors,المجسات الحيوية,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,1,3,I003,I016,11
+C076,Clinical Engineering,الهندسة السريرية,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,2,3,I003,I016,11
+C077,Neuroimaging,تصوير الأعصاب,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,2,3,I010,I016,11
+C078,Medical Robotics,الروبوتات الطبية,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,2,3,I003,I023,11
+C079,Medical Data Analysis,تحليل البيانات الطبية,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,2,3,I003,I023,11
+C080,Healthcare Information Systems,نظم معلومات الرعاية الصحية,Biomedical Engineering,الهندسة الطبية الحيوية,Credit,1,2,3,I003,I016,11

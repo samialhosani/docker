@@ -1,0 +1,27 @@
+﻿instructor_id,instructor_name_english,instructor_name_arabic,instructor_role,instructor_department_english,instructor_department_arabic
+I001,Ahmed Zaky,أحمد زكي,Doctor,Information Systems,نظم المعلومات
+I002,Mohamed Soliman,محمد سليمان,Doctor,Information Technology,تكنولوجيا المعلومات
+I003,Karim Kamel,كريم كامل,Doctor,Biomedical Engineering,الهندسة الطبية الحيوية
+I004,Youssef Mostafa,يوسف مصطفى,Doctor,Computer Science,علوم الحاسب
+I005,Marwan Gamal,مروان جمال,Doctor,Software Engineering,هندسة البرمجيات
+I006,Omar Salah,عمر صلاح,Doctor,Information Technology,تكنولوجيا المعلومات
+I007,Ibrahim Nasser,إبراهيم ناصر,Doctor,Artificial Intelligence,الذكاء الاصطناعي
+I008,Mahmoud Adel,محمود عادل,Doctor,Software Engineering,هندسة البرمجيات
+I009,Sara Hassan,سارة حسن,Doctor,General,عام
+I010,Mona Fouad,منى فؤاد,Doctor,Biomedical Engineering,الهندسة الطبية الحيوية
+I011,Fatma Zaky,فاطمة زكي,Doctor,Software Engineering,هندسة البرمجيات
+I012,Heba Soliman,هبة سليمان,Doctor,Information Technology,تكنولوجيا المعلومات
+I013,Nour Kamel,نور كامل,Doctor,Information Technology,تكنولوجيا المعلومات
+I014,Ahmed Mostafa,أحمد مصطفى,Teaching Assistant,Information Technology,تكنولوجيا المعلومات
+I015,Mohamed Gamal,محمد جمال,Teaching Assistant,Software Engineering,هندسة البرمجيات
+I016,Karim Salah,كريم صلاح,Teaching Assistant,Biomedical Engineering,الهندسة الطبية الحيوية
+I017,Youssef Nasser,يوسف ناصر,Teaching Assistant,Information Technology,تكنولوجيا المعلومات
+I018,Marwan Adel,مروان عادل,Teaching Assistant,Information Systems,نظم المعلومات
+I019,Omar Hassan,عمر حسن,Teaching Assistant,Software Engineering,هندسة البرمجيات
+I020,Ibrahim Fouad,إبراهيم فؤاد,Teaching Assistant,Software Engineering,هندسة البرمجيات
+I021,Mahmoud Zaky,محمود زكي,Teaching Assistant,Artificial Intelligence,الذكاء الاصطناعي
+I022,Sara Soliman,سارة سليمان,Teaching Assistant,Computer Science,علوم الحاسب
+I023,Mona Kamel,منى كامل,Teaching Assistant,Biomedical Engineering,الهندسة الطبية الحيوية
+I024,Fatma Mostafa,فاطمة مصطفى,Teaching Assistant,General,عام
+I025,Heba Gamal,هبة جمال,Teaching Assistant,Software Engineering,هندسة البرمجيات
+I026,Nour Salah,نور صلاح,Teaching Assistant,Software Engineering,هندسة البرمجيات
