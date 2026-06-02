@@ -1,0 +1,25 @@
+# Web Framework
+fastapi
+uvicorn
+pydantic
+
+# Database & Data Processing
+pandas
+sqlite-vec
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+
+# LLM Providers (Include the ones you plan to use)
+langchain-groq
+langchain-openai
+langchain-anthropic
+langchain-ollama
+
+# Document Loaders & Embeddings
+pypdf
+sentence-transformers
